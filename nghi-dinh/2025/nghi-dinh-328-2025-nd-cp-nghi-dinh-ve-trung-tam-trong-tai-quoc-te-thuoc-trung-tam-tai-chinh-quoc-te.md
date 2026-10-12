@@ -1,0 +1,165 @@
+---
+title: Nghị định số 328/2025/NĐ-CP Về Trung tâm trọng tài quốc tế thuộc Trung tâm tài chính quốc tế tại Việt Nam
+identifier: 328/2025/NĐ-CP
+type: decree
+document_type: Nghị định
+jurisdiction: vn
+language: vi
+issuer: Chính phủ
+date: '2025-12-18'
+effective: '2025-12-18'
+consolidated: false
+status: in_force
+legal_force: InForce
+source: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-328-2025-nd-cp-46871.htm
+source_format: doc
+gazette: Công báo số 1747 + 1748 ngày 2025-12-31
+vbpl_url: https://vbpl.vn/van-ban/chi-tiet/nghi-dinh-so-328-2025-nd-cp-ve-trung-tam-trong-tai-quoc-te-thuoc-trung-tam-tai-chinh-quoc-te-tai-viet-nam--187449
+retrieved: '2026-10-12'
+---
+
+# Nghị định số 328/2025/NĐ-CP Về Trung tâm trọng tài quốc tế thuộc Trung tâm tài chính quốc tế tại Việt Nam
+
+VĂN BẢN QUY PHẠM PHÁP LUẬT
+
+CHÍNH PHỦ
+
+CHÍNH PHỦ
+
+Số: 328/2025/NĐ-CP
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
+
+Hà Nội, ngày 18 tháng 12 năm 2025
+
+NGHỊ ĐỊNH
+
+Về Trung tâm trọng tài quốc tế thuộc
+
+Trung tâm tài chính quốc tế tại Việt Nam
+
+Căn cứ Luật Tổ chức Chính phủ số 63/2025/QH15;
+
+Căn cứ Luật Trọng tài thương mại số 54/2010/QH12 được sửa đổi, bổ sung bởi Luật số 81/2025/QH15 sửa đổi, bổ sung một số điều của Luật Tổ chức Tòa án nhân dân;
+
+Căn cứ Nghị quyết số 222/2025/QH15 về Trung tâm tài chính quốc tế tại Việt Nam;
+
+Theo đề nghị của Bộ trưởng Bộ Tư pháp;
+
+Chính phủ ban hành Nghị định về Trung tâm trọng tài quốc tế thuộc Trung tâm tài chính quốc tế tại Việt Nam.
+
+## Chương I. QUY ĐỊNH CHUNG
+
+### Điều 1. Phạm vi điều chỉnh
+
+Nghị định này quy định chi tiết và hướng dẫn thi hành điểm c2 khoản 1 Điều 9, khoản 3 Điều 30 của Nghị quyết số 222/2025/QH15 ngày 27 tháng 6 năm 2025 của Quốc hội về Trung tâm tài chính quốc tế tại Việt Nam (sau đây gọi là Nghị quyết số 222/2025/QH15) về việc thành lập, hoạt động của Trung tâm trọng tài quốc tế thuộc Trung tâm tài chính quốc tế tại Việt Nam (sau đây gọi là Trung tâm trọng tài quốc tế); tiêu chuẩn sáng lập viên, trọng tài viên Trung tâm trọng tài quốc tế.
+
+### Điều 2. Đối tượng áp dụng
+
+1\. Trung tâm trọng tài quốc tế, sáng lập viên, trọng tài viên Trung tâm trọng tài quốc tế.
+
+2\. Thành viên Trung tâm tài chính quốc tế, nhà đầu tư, tổ chức, cá nhân có liên quan đến hoạt động đầu tư, kinh doanh và giải quyết tranh chấp tại Trung tâm trọng tài quốc tế.
+
+3\. Cơ quan điều hành, Cơ quan giám sát Trung tâm tài chính quốc tế.
+
+4\. Cơ quan, tổ chức, cá nhân khác có liên quan.
+
+## Chương II. THÀNH LẬP VÀ HOẠT ĐỘNG CỦA TRUNG TÂM TRỌNG TÀI QUỐC TẾ
+
+### Điều 3. Thành lập Trung tâm trọng tài quốc tế
+
+1\. Trung tâm trọng tài quốc tế do Bộ trưởng Bộ Tư pháp cấp phép thành lập khi có ít nhất 05 sáng lập viên có đủ tiêu chuẩn quy định tại khoản 1 Điều 7 của Nghị định này đề nghị thành lập.
+
+2\. Trung tâm trọng tài quốc tế được đặt tại Trung tâm tài chính quốc tế tại Thành phố Hồ Chí Minh và có tư cách pháp nhân, con dấu, tài khoản riêng, hoạt động độc lập về tổ chức, tài chính.
+
+3\. Việc thành lập, đăng ký hoạt động, công bố thành lập Trung tâm trọng tài quốc tế thực hiện theo quy định của pháp luật về trọng tài thương mại và Nghị định này.
+
+### Điều 4. Hoạt động của Trung tâm trọng tài quốc tế
+
+1\. Hoạt động của Trung tâm trọng tài quốc tế thực hiện theo quy định của pháp luật về trọng tài thương mại, Nghị quyết số 222/2025/QH15 và Nghị định này.
+
+2\. Quyền và nghĩa vụ của Trung tâm trọng tài quốc tế thực hiện theo quy định của pháp luật về trọng tài thương mại.
+
+3\. Trung tâm trọng tài quốc tế có trách nhiệm bảo đảm hoạt động hiệu quả, công bằng và minh bạch.
+
+4\. Việc áp dụng pháp luật nước ngoài của Trung tâm trọng tài quốc tế thực hiện theo quy định tại khoản 2 Điều 6 của Nghị quyết số 222/2025/QH15 và khoản 2 Điều 14 của Luật Trọng tài thương mại.
+
+5\. Trường hợp các bên thỏa thuận giải quyết tranh chấp tại Trung tâm trọng tài quốc tế, các bên tranh chấp có quyền thỏa thuận từ bỏ quyền yêu cầu Tòa án hủy quyết định công nhận sự thỏa thuận của các bên hoặc phán quyết trọng tài có hiệu lực pháp luật của Hội đồng trọng tài thuộc Trung tâm trọng tài quốc tế. Tòa án không giải quyết yêu cầu hủy phán quyết, quyết định của Hội đồng trọng tài khi các bên đã có văn bản thỏa thuận từ bỏ quyền này.
+
+6\. Thỏa thuận từ bỏ quyền yêu cầu Tòa án hủy quyết định công nhận sự thỏa thuận của các bên hoặc phán quyết trọng tài có hiệu lực pháp luật của Hội đồng trọng tài thuộc Trung tâm trọng tài quốc tế là một phần của thỏa thuận trọng tài theo quy định của pháp luật trọng tài thương mại.
+
+Tòa án không được từ chối giải quyết yêu cầu hủy phán quyết, quyết định của Hội đồng trọng tài trong các trường hợp sau đây:
+
+a) Thỏa thuận từ bỏ thuộc các trường hợp thỏa thuận vô hiệu quy định tại Điều 18 của Luật Trọng tài thương mại;
+
+b) Thỏa thuận được lập sau thời điểm một bên nộp yêu cầu hủy phán quyết, quyết định của Hội đồng trọng tài ra Tòa án.
+
+### Điều 5. Thẩm quyền giải quyết tranh chấp của Trung tâm trọng tài quốc tế
+
+1\. Trung tâm trọng tài quốc tế có thẩm quyền giải quyết tranh chấp theo thỏa thuận giữa các bên liên quan đến hoạt động đầu tư, kinh doanh tại Trung tâm tài chính quốc tế theo quy tắc và quy định do Trung tâm trọng tài quốc tế ban hành, trừ các tranh chấp quy định tại khoản 2 Điều này.
+
+2\. Trung tâm trọng tài quốc tế không giải quyết các tranh chấp sau đây:
+
+a) Tranh chấp có đối tượng là quyết định hành chính, hành vi hành chính của cơ quan quản lý nhà nước hoặc người có thẩm quyền;
+
+b) Tranh chấp liên quan đến lao động;
+
+c) Tranh chấp liên quan đến quyền nhân thân của cá nhân;
+
+d) Vấn đề khác liên quan đến quản lý nhà nước đã được giải quyết bằng bản án, quyết định của cơ quan quản lý nhà nước có thẩm quyền, của Tòa án có thẩm quyền tại Việt Nam.
+
+### Điều 6. Chấm dứt hoạt động của Trung tâm trọng tài quốc tế
+
+1\. Hoạt động của Trung tâm trọng tài quốc tế chấm dứt trong các trường hợp sau đây:
+
+a) Bị thu hồi Giấy phép thành lập, Giấy đăng ký hoạt động theo quy định của pháp luật về trọng tài thương mại;
+
+b) Các trường hợp quy định tại Điều lệ của Trung tâm trọng tài quốc tế.
+
+2\. Trình tự, thủ tục, thẩm quyền chấm dứt hoạt động của Trung tâm trọng tài quốc tế thực hiện theo quy định của pháp luật về trọng tài thương mại.
+
+### Điều 7. Tiêu chuẩn của sáng lập viên, trọng tài viên Trung tâm trọng tài quốc tế
+
+1\. Người có đủ các tiêu chuẩn sau đây có thể làm sáng lập viên Trung tâm trọng tài quốc tế:
+
+a) Là công dân Việt Nam;
+
+b) Có năng lực pháp luật dân sự, năng lực hành vi dân sự đầy đủ theo quy định của HYPERLINK "https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-Dan-su-2005-33-2005-QH11-2463.aspx"Bộ luật Dân sự;
+
+c) Có trình độ đại học trở lên;
+
+d) Có trình độ Tiếng Anh từ bậc 5 trở lên trong khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam do Bộ Giáo dục và Đào tạo ban hành hoặc tương đương;
+
+đ) Có ít nhất 10 năm kinh nghiệm thực tiễn về giải quyết tranh chấp bằng trọng tài liên quan đến lĩnh vực đầu tư, kinh doanh; ưu tiên có kiến thức chuyên môn trong lĩnh vực tài chính, ngân hàng;
+
+e) Đã tham gia ban hành ít nhất 10 phán quyết trọng tài;
+
+g) Là trọng tài viên của một Trung tâm trọng tài được thành lập theo quy định của pháp luật Việt Nam.
+
+2\. Trọng tài viên Trung tâm trọng tài quốc tế bao gồm công dân Việt Nam và công dân nước ngoài. Trung tâm trọng tài quốc tế quy định tiêu chuẩn Trọng tài viên của tổ chức mình.
+
+3\. Các trường hợp sau đây không được làm Trọng tài viên:
+
+a) Người đang là Thẩm phán, Kiểm sát viên, Điều tra viên, Chấp hành viên, công chức thuộc Tòa án nhân dân, Viện kiểm sát nhân dân, Cơ quan thi hành án;
+
+b) Người đang là bị can, bị cáo, người đang chấp hành án hình sự hoặc đã chấp hành xong bản án nhưng chưa được xóa án tích.
+
+## Chương III. ĐIỀU KHOẢN THI HÀNH
+
+### Điều 8. Điều khoản thi hành
+
+1\. Nghị định này có hiệu lực thi hành từ ngày 18 tháng 12 năm 2025.
+
+2\. Trường hợp các văn bản dẫn chiếu tại Nghị định này được sửa đổi, bổ sung, thay thế thì thực hiện theo quy định tương ứng tại văn bản sửa đổi, bổ sung, thay thế.
+
+### Điều 9. Trách nhiệm thi hành
+
+Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân Thành phố Hồ Chí Minh, Chủ tịch Ủy ban nhân dân thành phố Đà Nẵng, các tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
+
+TM. CHÍNH PHỦ
+
+THỦ TƯỚNG
+
+Phạm Minh Chính

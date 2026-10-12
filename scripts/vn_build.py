@@ -371,7 +371,7 @@ def main(which="laws"):
             title = "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 2013"
         fm = {
             "title": title,
-            "identifier": ident if ident != "Không số" else None,
+            "identifier": ident if ident and ident != "Không số" else None,
             "type": CAT[t][0],
             "document_type": t,
             "jurisdiction": "vn",

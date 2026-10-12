@@ -1,6 +1,5 @@
 ---
 title: Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 2013
-identifier: ''
 type: constitution
 document_type: Hiến pháp
 jurisdiction: vn

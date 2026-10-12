@@ -1,0 +1,127 @@
+---
+title: Nghị định số 122/2024/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 14/2018/NĐ-CP ngày 23 tháng 01 năm 2018 của Chính phủ quy định chi tiết về hoạt động thương mại biên giới
+identifier: 122/2024/NĐ-CP
+type: decree
+document_type: Nghị định
+jurisdiction: vn
+language: vi
+issuer: Chính phủ
+date: '2024-10-04'
+effective: '2024-12-01'
+consolidated: false
+status: in_force
+legal_force: InForce
+source: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-122-2024-nd-cp-42850.htm
+source_format: doc
+gazette: Công báo số 1115 + 1116 ngày 2024-10-18
+vbpl_url: https://vbpl.vn/van-ban/chi-tiet/nghi-dinh-so-122-2024-nd-cp-sua-doi-bo-sung-mot-so-dieu-cua-nghi-dinh-so-14-2018-nd-cp-ngay-23-thang-01-nam-2018-cua-chinh-phu-quy-dinh-chi-tiet-ve-hoat-dong-thuong-mai-bien-gioi--171297
+retrieved: '2026-10-12'
+---
+
+# Nghị định số 122/2024/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 14/2018/NĐ-CP ngày 23 tháng 01 năm 2018 của Chính phủ quy định chi tiết về hoạt động thương mại biên giới
+
+VĂN BẢN QUY PHẠM PHÁP LUẬT
+
+CHÍNH PHỦ
+
+CHÍNH PHỦ
+
+Số: 122/2024/NĐ-CP
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
+
+Hà Nội, ngày 04 tháng 10 năm 2024
+
+NGHỊ ĐỊNH
+
+Sửa đổi, bổ sung một số điều của Nghị định số 14/2018/NĐ-CP
+
+ngày 23 tháng 01 năm 2018 của Chính phủ quy định chi tiết
+
+về hoạt động thương mại biên giới
+
+Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019;
+
+Căn cứ Luật Quản lý ngoại thương ngày 12 tháng 6 năm 2017;
+
+Theo đề nghị của Bộ trưởng Bộ Công Thương;
+
+Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của Nghị định số 14/2018/NĐ-CP ngày 23 tháng 01 năm 2018 của Chính phủ quy định chi tiết về hoạt động thương mại biên giới.
+
+## Điều 1. Sửa đổi, bổ sung một số điều của Nghị định số 14/2018/NĐ-CP ngày 23 tháng 01 năm 2018 của Chính phủ quy định chi tiết về hoạt động thương mại biên giới
+
+1\. Sửa đổi, bổ sung khoản 3 Điều 3 như sau:
+
+“3. Cư dân biên giới thuộc đối tượng áp dụng của Nghị định này là công dân Việt Nam có nơi thường trú tại xã, phường, thị trấn hoặc đơn vị hành chính tương đương có một phần địa giới hành chính trùng với đường biên giới quốc gia trên đất liền.”
+
+2\. Sửa đổi, bổ sung khoản 2 Điều 4 như sau:
+
+“2. Phương thức thanh toán
+
+a) Thanh toán qua ngân hàng;
+
+b) Thanh toán bù trừ giữa hàng hoá, dịch vụ xuất khẩu với hàng hoá, dịch vụ nhập khẩu (phần chênh lệch thanh toán qua ngân hàng);
+
+c) Thanh toán bằng tiền mặt chỉ áp dụng đối với hoạt động mua bán, trao đổi hàng hóa của cư dân biên giới.”
+
+3\. Bổ sung Điều 4a vào sau Điều 4 như sau:
+
+“Điều 4a. Tiêu chuẩn hàng hóa trong hoạt động thương mại biên giới
+
+Hàng hóa trong hoạt động mua bán, trao đổi hàng hóa qua biên giới của thương nhân, cư dân biên giới phải đáp ứng đầy đủ tiêu chuẩn, chất lượng, quy định về truy xuất nguồn gốc và các điều kiện khác theo quy định pháp luật của nước nhập khẩu.”
+
+4\. Sửa đổi, bổ sung khoản 1, khoản 2 Điều 16 như sau:
+
+“1. Thương nhân, công dân mang quốc tịch Việt Nam đã đăng ký cư trú tại khu vực biên giới.
+
+2\. Thương nhân, công dân mang quốc tịch của nước có chung đường biên giới, có Hộ chiếu hoặc các giấy tờ có giá trị thay thế hộ chiếu và thị thực, trừ trường hợp được miễn thị thực, còn giá trị sử dụng theo điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam số 47/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số HYPERLINK "https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Luat-Nhap-canh-xuat-canh-qua-canh-cu-tru-cua-nguoi-nuoc-ngoai-tai-Viet-Nam-sua-doi-2019-422706.aspx" \t "_blank" 51/2019/QH14 và Luật số 23/2023/QH15; thương nhân, hộ kinh doanh, cá nhân có đăng ký kinh doanh của nước có chung đường biên giới đã được cấp Giấy chứng nhận đăng ký kinh doanh theo quy định pháp luật của nước có chung đường biên giới.”
+
+5\. Sửa đổi, bổ sung khoản 1, khoản 3 của Điều 21 như sau:
+
+a) Sửa đổi, bổ sung khoản 1 như sau:
+
+“1. Chủ hàng hoặc người được chủ hàng ủy quyền, chủ phương tiện, người điều khiển phương tiện vận tải hàng hóa, nhân viên phục vụ trên xe, tàu, thuyền là công dân Việt Nam thực hiện theo quy định của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và Luật Xuất cảnh, nhập cảnh của công dân Việt Nam số HYPERLINK "https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Luat-Xuat-canh-nhap-canh-cua-cong-dan-Viet-Nam-2019-402073.aspx" \t "_blank" 49/2019/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 23/2023/QH15.
+
+Riêng người điều khiển phương tiện, ngoài giấy tờ quy định nêu trên còn phải có giấy phép điều khiển phương tiện phù hợp với loại phương tiện điều khiển.”
+
+b) Sửa đổi khoản 3 như sau:
+
+“3. Phương tiện, người điều khiển phương tiện vận tải hàng hóa và chủ thể kinh doanh của Việt Nam được đi qua các cửa khẩu, lối mở biên giới quy định tại Nghị định này để ra hoặc vào chợ biên giới của nước có chung đường biên giới, phải chịu sự kiểm tra, kiểm soát của các lực lượng quản lý chuyên ngành tại cửa khẩu, lối mở biên giới.”
+
+6\. Sửa đổi, bổ sung khoản 1, khoản 3 của Điều 22 như sau:
+
+a) Sửa đổi, bổ sung khoản 1 như sau:
+
+“1. Chủ hàng hoặc người được chủ hàng ủy quyền, chủ phương tiện, người điều khiển phương tiện vận tải hàng hóa, nhân viên phục vụ trên xe, tàu, thuyền là người nước ngoài nhập cảnh, xuất cảnh qua cửa khẩu biên giới thực hiện theo quy định của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam số 47/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số HYPERLINK "https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Luat-Nhap-canh-xuat-canh-qua-canh-cu-tru-cua-nguoi-nuoc-ngoai-tai-Viet-Nam-sua-doi-2019-422706.aspx" \t "_blank"51/2019/QH14 và Luật số 23/2023/QH15.”
+
+b) Sửa đổi khoản 3 như sau:
+
+“3. Phương tiện và công dân của nước có chung đường biên giới là người điều khiển phương tiện vận tải hàng hóa và chủ thể kinh doanh của nước có chung đường biên giới khi ra, vào chợ biên giới, chợ cửa khẩu và chợ trong Khu kinh tế cửa khẩu của Việt Nam để vận chuyển hàng hóa phải chịu sự kiểm tra, kiểm soát, kiểm dịch của các cơ quan quản lý nhà nước chuyên ngành tại cửa khẩu.”
+
+7\. Sửa đổi, bổ sung khoản 2 Điều 24 như sau:
+
+“2. Bộ Tài chính chủ trì, phối hợp với các bộ, ngành liên quan và Ủy ban nhân dân tỉnh biên giới:
+
+a) Hướng dẫn thực hiện chính sách thuế, phí và lệ phí;
+
+b) Thực hiện thủ tục, kiểm tra, giám sát, kiểm soát hải quan đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh; phương tiện vận tải xuất cảnh, nhập cảnh, quá cảnh.”
+
+## Điều 2. Điều khoản thi hành
+
+1\. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 12 năm 2024.
+
+2\. Trong năm 2029, Bộ Tài chính báo cáo Chính phủ xem xét, quyết định việc điều chỉnh số lần được miễn thuế và số tiền được miễn thuế cho nhập khẩu hàng hoá theo hình thức mua bán, trao đổi hàng hóa của cư dân biên giới.
+
+3\. Từ ngày 01 tháng 01 năm 2029, khi thực hiện hoạt động mua bán, trao đổi hàng hóa qua biên giới, cư dân biên giới phải có mặt để làm thủ tục xuất nhập khẩu.
+
+4\. Từ ngày 01 tháng 01 năm 2030, hàng hoá chỉ được làm thủ tục xuất nhập khẩu tại các cửa khẩu quốc tế; cửa khẩu chính (cửa khẩu song phương); cửa khẩu phụ; lối thông quan, đường chuyên dụng vận chuyển hàng hóa thuộc cửa khẩu quốc tế, cửa khẩu chính (cửa khẩu song phương); lối mở biên giới đã hoàn thành trình tự mở, nâng cấp cửa khẩu biên giới, lối mở biên giới theo quy định pháp luật hiện hành và đã đạt thỏa thuận song phương về cho phép xuất khẩu, nhập khẩu, trao đổi hàng hóa.
+
+5\. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và cơ quan, cá nhân liên quan chịu trách nhiệm thi hành Nghị định này./.
+
+TM. CHÍNH PHỦ
+
+THỦ TƯỚNG
+
+Phạm Minh Chính
