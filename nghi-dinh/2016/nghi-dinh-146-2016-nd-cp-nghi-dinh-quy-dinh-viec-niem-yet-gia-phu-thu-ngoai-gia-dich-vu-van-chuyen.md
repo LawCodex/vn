@@ -1,0 +1,163 @@
+---
+title: Nghị định số 146/2016/NĐ-CP Quy định việc niêm yết giá, phụ thu ngoài giá dịch vụ vận chuyển hàng hóa công-te-nơ bằng đường biển, giá dịch vụ tại cảng biển
+identifier: 146/2016/NĐ-CP
+type: decree
+document_type: Nghị định
+jurisdiction: vn
+language: vi
+issuer: Chính phủ
+date: '2016-11-02'
+effective: '2017-07-01'
+consolidated: false
+status: in_force
+legal_force: InForce
+source: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-146-2016-nd-cp-21251.htm
+source_format: pdf
+gazette: Công báo số 1173+1174 ngày 2016-11-12
+vbpl_url: https://vbpl.vn/van-ban/chi-tiet/nghi-dinh-so-146-2016-nd-cp-quy-dinh-viec-niem-yet-gia-phu-thu-ngoai-gia-dich-vu-van-chuyen-hang-hoa-cong-te-no-bang-duong-bien-gia-dich-vu-tai-cang-bien--115119
+retrieved: '2026-10-12'
+---
+
+# Nghị định số 146/2016/NĐ-CP Quy định việc niêm yết giá, phụ thu ngoài giá dịch vụ vận chuyển hàng hóa công-te-nơ bằng đường biển, giá dịch vụ tại cảng biển
+
+PHẦN VĂN BẢN QUY PHẠM PHÁP LUẬT
+
+CHÍNH PHỦ
+
+CHÍNH PHỦ
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
+
+Số: 146/2016/NĐ-CP
+
+Hà Nội, ngày 02 tháng 11 năm 2016
+
+NGHỊ ĐỊNH
+
+Quy định việc niêm yết giá, phụ thu ngoài giá dịch vụ vận chuyển hàng hóa công-te-nơ bằng đường biển, giá dịch vụ tại cảng biển
+
+Căn cứ Luật tổ chức Chính phủ ngày 19 tháng 6 năm 2015;
+
+Căn cứ Bộ luật Hàng hải Việt Nam ngày 25 tháng 11 năm 2015; Căn cứ Luật giá ngày 20 tháng 6 năm 2012;
+
+Theo đề nghị của Bộ trưởng Bộ Giao thông vận tải;
+
+Chính phủ ban hành Nghị định quy định việc niêm yết giá, phụ thu ngoài giá dịch vụ vận chuyển hàng hóa công-te-nơ bằng đường biển, giá dịch vụ tại cảng biển.
+
+## Chương I. QUY ĐỊNH CHUNG
+
+### Điều 1. Phạm vi điều chỉnh
+
+Nghị định này quy định về niêm yết giá dịch vụ vận chuyển hàng hóa công-te-nơ bằng đường biển, phụ thu ngoài giá dịch vụ vận chuyển hàng hóa công-te-nơ bằng đường biển, giá dịch vụ tại cảng biển.
+
+### Điều 2. Đối tượng áp dụng
+
+Nghị định này áp dụng đối với các tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài liên quan đến việc niêm yết giá dịch vụ vận chuyển hàng hóa công-te-nơ bằng đường biển, phụ thu ngoài giá dịch vụ vận chuyển hàng hóa công-te-nơ bằng đường biển, giá dịch vụ tại cảng biển.
+
+### Điều 3. Đồng tiền niêm yết
+
+1\. Đồng tiền niêm yết đối với giá dịch vụ vận chuyển hàng hóa công-te-nơ bằng đường biển của doanh nghiệp thành lập tại Việt Nam là đồng Việt Nam.
+
+2\. Đồng tiền niêm yết đối với giá dịch vụ vận chuyển hàng hóa công-te-nơ bằng đường biển của doanh nghiệp thành lập ở nước ngoài là đồng Việt Nam hoặc đồng ngoại tệ chuyển đổi theo quy định của pháp luật.
+
+3\. Đồng tiền niêm yết đối với phụ thu ngoài giá dịch vụ vận chuyển hàng hóa công-te-nơ bằng đường biển và giá dịch vụ tại cảng biển của các doanh nghiệp là đồng Việt Nam.
+
+### Điều 4. Giải thích từ ngữ
+
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
+
+1\. Giá dịch vụ vận chuyển hàng hóa công-te-nơ bằng đường biển là khoản tiền do người thuê vận chuyển trả cho người vận chuyển theo hợp đồng vận chuyển hàng hóa công-te-nơ bằng đường biển (sau đây viết tắt là giá vận chuyển bằng đường biển).
+
+2\. Phụ thu ngoài giá dịch vụ vận chuyển hàng hóa công-te-nơ bằng đường biển (nếu có) là khoản tiền trả thêm cho người vận chuyển ngoài giá dịch vụ vận chuyển hàng hóa công-te-nơ bằng đường biển (sau đây viết tắt là phụ thu).
+
+3\. Giá dịch vụ tại cảng biển bao gồm: Giá dịch vụ bốc dỡ công-te-nơ; giá dịch vụ hoa tiêu hàng hải; giá sử dụng cầu, bến, phao neo; giá dịch vụ lai dắt và giá dịch vụ khác tại cảng biển.
+
+4\. Niêm yết giá vận chuyển bằng đường biển, phụ thu, giá dịch vụ tại cảng biển là việc doanh nghiệp thông báo công khai trên trang thông tin điện tử của doanh nghiệp, trụ sở của doanh nghiệp và bằng các hình thức thích hợp, rõ ràng khác như in, dán, ghi giá trên bảng tại nơi giao dịch hoặc nơi chào bán hàng hóa, dịch vụ theo quy định của pháp luật và không gây nhầm lẫn cho khách hàng về mức giá, phụ thu.
+
+5\. Doanh nghiệp kinh doanh vận tải biển gồm doanh nghiệp kinh doanh vận tải biển có tàu và doanh nghiệp kinh doanh vận tải biển không có tàu.
+
+a) Doanh nghiệp kinh doanh vận tải biển có tàu là doanh nghiệp trực tiếp khai thác toàn bộ hoặc một phần trọng tải của tàu để vận chuyển hàng hóa trên tàu đó;
+
+b) Doanh nghiệp kinh doanh vận tải biển không có tàu là doanh nghiệp cung cấp dịch vụ vận tải biển từ tàu mà doanh nghiệp đó không trực tiếp khai thác và đóng vai trò là người gửi hàng trong mối quan hệ với doanh nghiệp khai thác tàu.
+
+## Chương II. NỘI DUNG NIÊM YẾT VÀ HIỆU LỰC CỦA GIÁ NIÊM YẾT
+
+### Điều 5. Nội dung niêm yết giá dịch vụ vận chuyển bằng đường biển, phụ thu, giá dịch vụ tại cảng biển
+
+1\. Nội dung niêm yết giá vận chuyển bằng đường biển, phụ thu:
+
+a) Điểm đi và điểm đến của tuyến vận tải;
+
+b) Danh mục và mức giá dịch vụ vận chuyển bằng đường biển, phụ thu tương ứng với tuyến đường vận chuyển và loại hàng hóa được vận chuyển; mức giá niêm yết đã bao gồm giá dịch vụ liên quan phát sinh và các loại thuế, phí và lệ phí (nếu có);
+
+c) Thông tin doanh nghiệp kinh doanh vận tải biển hoặc đại lý, doanh nghiệp được ủy quyền niêm yết, gồm: Tên doanh nghiệp, địa chỉ giao dịch, số điện thoại, số fax, địa chỉ trang thông tin điện tử của doanh nghiệp.
+
+2\. Nội dung niêm yết giá dịch vụ tại cảng biển a) Thông tin doanh nghiệp cảng biển, gồm: Tên doanh nghiệp, địa chỉ giao dịch, số điện thoại, số fax, địa chỉ trang thông tin điện tử của doanh nghiệp;
+
+b) Biểu giá dịch vụ tại cảng của doanh nghiệp đã thực hiện kê khai giá với cơ quan có thẩm quyền theo quy định.
+
+Mức giá niêm yết đã bao gồm các loại thuế, phí và lệ phí (nếu có).
+
+### Điều 6. Hiệu lực của việc niêm yết giá vận chuyển bằng đường biển, phụ thu và giá dịch vụ tại cảng biển
+
+1\. Giá vận chuyển bằng đường biển, phụ thu có hiệu lực kể từ ngày doanh nghiệp vận tải biển hoặc đại lý, doanh nghiệp được ủy quyền niêm yết lần đầu tiên theo quy định tại Nghị định này.
+
+2\. Giá dịch vụ tại cảng biển có hiệu lực kể từ ngày doanh nghiệp cảng biển, doanh nghiệp cung cấp dịch vụ tại cảng biển hoàn thành việc kê khai giá theo quy định của pháp luật về giá và đã niêm yết giá theo quy định tại Nghị định này.
+
+3\. Trong trường hợp thay đổi theo hướng tăng giá vận chuyển bằng đường biển, tăng phụ thu đã được niêm yết, ngày hiệu lực của giá vận chuyển bằng đường biển hoặc phụ thu do doanh nghiệp quy định nhưng không sớm hơn 15 ngày liên tục kể từ ngày niêm yết sự thay đổi.
+
+4\. Trong trường hợp thay đổi theo hướng giảm giá vận chuyển bằng đường biển, phụ thu đã được niêm yết, ngày hiệu lực của giá vận chuyển bằng đường biển hoặc phụ thu được tính kể từ ngày đã niêm yết sự thay đổi.
+
+5\. Trường hợp thay đổi giá dịch vụ tại cảng biển thì thực hiện kê khai với cơ quan có thẩm quyền và niêm yết theo quy định của pháp luật về giá.
+
+6\. Các doanh nghiệp kinh doanh vận tải biển và doanh nghiệp được ủy quyền chỉ được thu các khoản giá vận chuyển bằng đường biển, phụ thu đã niêm yết, không được thu thêm các khoản khác.
+
+7\. Các doanh nghiệp kinh doanh vận tải biển và doanh nghiệp được ủy quyền, doanh nghiệp cung cấp dịch vụ tại cảng biển chỉ được thu trong khoảng thời gian và điều kiện đã niêm yết và không được thu cao hơn mức đã niêm yết.
+
+### Điều 7. Quyền và nghĩa vụ của doanh nghiệp cảng biển, doanh nghiệp kinh doanh vận tải biển hoặc doanh nghiệp được ủy quyền
+
+1\. Doanh nghiệp cảng biển, doanh nghiệp kinh doanh vận tải biển hoặc doanh nghiệp được ủy quyền có trách nhiệm niêm yết các thông tin theo quy định tại Nghị định này và thông báo bằng văn bản đến Cục Hàng hải Việt Nam về địa chỉ trang thông tin điện tử nơi niêm yết giá vận chuyển bằng đường biển, giá dịch vụ tại cảng biển hoặc niêm yết phụ thu; cung cấp kịp thời, chính xác, đầy đủ số liệu, tài liệu có liên quan theo yêu cầu bằng văn bản của cơ quan nhà nước có thẩm quyền khi có yêu cầu.
+
+2\. Doanh nghiệp cảng biển, doanh nghiệp kinh doanh vận tải biển hoặc doanh nghiệp được ủy quyền có quyền yêu cầu tổ chức, cá nhân bồi thường thiệt hại do hành vi vi phạm hoạt động niêm yết giá gây ra theo quy định của pháp luật.
+
+### Điều 8. Quyền và nghĩa vụ của doanh nghiệp khách hàng
+
+1\. Doanh nghiệp khách hàng có quyền lựa chọn giá vận chuyển bằng đường biển, phụ thu khi thỏa thuận về sử dụng dịch vụ; yêu cầu bồi thường thiệt hại khi dịch vụ đã mua không đúng tiêu chuẩn chất lượng, số lượng, mức giá vận chuyển bằng đường biển, phụ thu hoặc nội dung khác mà doanh nghiệp cung cấp dịch vụ đã niêm yết theo quy định.
+
+2\. Doanh nghiệp khách hàng có trách nhiệm thanh toán theo mức giá vận chuyển bằng đường biển, phụ thu đã thỏa thuận, đã lựa chọn hoặc do Nhà nước quy định khi mua dịch vụ; thông tin cho cơ quan nhà nước, tổ chức, cá nhân liên quan khi phát hiện hành vi có dấu hiệu vi phạm pháp luật các quy định tại Nghị định này.
+
+### Điều 9. Quản lý nhà nước trong lĩnh vực niêm yết giá
+
+1\. Bộ Giao thông vận tải có trách nhiệm:
+
+a) Tổ chức chỉ đạo thực hiện chính sách, biện pháp, quyết định về niêm yết giá vận chuyển bằng đường biển, phụ thu, giá dịch vụ tại cảng biển;
+
+b) Tham gia thanh tra, kiểm tra việc chấp hành các quy định của pháp luật về niêm yết giá vận chuyển bằng đường biển, phụ thu, giá dịch vụ tại cảng biển và các quy định khác có liên quan của pháp luật thuộc lĩnh vực quản lý của Bộ.
+
+2\. Bộ Tài chính có trách nhiệm:
+
+a) Chủ trì tổ chức thanh tra, kiểm tra về giá niêm yết theo quy định của pháp luật;
+
+b) Tổ chức thực hiện các nội dung quản lý nhà nước về niêm yết giá vận chuyển bằng đường biển, phụ thu, giá dịch vụ tại cảng biển thuộc lĩnh vực quản lý của Bộ.
+
+3\. Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương có trách nhiệm giải quyết khiếu nại, tố cáo (nếu có) và xử lý vi phạm pháp luật về niêm yết giá vận chuyển bằng đường biển, phụ thu, giá dịch vụ tại cảng biển thuộc lĩnh vực quản lý tại địa phương theo quy định của pháp luật.
+
+## Chương III. ĐIỀU KHOẢN THI HÀNH
+
+### Điều 10. Hiệu lực thi hành
+
+Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2017.
+
+### Điều 11. Trách nhiệm thi hành
+
+1\. Bộ Giao thông vận tải có trách nhiệm hướng dẫn, tổ chức thực hiện Nghị định này.
+
+2\. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ và Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này./.
+
+TM. CHÍNH PHỦ
+
+THỦ TƯỚNG
+
+Nguyễn Xuân Phúc
