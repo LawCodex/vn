@@ -1,0 +1,142 @@
+---
+title: Nghị định số 89/2015/NÐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 67/2014/NĐ-CP ngày 07 tháng 7 năm 2014 của Chính phủ về một số chính sách phát triển thủy sản
+identifier: 89/2015/NÐ-CP
+type: decree
+document_type: Nghị định
+jurisdiction: vn
+language: vi
+issuer: Chính phủ
+date: '2015-10-07'
+consolidated: false
+status: in_force
+legal_force: InForce
+source: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-89-2015-nd-cp-17720.htm
+source_format: pdf
+gazette: Công báo số 1055+1056 ngày 2015-10-20
+vbpl_url: https://vbpl.vn/van-ban/chi-tiet/nghi-dinh-so-89-2015-n-cp-sua-doi-bo-sung-mot-so-dieu-cua-nghi-dinh-so-67-2014-nd-cp-ngay-07-thang-7-nam-2014-cua-chinh-phu-ve-mot-so-chinh-sach-phat-trien-thuy-san--104210
+retrieved: '2026-10-12'
+---
+
+# Nghị định số 89/2015/NÐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 67/2014/NĐ-CP ngày 07 tháng 7 năm 2014 của Chính phủ về một số chính sách phát triển thủy sản
+
+PHẦN VĂN BẢN QUY PHẠM PHÁP LUẬT
+
+CHÍNH PHỦ
+
+CHÍNH PHỦ
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
+
+Số: 89/2015/NĐ-CP
+
+Hà Nội, ngày 07 tháng 10 năm 2015
+
+NGHỊ ĐỊNH
+
+Sửa đổi, bổ sung một số điều của Nghị định số 67/2014/NĐ-CP ngày 07 tháng 7 năm 2014 của Chính phủ về một số chính sách phát triển thủy sản
+
+Căn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;
+
+Căn cứ Luật Ngân sách nhà nước ngày 16 tháng 12 năm 2002;
+
+Căn cứ Luật Thủy sản ngày 26 tháng 11 năm 2003;
+
+Căn cứ Luật Ngân hàng nhà nước ngày 16 tháng 6 năm 2010;
+
+Căn cứ Luật Tổ chức tín dụng ngày 16 tháng 6 năm 2010;
+
+Căn cứ Luật Kinh doanh bảo hiểm ngày 09 tháng 12 năm 2000 và Luật sửa đổi, bổ sung một số điều của Luật Kinh doanh bảo hiểm ngày 24 tháng 11 năm 2010; Căn cứ Luật Thuế thu nhập doanh nghiệp và Luật sửa đổi, bổ sung một số điều của Luật Thuế thu nhập doanh nghiệp năm 2013; Luật Thuế giá trị gia tăng và Luật sửa đổi, bổ sung một số điều của Luật Thuế giá trị gia tăng năm 2013; Luật Thuế thu nhập cá nhân và Luật sửa đổi, bổ sung một số điều của Luật Thuế thu nhập cá nhân năm 2013; Luật Quản lý thuế và Luật sửa đổi, bổ sung một số điều của Luật Quản lý thuế năm 2013; Luật Thuế tài nguyên năm 2009; Pháp lệnh Phí, lệ phí năm 2001;
+
+Theo đề nghị của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn, Bộ trưởng Bộ Tài chính và Thống đốc Ngân hàng Nhà nước Việt Nam,
+
+Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của Nghị định số 67/2014/NĐ-CP ngày 07 tháng 7 năm 2014 của Chính phủ về một số chính sách phát triển thủy sản.
+
+## Điều 1. Sửa đổi, bổ sung một số điều của Nghị định số 67/2014/NĐ-CP ngày 07 tháng 7 năm 2014 của Chính phủ về một số chính sách phát triển thủy sản (sau đây viết tắt là Nghị định số 67/2014/NĐ-CP), như sau:
+
+1\. Khoản 2 Điều 2 được sửa đổi như sau:
+
+“2. Tổ chức, cá nhân (sau đây gọi là chủ tàu) đặt hàng đóng mới tàu, nâng cấp tàu (thay máy; gia cố bọc vỏ thép; bọc vỏ vật liệu mới; mua ngư lưới cụ, trang thiết bị hàng hải, trang thiết bị khai thác, trang thiết bị bảo quản sản phẩm, trang thiết bị bốc xếp hàng hóa) phục vụ hoạt động khai thác hải sản.”
+
+2\. Điểm a Khoản 1 Điều 4 được sửa đổi, bổ sung như sau:
+
+“a) Chủ tàu đặt hàng đóng mới tàu có tổng công suất máy chính từ 400CV trở lên; nâng cấp tàu có tổng công suất máy chính dưới 400CV thành tàu có tổng công suất máy chính từ 400CV trở lên và nâng cấp công suất máy đối với tàu có tổng công suất máy chính từ 400CV trở lên khai thác hải sản xa bờ, tàu dịch vụ hậu cần khai thác hải sản xa bờ; chủ tàu được thực hiện một hoặc nhiều nội dung: Thay máy tàu; gia cố bọc vỏ thép; bọc vỏ vật liệu mới; mua ngư lưới cụ, trang thiết bị hàng hải, trang thiết bị khai thác, máy móc trang thiết bị bảo quản sản phẩm, trang thiết bị bốc xếp hàng hóa”.
+
+3\. Điểm c Khoản 1 Điều 4 được sửa đổi, bổ sung như sau:
+
+“c) Hạn mức vay, lãi suất vay và mức bù chênh lệch lãi suất cụ thể như sau:
+
+\- Đối với đóng mới tàu dịch vụ hậu cần khai thác hải sản xa bờ, bao gồm cả máy móc, trang thiết bị hàng hải; máy móc thiết bị bảo quản hải sản; bảo quản hàng hóa; bốc xếp hàng hóa:
+
+\+ Trường hợp đóng mới tàu vỏ thép, vỏ vật liệu mới: Chủ tàu được vay vốn ngân hàng thương mại tối đa 95% tổng giá trị đầu tư đóng mới với lãi suất 7%/năm, trong đó chủ tàu trả 1%/năm, ngân sách nhà nước cấp bù 6%/năm.
+
+\+ Trường hợp đóng mới tàu vỏ gỗ: Chủ tàu được vay vốn ngân hàng thương mại tối đa 70% tổng giá trị đầu tư đóng mới, với lãi suất 7%/năm, trong đó chủ tàu trả 3%/năm, ngân sách nhà nước cấp bù 4%/năm.
+
+\- Đối với đóng mới tàu khai thác hải sản xa bờ, bao gồm cả máy móc, trang thiết bị hàng hải; thiết bị phục vụ khai thác; ngư lưới cụ; trang thiết bị bảo quản hải sản:
+
+\+ Trường hợp đóng mới tàu vỏ thép, vỏ vật liệu mới có tổng công suất máy chính từ 400CV đến dưới 800CV: Chủ tàu được vay vốn ngân hàng tối đa 90% tổng giá trị đầu tư đóng mới tàu với lãi suất 7%/năm, trong đó chủ tàu trả 2%/năm, ngân sách nhà nước cấp bù 5%/năm.
+
+\+ Trường hợp đóng mới tàu vỏ thép, vỏ vật liệu mới có tổng công suất máy chính từ 800CV trở lên: Chủ tàu được vay vốn ngân hàng thương mại tối đa 95% tổng giá trị đầu tư đóng mới tàu với lãi suất 7%/năm, trong đó chủ tàu trả 1%/năm, ngân sách nhà nước cấp bù 6%/năm.
+
+\+ Trường hợp đóng mới tàu vỏ gỗ: Chủ tàu được vay vốn ngân hàng thương mại tối đa 70% tổng giá trị đầu tư đóng mới với lãi suất 7%/năm, trong đó chủ tàu trả 3%/năm, ngân sách nhà nước cấp bù 4%/năm.
+
+\+ Trường hợp đóng mới tàu vỏ gỗ đồng thời gia cố bọc vỏ thép, bọc vỏ vật liệu mới cho tàu: Chủ tàu được vay vốn ngân hàng thương mại tối đa 70% tổng giá trị đầu tư đóng mới tàu với lãi suất 7%/năm, trong đó chủ tàu trả 3%/năm, ngân sách nhà nước cấp bù 4%/năm.
+
+\- Đối với nâng cấp tàu vỏ gỗ, vỏ vật liệu mới có tổng công suất máy chính dưới 400CV thành tàu có tổng công suất máy chính từ 400CV trở lên và nâng cấp công suất máy đối với tàu có tổng công suất máy chính từ 400CV trở lên: Chủ tàu được vay vốn ngân hàng thương mại tối đa 70% tổng giá trị nâng cấp tàu với lãi suất 7%/năm, trong đó chủ tàu trả 3%/năm, ngân sách nhà nước cấp bù 4%/năm.
+
+\- Đối với trường hợp gia cố bọc vỏ thép; bọc vỏ vật liệu mới; mua ngư lưới cụ, trang thiết bị hàng hải, trang thiết bị khai thác, máy móc trang thiết bị bảo quản sản phẩm, trang thiết bị bốc xếp hàng hóa: Chủ tàu được vay vốn ngân hàng thương mại tối đa 70% tổng giá trị nâng cấp với lãi suất 7%/năm, trong đó chủ tàu trả 3%/năm, ngân sách nhà nước cấp bù 4%/năm.
+
+\- Tàu cá đóng mới phải sử dụng máy thủy mới; trường hợp nâng cấp máy tàu có thể sử dụng máy thủy mới hoặc máy thủy đã qua sử dụng theo quy định.”
+
+4\. Điểm d Khoản 1 Điều 4 được sửa đổi, bổ sung như sau:
+
+“d) Thời hạn cho vay hỗ trợ lãi suất: 11 năm đối với trường hợp đóng mới tàu vỏ gỗ hoặc nâng cấp tàu; 16 năm đối với đóng mới tàu vỏ thép hoặc vỏ vật liệu mới. Năm đầu tiên kể từ ngày giải ngân khoản vay đầu tiên, chủ tàu được miễn lãi và chưa phải trả nợ gốc, ngân sách nhà nước cấp bù số lãi vay của chủ tàu được miễn năm đầu cho các ngân hàng thương mại. Quy định này được áp dụng cả với những Hợp đồng vay vốn ngân hàng thương mại đóng mới tàu cá vỏ thép, vỏ vật liệu mới theo quy định tại Nghị định số 67/2014/NĐ-CP đã ký kết trước ngày Nghị định này có hiệu lực thi hành.”
+
+5\. Điều 5 được sửa đổi, bổ sung như sau:
+
+“Điều 5. Chính sách bảo hiểm
+
+Ngân sách nhà nước hỗ trợ kinh phí mua bảo hiểm cho các tàu khai thác hải sản xa bờ, tàu dịch vụ hậu cần khai thác hải sản xa bờ là thành viên tổ đội, hợp tác xã khai thác hải sản, nghiệp đoàn nghề cá và có tổng công suất máy chính từ 90CV trở lên:
+
+1\. Hỗ trợ hàng năm 100% kinh phí mua bảo hiểm tai nạn thuyền viên cho mỗi thuyền viên làm việc trên tàu.
+
+2\. Hỗ trợ hàng năm kinh phí mua bảo hiểm thân tàu, trang thiết bị, ngư lưới cụ trên mỗi tàu (bảo hiểm mọi rủi ro) với mức:
+
+a) 70% kinh phí mua bảo hiểm đối với tàu có tổng công suất máy chính từ 90CV đến dưới 400CV.
+
+b) 90% kinh phí mua bảo hiểm đối với tàu có tổng công suất máy chính từ 400CV trở lên.”
+
+6\. Khoản 3 Điều 7 được sửa đổi, bổ sung như sau:
+
+“3. Hỗ trợ 100% chi phí các thiết kế mẫu tàu vỏ thép, vỏ vật liệu mới, vỏ gỗ khai thác hải sản, tàu dịch vụ hậu cần khai thác hải sản xa bờ đối với tàu có tổng công suất máy chính từ 400CV trở lên.”
+
+7\. Bổ sung Khoản 5 Điều 7 như sau:
+
+“5. Thí điểm cơ chế hỗ trợ một lần sau đầu tư đối với chủ tàu thuộc đối tượng hưởng chính sách tín dụng theo quy định tại Khoản 1 Điều 4 Nghị định số 67/2014/NĐ-CP. Bộ Tài chính chủ trì, phối hợp với Bộ Nông nghiệp và Phát triển nông thôn xây dựng thí điểm cơ chế hỗ trợ một lần sau đầu tư, báo cáo Thủ tướng Chính phủ quyết định. Nội dung thí điểm cơ chế hỗ trợ một lần sau đầu tư bao gồm: Đối tượng, điều kiện, nguyên tắc, mức hỗ trợ và trình tự thủ tục hỗ trợ; trong đó mức hỗ trợ đảm bảo tương đương với mức hỗ trợ của chính sách tín dụng theo quy định tại Khoản 1 Điều 4 Nghị định số 67/2014/NĐ-CP.”
+
+8\. Điểm b Khoản 1 Điều 9 được sửa đổi, bổ sung như sau:
+
+“b) Quy định yêu cầu kỹ thuật đối với thiết kế mẫu tàu; lựa chọn đơn vị có đủ năng lực thiết kế, đặt hàng thiết kế mẫu một số mẫu tàu vỏ thép, vỏ vật liệu mới khai thác hải sản, tàu dịch vụ hậu cần khai thác hải sản xa bờ; phê duyệt và công bố các thiết kế mẫu tàu đã được lựa chọn; quy định về định mức kinh tế kỹ thuật duy tu sửa chữa định kỳ đối với tàu vỏ thép và hướng dẫn tổ chức thực hiện duy tu, sửa chữa định kỳ; quy định về yêu cầu kỹ thuật và kiểm tra an toàn kỹ thuật máy thủy đã qua sử dụng lắp đặt trên tàu cá.
+
+Hướng dẫn, lựa chọn địa phương thiết kế mẫu tàu khai thác và dịch vụ hậu cần khai thác hải sản xa bờ vỏ gỗ có tổng công suất máy chính từ 400CV trở lên phù hợp với nghề hoạt động và đặc trưng ngư trường, vùng miền; tổng hợp công bố thiết kế mẫu tàu vỏ gỗ;”
+
+9\. Bổ sung Khoản 6 Điều 9 như sau:
+
+“6. Bộ Khoa học và Công nghệ quy định về nhập khẩu máy móc, thiết bị dây chuyền công nghệ đã qua sử dụng nhập khẩu vào Việt Nam, trong đó có máy thủy đã qua sử dụng; quy định riêng về tiêu chuẩn máy thủy đã qua sử dụng nhập khẩu vào Việt Nam trong trường hợp cần thiết.”
+
+10\. Bổ sung Khoản 7 Điều 10 như sau:
+
+“7. Thực hiện thiết kế mẫu tàu cá vỏ gỗ khai thác, dịch vụ hậu cần khai thác hải sản có tổng công suất máy chính từ 400CV trở lên theo hướng dẫn của Bộ Nông nghiệp và Phát triển nông thôn và đảm bảo phù hợp với tập quán, đặc trưng vùng biển của địa phương, khu vực.”
+
+## Điều 2. Hiệu lực thi hành
+
+Nghị định này có hiệu lực thi hành kể từ ngày 25 tháng 11 năm 2015.
+
+## Điều 3. Trách nhiệm hướng dẫn và thi hành
+
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, Chủ tịch các Hội, Hiệp hội ngành hàng thủy sản trong phạm vi chức năng, nhiệm vụ của mình có trách nhiệm hướng dẫn, thi hành Nghị định này./. TM. CHÍNH PHỦ
+
+THỦ TƯỚNG
+
+Nguyễn Tấn Dũng

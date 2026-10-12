@@ -1,0 +1,97 @@
+---
+title: Nghị định số 119/2011/NĐ-CP Sửa đổi, bổ sung thủ tục hành chính tại Nghị định số 116/2005/NĐ-CP ngày 15 tháng 9 năm 2005 của Chính phủ quy định chi tiết thi hành một số điều của Luật Cạnh tranh
+identifier: 119/2011/NĐ-CP
+type: decree
+document_type: Nghị định
+jurisdiction: vn
+language: vi
+issuer: Chính phủ
+date: '2011-12-16'
+effective: '2012-02-01'
+consolidated: false
+status: in_force
+legal_force: InForce
+source: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-119-2011-nd-cp-13914.htm
+source_format: pdf
+gazette: Công báo số 53 + 54 ngày 2012-01-05
+vbpl_url: https://vbpl.vn/van-ban/chi-tiet/nghi-dinh-so-119-2011-nd-cp-sua-doi-bo-sung-thu-tuc-hanh-chinh-tai-nghi-dinh-so-116-2005-nd-cp-ngay-15-thang-9-nam-2005-cua-chinh-phu-quy-dinh-chi-tiet-thi-hanh-mot-so-dieu-cua-luat-canh-tranh--27259
+retrieved: '2026-10-12'
+---
+
+# Nghị định số 119/2011/NĐ-CP Sửa đổi, bổ sung thủ tục hành chính tại Nghị định số 116/2005/NĐ-CP ngày 15 tháng 9 năm 2005 của Chính phủ quy định chi tiết thi hành một số điều của Luật Cạnh tranh
+
+CHÍNH PHỦ
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
+
+Số: 119/2011/NĐ-CP
+
+Hà Nội, ngày 16 tháng 12 năm 2011
+
+NGHỊ ĐỊNH
+
+Sửa đổi, bổ sung thủ tục hành chính tại Nghị định số 116/2005/NĐ-CP ngày 15 tháng 9 năm 2005 của Chính phủ quy định chi tiết thi hành một số điều của Luật Cạnh tranh
+
+CHÍNH PHỦ
+
+Căn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;
+
+Căn cứ Luật Cạnh tranh ngày 03 tháng 12 năm 2004;
+
+Xét đề nghị của Bộ trưởng Bộ Công thương,
+
+NGHỊ ĐỊNH:
+
+## Điều 1. Sửa đổi, bổ sung một số điều của Nghị định số 116/2005/NĐ-CP ngày 15 tháng 9 năm 2005 của Chính phủ quy định chi tiết thi hành một số điều của Luật Cạnh tranh
+
+1\. Sửa đổi, bổ sung Điều 38 như sau:
+
+“Điều 38. Thông báo, trả lời thông báo tập trung kinh tế
+
+1\. Hồ sơ thông báo tập trung kinh tế của doanh nghiệp tham gia tập trung kinh tế có thể nộp trực tiếp hoặc qua mạng điện tử bằng hình thức bản sao (bản scan từ bản gốc, file văn bản) kèm theo chữ ký điện tử hợp pháp của người đại diện hợp pháp của doanh nghiệp.
+
+2\. Việc trả lời thông báo tập trung kinh tế phải được thực hiện bằng văn bản.
+
+3\. Văn bản trả lời thông báo tập trung kinh tế của cơ quan quản lý cạnh tranh phải được gửi đến các đối tượng sau đây:
+
+a) Cơ quan đăng ký kinh doanh và các cơ quan khác có thẩm quyền cho phép sáp nhập, hợp nhất, mua lại, liên doanh theo quy định của pháp luật;
+
+b) Đại diện hợp pháp của các bên tham gia tập trung kinh tế;
+
+c) Các bên tham gia tập trung kinh tế.”
+
+2\. Sửa đổi khoản 1 Điều 40 như sau:
+
+“1. Báo cáo giải trình cụ thể việc đáp ứng điều kiện được hưởng miễn trừ do doanh nghiệp tự lập và doanh nghiệp chịu trách nhiệm về nội dung của báo cáo.”
+
+3\. Bổ sung khoản 3 và khoản 4 vào Điều 40 như sau:
+
+“3. Báo cáo giải trình của các bên dự định tham gia thỏa thuận hạn chế cạnh tranh hoặc tập trung kinh tế có thể nộp trực tiếp hoặc qua mạng điện tử bằng hình thức bản sao (bản scan từ bản gốc, file văn bản) kèm theo chữ ký điện tử hợp pháp của người đại diện hợp pháp của doanh nghiệp.
+
+4\. Trong quá trình đánh giá nội dung của Báo cáo giải trình cụ thể việc đáp ứng điều kiện được hưởng miễn trừ, cơ quan quản lý cạnh tranh có thể tổ chức lấy ý kiến của các tổ chức khoa học và công nghệ, các tổ chức nghiên cứu và phát triển.”
+
+4\. Sửa đổi điểm i khoản 1 Điều 45 như sau:
+
+“i) Chữ ký hoặc điểm chỉ của bên khiếu nại trong trường hợp bên khiếu nại là cá nhân; chữ ký và dấu của đại diện hợp pháp của bên khiếu nại trong trường hợp bên khiếu nại là tổ chức (áp dụng trong trường hợp hồ sơ không nộp qua mạng điện tử).”
+
+5\. Bổ sung khoản 3 vào Điều 45 như sau:
+
+“3. Bên khiếu nại có thể nộp hồ sơ trực tiếp hoặc qua mạng điện tử bằng hình thức bản sao (bản scan từ bản gốc, file văn bản) kèm theo chữ ký điện tử hợp pháp của người đại diện hợp pháp của doanh nghiệp. Bên khiếu nại chịu trách nhiệm về nội dung hồ sơ.”
+
+## Điều 2. Hiệu lực thi hành
+
+Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 02 năm 2012.
+
+## Điều 3. Trách nhiệm thi hành
+
+1\. Bộ trưởng Bộ Công thương chịu trách nhiệm tổ chức thi hành Nghị định này.
+
+2\. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này./.
+
+TM. CHÍNH PHỦ
+
+THỦ TƯỚNG
+
+Nguyễn Tấn Dũng
