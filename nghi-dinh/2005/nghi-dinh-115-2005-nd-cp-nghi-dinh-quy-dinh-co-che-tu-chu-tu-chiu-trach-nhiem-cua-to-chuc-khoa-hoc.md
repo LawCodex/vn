@@ -1,0 +1,394 @@
+---
+title: Nghị định số 115/2005/NĐ-CP Quy định cơ chế tự chủ, tự chịu trách nhiệm của tổ chức khoa học và công nghệ công lập
+identifier: 115/2005/NĐ-CP
+type: decree
+document_type: Nghị định
+jurisdiction: vn
+language: vi
+issuer: Chính phủ
+date: '2005-09-05'
+last_amended: '2015-01-06'
+consolidated: true
+consolidated_text: 02/VBHN-BKHCN
+status: in_force
+legal_force: PartiallyInForce
+source: https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-02-vbhn-bkhcn-5879.htm
+source_format: pdf
+gazette: Công báo số 211 + 212 ngày 2015-02-11
+vbpl_url: https://vbpl.vn/van-ban/chi-tiet/nghi-dinh-so-115-2005-nd-cp-quy-dinh-co-che-tu-chu-tu-chiu-trach-nhiem-cua-to-chuc-khoa-hoc-va-cong-nghe-cong-lap--17741
+retrieved: '2026-10-12'
+---
+
+# Nghị định số 115/2005/NĐ-CP Quy định cơ chế tự chủ, tự chịu trách nhiệm của tổ chức khoa học và công nghệ công lập
+
+VĂN BẢN HỢP NHẤT
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
+
+NGHỊ ĐỊNH
+
+Quy định cơ chế tự chủ, tự chịu trách nhiệm của tổ chức khoa học và công nghệ công lập
+
+Nghị định số 115/2005/NĐ-CP ngày 05 tháng 9 năm 2005 của Chính phủ quy định cơ chế tự chủ, tự chịu trách nhiệm của tổ chức khoa học và công nghệ công lập, có hiệu lực kể từ ngày 29 tháng 9 năm 2005, được sửa đổi, bổ sung bởi: Nghị định số 96/2010/NĐ-CP ngày 20 tháng 9 năm 2010 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 115/2005/NĐ-CP ngày 05 tháng 9 năm 2005 của Chính phủ quy định cơ chế tự chủ, tự chịu trách nhiệm của tổ chức khoa học và công nghệ công lập và Nghị định số 80/2007/NĐ-CP ngày 19 tháng 5 năm 2007 của Chính phủ về doanh nghiệp khoa học và công nghệ, có hiệu lực kể từ ngày 06 tháng 11 năm 2010.
+
+Căn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;
+
+Căn cứ Luật Khoa học và Công nghệ ngày 09 tháng 6 năm 2000;
+
+Theo đề nghị của Bộ trưởng Bộ Nội vụ và Bộ trưởng Bộ Khoa học và Công nghệ1,
+
+## Chương I. NHỮNG QUY ĐỊNH CHUNG
+
+#### Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+
+1\. Phạm vi điều chỉnh
+
+Nghị định này quy định cơ chế tự chủ, tự chịu trách nhiệm về nhiệm vụ, tài chính và tài sản, tổ chức và biên chế của các tổ chức khoa học và công nghệ công lập.
+
+2\. Đối tượng áp dụng
+
+Các tổ chức khoa học và công nghệ thuộc đối tượng áp dụng tại Nghị định này 1
+
+Nghị định số 96/2010/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 115/2005/NĐ-CP ngày 05 tháng 9 năm 2005 của Chính phủ quy định cơ chế tự chủ, tự chịu trách nhiệm của tổ chức khoa học và công nghệ công lập và Nghị định số 80/2007/NĐ-CP ngày 19 tháng 5 năm 2007 của Chính phủ về doanh nghiệp khoa học và công nghệ có căn cứ ban hành như sau:
+
+“Căn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;
+
+Căn cứ Luật Khoa học và Công nghệ ngày 09 tháng 6 năm 2000;
+
+Căn cứ Luật Doanh nghiệp ngày 29 tháng 11 năm 2005;
+
+Xét đề nghị của Bộ trưởng Bộ Khoa học và Công nghệ,”
+
+là các tổ chức nghiên cứu khoa học, tổ chức nghiên cứu khoa học và phát triển công nghệ, tổ chức dịch vụ khoa học và công nghệ có tư cách pháp nhân, có con dấu và tài khoản riêng, do cơ quan quản lý nhà nước có thẩm quyền quyết định thành lập.
+
+#### Điều 2. Mục đích
+
+Mục đích thực hiện cơ chế tự chủ, tự chịu trách nhiệm:
+
+1\. Tăng cường trách nhiệm và nâng cao tính tích cực, chủ động, năng động, sáng tạo của tổ chức khoa học và công nghệ và Thủ trưởng tổ chức khoa học và công nghệ.
+
+2\. Tạo điều kiện gắn nghiên cứu khoa học và phát triển công nghệ với sản xuất, kinh doanh và đào tạo nhân lực, đẩy nhanh quá trình xã hội hóa các hoạt động khoa học và công nghệ.
+
+3\. Tạo điều kiện tập trung đầu tư có trọng điểm cho các tổ chức khoa học và công nghệ.
+
+4\. Nâng cao hiệu quả hoạt động của các tổ chức khoa học và công nghệ, góp phần tăng cường tiềm lực khoa học và công nghệ của đất nước.
+
+#### Điều 3. Nguyên tắc
+
+Các nguyên tắc thực hiện cơ chế tự chủ, tự chịu trách nhiệm:
+
+1\. Thực hiện quyền tự chủ phải đi đôi với việc tự chịu trách nhiệm về các hoạt động của tổ chức khoa học và công nghệ.
+
+2\. Thực hiện công khai và dân chủ trong các hoạt động của tổ chức khoa học và công nghệ.
+
+3\. Quản lý và sử dụng có hiệu quả các nguồn lực được Nhà nước giao và các nguồn lực khác của tổ chức khoa học và công nghệ.
+
+4\. Hoàn thành với chất lượng cao các nhiệm vụ được các cơ quan nhà nước giao hoặc đặt hàng, các nhiệm vụ của tổ chức khoa học và công nghệ, bảo đảm sự phát triển của tổ chức khoa học và công nghệ.
+
+#### Điều 4. Hình thức tổ chức và hoạt động2
+
+1\. Tổ chức nghiên cứu khoa học và phát triển công nghệ, tổ chức dịch vụ khoa học và công nghệ đã tự bảo đảm kinh phí hoạt động thường xuyên, được tổ chức và hoạt động theo một trong hai hình thức sau:
+
+a) Tổ chức khoa học và công nghệ tự trang trải kinh phí hoạt động thường xuyên (gọi tắt là tổ chức tự trang trải kinh phí);
+
+2
+
+Điều này được sửa đổi, bổ sung theo quy định tại khoản 1 Điều 1 của Nghị định số 96/2010/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 115/2005/NĐ-CP ngày 05 tháng 9 năm 2005 của Chính phủ quy định cơ chế tự chủ, tự chịu trách nhiệm của tổ chức khoa học và công nghệ công lập và Nghị định số 80/2007/NĐ-CP ngày 19 tháng 5 năm 2007 của Chính phủ về doanh nghiệp khoa học và công nghệ, có hiệu lực kể từ ngày 06 tháng 11 năm 2010.
+
+b) Doanh nghiệp khoa học và công nghệ.
+
+2\. Tổ chức nghiên cứu khoa học và phát triển công nghệ, tổ chức dịch vụ khoa học và công nghệ chưa tự bảo đảm kinh phí hoạt động thường xuyên, chậm nhất đến hết ngày 31 tháng 12 năm 2013 phải tổ chức và hoạt động theo một trong hai hình thức quy định tại khoản 1 Điều này hoặc được sáp nhập, giải thể.
+
+3\. Tổ chức khoa học và công nghệ hoạt động trong lĩnh vực nghiên cứu cơ bản, nghiên cứu chiến lược, chính sách, nghiên cứu xây dựng định mức kinh tế kỹ thuật chuyên ngành, phục vụ quản lý nhà nước phải kiện toàn tổ chức, nâng cao hiệu quả hoạt động trước ngày 31 tháng 12 năm 2011 để được ngân sách nhà nước tiếp tục bảo đảm kinh phí hoạt động thường xuyên theo nhiệm vụ được giao.
+
+4\. Tổ chức nghiên cứu khoa học và phát triển công nghệ, tổ chức dịch vụ khoa học và công nghệ công lập thành lập sau ngày Nghị định này có hiệu lực thi hành được Nhà nước cấp kinh phí hoạt động thường xuyên trong thời gian mới thành lập theo quy định tại khoản 1 Điều 7 Nghị định này.
+
+5\. Tổ chức khoa học và công nghệ thực hiện cơ chế tự chủ, tự chịu trách nhiệm theo quy định tại Nghị định này tiếp tục là đơn vị sự nghiệp khoa học và công nghệ của Nhà nước (trừ trường hợp toàn bộ tổ chức chuyển đổi để thành lập doanh nghiệp khoa học và công nghệ).
+
+## Chương II. NHỮNG QUY ĐỊNH CỤ THỂ
+
+### Mục 1. VỀ NHIỆM VỤ
+
+#### Điều 5. Xác định và thực hiện nhiệm vụ khoa học và công nghệ
+
+1\. Căn cứ vào định hướng ưu tiên phát triển khoa học và công nghệ của Nhà nước, nhu cầu của xã hội, nhu cầu của doanh nghiệp, chức năng, nhiệm vụ và lĩnh vực hoạt động của mình, các tổ chức khoa học và công nghệ tự xác định nhiệm vụ khoa học và công nghệ và biện pháp tổ chức thực hiện.
+
+2\. Căn cứ vào danh mục các nhiệm vụ khoa học và công nghệ do Bộ Khoa học và Công nghệ, các Bộ, ngành và địa phương công bố hàng năm, các tổ chức khoa học và công nghệ tự quyết định việc tham gia tuyển chọn, đấu thầu thực hiện nhiệm vụ khoa học và công nghệ của Nhà nước và biện pháp tổ chức thực hiện.
+
+3\. Các tổ chức khoa học và công nghệ tự quyết định biện pháp tổ chức thực hiện các nhiệm vụ khoa học và công nghệ do các cơ quan nhà nước giao hoặc đặt hàng, đảm bảo chất lượng và tiến độ theo yêu cầu.
+
+4\. Các tổ chức khoa học và công nghệ được quyền:
+
+a) Ký hợp đồng thực hiện các nhiệm vụ khoa học và công nghệ, dịch vụ khoa học và công nghệ với các tổ chức, cá nhân trong và ngoài nước; hợp tác với các tổ chức, cá nhân trong và ngoài nước để thực hiện các nhiệm vụ của tổ chức khoa học và công nghệ;
+
+b) Trực tiếp quyết định việc mời chuyên gia, các nhà khoa học nước ngoài vào Việt Nam và cử cán bộ ra nước ngoài công tác;
+
+c) Quyết định việc đầu tư phát triển từ vốn vay, vốn huy động các tổ chức, cá nhân trong và ngoài nước, từ quỹ phát triển hoạt động sự nghiệp của tổ chức khoa học và công nghệ.
+
+#### Điều 6. Hoạt động sản xuất, kinh doanh
+
+Ngoài các quy định tại Điều 5 nêu trên, các tổ chức khoa học và công nghệ được thực hiện các quyền sau đây:
+
+1.3 Sản xuất, kinh doanh hàng hóa, thực hiện các dịch vụ thuộc lĩnh vực hoạt động chuyên môn của tổ chức khoa học và công nghệ và các lĩnh vực khác theo quy định của pháp luật; được cấp Giấy chứng nhận đăng ký kinh doanh và được sử dụng con dấu của đơn vị sự nghiệp công lập cho hoạt động sản xuất, kinh doanh.
+
+2\. Liên doanh, liên kết sản xuất với các tổ chức và cá nhân trong và ngoài nước.
+
+3\. Xuất khẩu, nhập khẩu trực tiếp công nghệ và sản phẩm hàng hóa thuộc lĩnh vực hoạt động chuyên môn của tổ chức khoa học và công nghệ theo quy định của pháp luật.
+
+4\. Tham gia đấu thầu thực hiện các hợp đồng sản xuất, cung ứng hàng hóa, dịch vụ phù hợp với lĩnh vực hoạt động chuyên môn của tổ chức khoa học và công nghệ.
+
+### Mục 2. VỀ TÀI CHÍNH VÀ TÀI SẢN
+
+#### Điều 7. Nguồn kinh phí
+
+Phụ thuộc vào chức năng, nhiệm vụ và hoạt động, tổ chức khoa học và công nghệ có thể có các nguồn kinh phí sau đây:
+
+3
+
+Khoản này được sửa đổi, bổ sung theo quy định tại khoản 2 Điều 1 của Nghị định số 96/2010/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 115/2005/NĐ-CP ngày 05 tháng 9 năm 2005 của Chính phủ quy định cơ chế tự chủ, tự chịu trách nhiệm của tổ chức khoa học và công nghệ công lập và Nghị định số 80/2007/NĐ-CP ngày 19 tháng 5 năm 2007 của Chính phủ về doanh nghiệp khoa học và công nghệ, có hiệu lực kể từ ngày 06 tháng 11 năm 2010
+
+1.4 Kinh phí do ngân sách nhà nước cấp, bao gồm:
+
+a) Kinh phí hoạt động thường xuyên
+
+Kinh phí hoạt động thường xuyên bao gồm tiền lương, tiền công và tiền chi hoạt động bộ máy của tổ chức khoa học và công nghệ được quy định như sau:
+
+\- Đối với tổ chức khoa học và công nghệ quy định tại khoản 2 Điều 4 Nghị định này, kinh phí hoạt động thường xuyên được cấp theo phương thức khoán đến hết ngày 31 tháng 12 năm 2013;
+
+\- Đối với tổ chức khoa học và công nghệ quy định tại khoản 3 Điều 4 Nghị định này, kinh phí hoạt động thường xuyên hàng năm được cấp theo phương thức khoán;
+
+\- Đối với tổ chức khoa học và công nghệ quy định tại khoản 4 Điều 4 Nghị định này, kinh phí hoạt động thường xuyên hàng năm được cấp theo phương thức khoán tối đa trong 4 năm (với các tổ chức thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương tối đa trong 6 năm) kể từ ngày thành lập, mức kinh phí cấp do cơ quan có thẩm quyền quyết định trên cơ sở Đề án thành lập tổ chức khoa học và công nghệ đã được phê duyệt.
+
+b) Kinh phí thực hiện các nhiệm vụ, bao gồm:
+
+\- Nhiệm vụ thường xuyên theo chức năng: là nhiệm vụ được cơ quan có thẩm quyền giao, quy định tại Quyết định thành lập, Điều lệ hoặc Quy chế tổ chức và hoạt động của đơn vị. Hàng năm, tổ chức khoa học và công nghệ lập dự toán kinh phí thực hiện nhiệm vụ thường xuyên theo chức năng, trong đó có kinh phí hoạt động thường xuyên. Đối với tổ chức khoa học và công nghệ đang được cấp kinh phí hoạt động thường xuyên theo phương thức khoán, Nhà nước không cấp kinh phí hoạt động thường xuyên trong dự toán kinh phí thực hiện nhiệm vụ này;
+
+\- Nhiệm vụ khoa học và công nghệ của Nhà nước: là nhiệm vụ khoa học và công nghệ sử dụng kinh phí của Nhà nước. Hàng năm, tổ chức khoa học và công nghệ lập dự toán kinh phí thực hiện nhiệm vụ khoa học và công nghệ để tham gia xét chọn, tuyển chọn, trong đó có kinh phí hoạt động thường xuyên.
+
+c) Vốn đầu tư xây dựng cơ bản; vốn đối ứng dự án; kinh phí mua sắm trang thiết bị và sửa chữa lớn tài sản cố định.
+
+d) Kinh phí khác (nếu có).
+
+4
+
+Khoản này được sửa đổi, bổ sung theo quy định tại khoản 3 Điều 1 của Nghị định số 96/2010/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 115/2005/NĐ-CP ngày 05 tháng 9 năm 2005 của Chính phủ quy định cơ chế tự chủ, tự chịu trách nhiệm của tổ chức khoa học và công nghệ công lập và Nghị định số 80/2007/NĐ-CP ngày 19 tháng 5 năm 2007 của Chính phủ về doanh nghiệp khoa học và công nghệ, có hiệu lực kể từ ngày 06 tháng 11 năm 2010.
+
+2\. Nguồn thu từ các hoạt động sự nghiệp, bao gồm: thu từ phí và lệ phí theo quy định; thu từ hoạt động cung ứng dịch vụ; thu từ hợp đồng nghiên cứu khoa học và phát triển công nghệ, hợp đồng chuyển giao công nghệ; thu từ hoạt động sản xuất, kinh doanh; thu sự nghiệp khác (nếu có).
+
+3\. Nguồn kinh phí khác của tổ chức khoa học và công nghệ, bao gồm: vốn khấu hao tài sản cố định; thu thanh lý tài sản được để lại theo quy định; vốn huy động của các cá nhân, vốn vay các tổ chức tín dụng; vốn tài trợ, viện trợ, quà biếu, tặng của các cá nhân, tổ chức trong và ngoài nước; các nguồn kinh phí hợp pháp khác theo quy định của pháp luật (nếu có).
+
+#### Điều 8. Sử dụng nguồn kinh phí
+
+Việc sử dụng các nguồn kinh phí của tổ chức khoa học và công nghệ được quy định như sau:
+
+1\. Về chi thực hiện nhiệm vụ khoa học và công nghệ
+
+Áp dụng phương thức khoán chi thực hiện các nhiệm vụ khoa học và công nghệ của Nhà nước (dưới dạng các chương trình, đề tài, dự án khoa học và công nghệ) thuộc tất cả các lĩnh vực hoạt động khoa học và công nghệ (kể cả nhiệm vụ khoa học và công nghệ thuộc các chương trình mục tiêu quốc gia, nhiệm vụ khoa học và công nghệ giao đột xuất) do các cơ quan nhà nước giao, đặt hàng hoặc thông qua tuyển chọn, đấu thầu. Tổ chức khoa học và công nghệ được tự quyết định việc sử dụng kinh phí được khoán để thực hiện nhiệm vụ trên cơ sở đảm bảo yêu cầu về chất lượng và tiến độ thực hiện theo hợp đồng.
+
+2\. Về chi tiền lương, tiền công
+
+Tổ chức khoa học và công nghệ có trách nhiệm bảo đảm chi trả tiền lương, tiền công không thấp hơn mức tiền lương, tiền công theo ngạch, bậc, chức vụ và các khoản phụ cấp lương (nếu có) do Nhà nước quy định đối với cán bộ, viên chức và người lao động tại các tổ chức, đơn vị sự nghiệp của Nhà nước. Tùy thuộc vào kết quả hoạt động tài chính của đơn vị và năng lực, trình độ của người lao động, mức chi trả tiền lương, tiền công thực tế có thể cao hơn mức Nhà nước quy định. Tiền lương, tiền công của người lao động làm việc theo chế độ hợp đồng làm việc, hợp đồng lao động do hai bên thỏa thuận và được ghi trong hợp đồng, là căn cứ đóng bảo hiểm xã hội, bảo hiểm y tế và được tính vào chi phí hợp lý trước thuế của tổ chức khoa học và công nghệ5.
+
+5
+
+Đoạn này được sửa đổi, bổ sung theo quy định tại khoản 4 Điều 1 của Nghị định số 96/2010/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 115/2005/NĐ-CP ngày 05 tháng 9 năm 2005 của Chính phủ quy định cơ chế tự chủ, tự chịu trách nhiệm của tổ chức khoa học và công nghệ công lập và Nghị định số 80/2007/NĐ-CP ngày 19 tháng 5 năm 2007 của Chính phủ về doanh nghiệp khoa học và công nghệ, có hiệu lực kể từ ngày 06 tháng 11 năm 2010.
+
+Khi Nhà nước điều chỉnh mức lương tối thiểu, ngạch, bậc lương và các khoản trích theo lương, tổ chức khoa học và công nghệ phải sử dụng các nguồn kinh phí của đơn vị để trả lương và các khoản trích theo lương cho cán bộ, viên chức và người lao động của đơn vị theo sự điều chỉnh của Nhà nước. Đối với các tổ chức khoa học và công nghệ quy định tại khoản 3 Điều 4 Nghị định này, cơ quan quản lý nhà nước có thẩm quyền sẽ xem xét việc cấp bổ sung kinh phí đối với từng tổ chức khoa học và công nghệ cụ thể.
+
+3\. Về trích lập quỹ
+
+Hàng năm, sau khi trang trải tất cả các khoản chi phí hợp lý, thực hiện đầy đủ nghĩa vụ đối với nhà nước theo quy định, trong phần chênh lệch thu lớn hơn chi còn lại (nếu có), tổ chức khoa học và công nghệ được trích lập các quỹ theo quy định của pháp luật. Riêng mức kinh phí trích lập Quỹ phát triển hoạt động sự nghiệp tối thiểu phải bằng 30% tổng số chênh lệch thu lớn hơn chi. Việc sử dụng các quỹ do Thủ trưởng tổ chức khoa học và công nghệ quyết định theo quy chế chi tiêu nội bộ của đơn vị.
+
+4\. Về chi thực hiện các hoạt động khác a) Đối với nguồn kinh phí được cấp từ ngân sách nhà nước theo quy định tại điểm c khoản 1 Điều 7 và một số khoản kinh phí khác quy định tại điểm d khoản 1
+
+Điều 7, tổ chức khoa học và công nghệ phải thực hiện theo quy định của Nhà nước về các tiêu chuẩn, định mức và nội dung chi.
+
+Bộ Tài chính quy định một số khoản kinh phí nhà nước cấp thuộc điểm d khoản 1 Điều 7 phải thực hiện theo quy định của Nhà nước về các tiêu chuẩn, định mức và nội dung chi.
+
+b) Tổ chức khoa học và công nghệ được tự quyết định việc sử dụng các nguồn kinh phí để chi cho các hoạt động của đơn vị (ngoại trừ một số hoạt động đã có quy định cụ thể tại khoản 1, 2, 3 và mục a khoản 4 Điều này).
+
+5\. Về chi thu nhập tăng thêm
+
+Số dư kinh phí còn lại sau khi đã trừ tất cả các khoản chi và trích lập quỹ theo quy định, tổ chức khoa học và công nghệ được tự quyết định việc sử dụng để chi tăng thêm thu nhập cho cán bộ, viên chức và người lao động theo quy chế chi tiêu nội bộ của đơn vị.
+
+#### Điều 9. Chính sách ưu đãi
+
+Các tổ chức khoa học và công nghệ quy định tại điểm a khoản 1 Điều 4 Nghị định này được hưởng các chính sách ưu đãi sau đây:
+
+1\. Được Quỹ hỗ trợ phát triển của Nhà nước xem xét, hỗ trợ tín dụng ưu đãi, hỗ trợ lãi suất sau đầu tư đối với các dự án đầu tư đáp ứng các điều kiện và thuộc đối tượng theo quy định.
+
+2\. Được cơ quan nhà nước có thẩm quyền xem xét hỗ trợ đầu tư phát triển đối với những tổ chức khoa học và công nghệ đáp ứng được các điều kiện theo quy định.
+
+3\. Được thanh lý, chuyển nhượng tài sản do đơn vị mua sắm từ nguồn kinh phí tự có.
+
+4\. Được mở tài khoản tại ngân hàng để thực hiện các giao dịch đối với hoạt động sản xuất, kinh doanh theo quy định.
+
+5.6 Được hưởng thuế suất ưu đãi, miễn thuế, giảm thuế như đối với doanh nghiệp khoa học và công nghệ.
+
+6\. Được vay vốn của các tổ chức, cá nhân, vay tín dụng ngân hàng để đầu tư mở rộng sản xuất, nâng cao chất lượng các hoạt động của đơn vị và chịu trách nhiệm trả nợ vay theo quy định; được sử dụng tài sản hình thành từ vốn vay để thế chấp theo quy định.
+
+7\. Được giao quản lý và sử dụng tài sản của Nhà nước theo quy định của pháp luật; được sử dụng số tiền trích khấu hao tài sản cố định và tiền thu thanh lý tài sản thuộc nguồn vốn ngân sách nhà nước bổ sung vào quỹ phát triển hoạt động sự nghiệp của đơn vị; số tiền trích khấu hao tài sản cố định và tiền thu thanh lý tài sản thuộc nguồn vốn vay được dùng để trả vốn và lãi vay, nếu còn dư được bổ sung vào quỹ phát triển hoạt động sự nghiệp của đơn vị.
+
+8\. Được góp vốn bằng tiền, tài sản, giá trị quyền sử dụng đất và quyền sở hữu trí tuệ để tiến hành các hoạt động khoa học và công nghệ, hoạt động sản xuất, kinh doanh theo quy định của pháp luật.
+
+### Mục 3. VỀ TỔ CHỨC VÀ BIÊN CHẾ
+
+#### Điều 10. Về tổ chức bộ máy
+
+Thủ trưởng các tổ chức khoa học và công nghệ được quyền:
+
+1\. Quyết định việc sắp xếp, điều chỉnh tổ chức bộ máy của đơn vị; thành lập, sáp nhập, giải thể và quy định chức năng, nhiệm vụ, quyền hạn, quy chế hoạt động của các bộ phận, các tổ chức trực thuộc.
+
+2\. Quyết định việc bổ nhiệm, bổ nhiệm lại, cho từ chức và miễn nhiệm cấp trưởng, cấp phó các bộ phận, tổ chức trực thuộc.
+
+6
+
+Khoản này được sửa đổi, bổ sung theo quy định tại khoản 5 Điều 1 của Nghị định số 96/2010/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 115/2005/NĐ-CP ngày 05 tháng 9 năm 2005 của Chính phủ quy định cơ chế tự chủ, tự chịu trách nhiệm của tổ chức khoa học và công nghệ công lập và Nghị định số 80/2007/NĐ-CP ngày 19 tháng 5 năm 2007 của Chính phủ về doanh nghiệp khoa học và công nghệ, có hiệu lực kể từ ngày 06 tháng 11 năm 2010.
+
+3\. Đề xuất nhân sự và trình lãnh đạo cơ quan chủ quản cấp trên quyết định bổ nhiệm, bổ nhiệm lại, miễn nhiệm cấp phó của đơn vị.
+
+#### Điều 11. Về biên chế và tuyển dụng viên chức
+
+Thủ trưởng các tổ chức khoa học và công nghệ được quyền:
+
+1\. Quyết định tổng số biên chế hàng năm của đơn vị căn cứ vào nhu cầu cán bộ và khả năng tài chính của đơn vị.
+
+2\. Quyết định việc tuyển dụng viên chức theo hình thức thi tuyển hoặc xét tuyển; ký hợp đồng làm việc với những người được tuyển dụng.
+
+3\. Ký hợp đồng làm việc với những người đã được tuyển dụng vào biên chế trước ngày Nghị định số 116/2003/NĐ-CP ngày 10 tháng 10 năm 2003 của Chính phủ về việc tuyển dụng, sử dụng và quản lý cán bộ, công chức trong các đơn vị sự nghiệp của Nhà nước có hiệu lực thi hành.
+
+4\. Ký hợp đồng lao động để thực hiện những công việc không cần thiết bố trí biên chế thường xuyên.
+
+#### Điều 12. Sử dụng cán bộ, viên chức
+
+Thủ trưởng các tổ chức khoa học và công nghệ được quyền:
+
+1\. Quyết định việc sắp xếp, bố trí sử dụng cán bộ, viên chức phù hợp với năng lực và trình độ chuyên môn của từng người.
+
+2\. Quyết định việc điều động, biệt phái, nghỉ hưu, thôi việc, chấm dứt hợp đồng làm việc, hợp đồng lao động theo quy định của pháp luật.
+
+3\. Quyết định việc xếp lương đối với cán bộ, viên chức được tuyển dụng vào làm việc tại đơn vị; quyết định việc nâng bậc lương đúng thời hạn, trước thời hạn và vượt bậc trong cùng ngạch; quyết định bổ nhiệm vào ngạch viên chức, chuyển ngạch viên chức từ ngạch nghiên cứu viên chính và tương đương trở xuống.
+
+4\. Xem xét, bổ nhiệm các chức vụ lãnh đạo đối với cán bộ, viên chức sau khi hết hạn tập sự, được ký hợp đồng làm việc không xác định thời hạn, có thời gian làm việc từ 03 năm trở lên và có đủ các điều kiện theo yêu cầu.
+
+5\. Quyết định việc khen thưởng, kỷ luật đối với cán bộ, viên chức thuộc quyền quản lý theo quy định của pháp luật.
+
+## Chương III. TRÁCH NHIỆM CỦA THỦ TRƯỞNG TỔ CHỨC KHOA HỌC VÀ CÔNG NGHỆ VÀ CÁC CƠ QUAN QUẢN LÝ NHÀ NƯỚC
+
+#### Điều 13. Trách nhiệm của Thủ trưởng tổ chức khoa học và công nghệ
+
+1\. Thủ trưởng tổ chức khoa học và công nghệ có trách nhiệm:
+
+a)7 Thủ trưởng tổ chức khoa học và công nghệ có trách nhiệm xây dựng Đề án đổi mới tổ chức và hoạt động (đối với các đối tượng thuộc khoản 1, khoản 2
+
+Điều 4) hoặc Đề án kiện toàn tổ chức và hoạt động (đối với các đối tượng thuộc khoản 3 Điều 4), trình cơ quan quản lý nhà nước có thẩm quyền để được phê duyệt trước thời điểm quy định tại khoản 2, khoản 3 Điều 4 Nghị định này.
+
+b) Phối hợp với Công đoàn đơn vị thực hiện quy chế dân chủ; xây dựng quy chế chi tiêu nội bộ; quy định về chi thu nhập tăng thêm, tiền thưởng, sử dụng các quỹ... để thông qua hội nghị cán bộ, viên chức và tổ chức thực hiện các quy định này;
+
+c) Tổ chức công tác kế toán, kiểm toán nội bộ, thống kê và công khai tài chính theo quy định của pháp luật; bảo toàn vốn, tài sản nhà nước đầu tư và bảo đảm sự phát triển của đơn vị;
+
+d) Thực hiện việc báo cáo hoạt động của đơn vị theo quy định của cơ quan chủ quản cấp trên; chịu sự kiểm tra, thanh tra và có trách nhiệm cung cấp đầy đủ các tài liệu, thông tin, báo cáo theo yêu cầu của cơ quan nhà nước có thẩm quyền;
+
+đ) Chỉ đạo đơn vị thực hiện các quy định của pháp luật về bảo vệ môi trường, an ninh, trật tự xã hội, bảo đảm an toàn, bí mật quốc gia; thực hiện các chế độ, chính sách đối với cán bộ, viên chức của đơn vị và nghĩa vụ đối với nhà nước theo quy định; chú trọng đào tạo, nâng cao trình độ cán bộ, viên chức của đơn vị;
+
+e) Phối hợp và tạo điều kiện để các tổ chức Đảng, đoàn thể trong đơn vị tham gia kiểm tra, giám sát các hoạt động của đơn vị.
+
+2\. Thủ trưởng tổ chức khoa học và công nghệ thực hiện quyền tự chủ và chịu trách nhiệm về toàn bộ hoạt động của tổ chức khoa học và công nghệ; chịu trách nhiệm về những sai phạm xẩy ra trong đơn vị; được khen thưởng hoặc phải chịu kỷ luật tuỳ theo thành tích hoặc mức độ vi phạm theo quy định của pháp luật.
+
+3\. Quy trình, thủ tục bổ nhiệm, bổ nhiệm lại, miễn nhiệm Thủ trưởng tổ chức khoa học và công nghệ do lãnh đạo cơ quan chủ quản cấp trên của tổ chức khoa học và công nghệ quy định.
+
+#### Điều 14. Trách nhiệm của Bộ Khoa học và Công nghệ
+
+1\. Chủ trì, phối hợp với Bộ Nội vụ xây dựng kế hoạch triển khai thực hiện Nghị định này báo cáo Thủ tướng Chính phủ và hướng dẫn các Bộ, ngành, địa phương thực hiện.
+
+7
+
+Điểm này được sửa đổi, bổ sung theo quy định tại khoản 6 Điều 1 của Nghị định số 96/2010/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 115/2005/NĐ-CP ngày 05 tháng 9 năm 2005 của Chính phủ quy định cơ chế tự chủ, tự chịu trách nhiệm của tổ chức khoa học và công nghệ công lập và Nghị định số 80/2007/NĐ-CP ngày 19 tháng 5 năm 2007 của Chính phủ về doanh nghiệp khoa học và công nghệ, có hiệu lực kể từ ngày 06 tháng 11 năm 2010.
+
+2\. Chủ trì, phối hợp với Bộ Tài chính, Bộ Nội vụ xây dựng và ban hành tiêu chí phân loại và văn bản hướng dẫn việc phân loại các tổ chức khoa học và công nghệ theo các đối tượng quy định tại Điều 4 Nghị định này; trình Thủ tướng Chính phủ quyết định các tổ chức khoa học và công nghệ thuộc diện quy định tại khoản 3 Điều 4 Nghị định này được ngân sách nhà nước duy trì việc cấp kinh phí hoạt động thường xuyên; tổng hợp kết quả việc phân loại của các cơ quan, Bộ, ngành, địa phương báo cáo Thủ tướng Chính phủ trong quý I năm 2006.
+
+3\. Chủ trì, phối hợp với Bộ Tài chính xây dựng và ban hành văn bản hướng dẫn việc khoán kinh phí và nghiệm thu, quản lý, sử dụng kết quả thực hiện các nhiệm vụ khoa học và công nghệ của Nhà nước; trình Thủ tướng Chính phủ quyết định các biện pháp khuyến khích các tổ chức khoa học và công nghệ quy định tại khoản 2 Điều 4 Nghị định này tiến hành chuyển đổi tổ chức và hoạt động sớm trước thời hạn quy định.
+
+4\. Chủ trì, phối hợp với Bộ Kế hoạch và Đầu tư quy định điều kiện để các tổ chức khoa học và công nghệ quy định tại điểm a khoản 1 Điều 4 Nghị định này được xem xét hỗ trợ đầu tư phát triển.
+
+5\. Khẩn trương phối hợp với các cơ quan liên quan xây dựng và trình Chính phủ Nghị định về việc chuyển các tổ chức nghiên cứu khoa học và phát triển công nghệ, tổ chức dịch vụ khoa học và công nghệ thành doanh nghiệp khoa học và công nghệ trong quý IV năm 2005.
+
+6\. Chịu trách nhiệm trước Chính phủ, Thủ tướng Chính phủ đôn đốc, kiểm tra việc thực hiện Nghị định này; làm đầu mối giải quyết những vấn đề nẩy sinh trong quá trình thực hiện Nghị định và báo cáo Thủ tướng Chính phủ giải quyết những vấn đề vượt quá thẩm quyền; hàng năm tổ chức đánh giá, rút kinh nghiệm, báo cáo Thủ tướng Chính phủ về tình hình thực hiện Nghị định.
+
+#### Điều 15. Trách nhiệm của Bộ Nội vụ
+
+1\. Ban hành văn bản hướng dẫn việc thực hiện các quy định về biên chế, tuyển dụng và sử dụng cán bộ, viên chức trong các tổ chức khoa học và công nghệ theo quy định tại Nghị định này.
+
+2\. Ban hành văn bản hướng dẫn thực hiện quy định về việc ký hợp đồng làm việc với viên chức tại các tổ chức khoa học và công nghệ.
+
+#### Điều 16. Trách nhiệm của Bộ Tài chính8
+
+Bộ Tài chính chủ trì, phối hợp với Bộ Khoa học và Công nghệ xây dựng và ban hành các văn bản sau đây:
+
+8
+
+Điều này được sửa đổi, bổ sung theo quy định tại khoản 7 Điều 1 của Nghị định số 96/2010/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 115/2005/NĐ-CP ngày 05 tháng 9 năm 2005 của Chính phủ quy định cơ chế tự chủ, tự chịu trách nhiệm của tổ chức khoa học và công nghệ công lập và Nghị định số 80/2007/NĐ-CP ngày 19 tháng 5 năm 2007 của Chính phủ về doanh nghiệp khoa học và công nghệ, có hiệu lực kể từ ngày 06 tháng 11 năm 2010.
+
+1\. Hướng dẫn việc lập dự toán và cấp kinh phí hoạt động thường xuyên của tổ chức khoa học và công nghệ; hướng dẫn xây dựng quy chế chi tiêu nội bộ, lập dự toán, quyết toán hoạt động tài chính của các tổ chức khoa học và công nghệ có hoạt động sản xuất, kinh doanh và dịch vụ.
+
+2\. Quy định về khoán kinh phí hoạt động thường xuyên đối với tổ chức khoa học và công nghệ quy định tại khoản 3 Điều 4 theo quy định tại khoản 1 Điều 7 Nghị định này.
+
+3\. Quy định về việc giao quản lý tài sản của Nhà nước cho các tổ chức khoa học và công nghệ có hoạt động sản xuất, kinh doanh và dịch vụ; sử dụng tài sản của Nhà nước cho các hoạt động nghiên cứu khoa học và sản xuất, kinh doanh, dịch vụ.
+
+4\. Quy định nội dung, định mức và thủ tục cấp kinh phí quy định tại điểm a, điểm b khoản 1 Điều 7 Nghị định này.
+
+#### Điều 17. Trách nhiệm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương
+
+1\. Ban hành văn bản hướng dẫn việc thực hiện các quy định tại Nghị định này có liên quan đến chức năng và nhiệm vụ của mình.
+
+2.9 Phân loại các tổ chức khoa học và công nghệ trực thuộc theo hướng dẫn của Bộ Khoa học và Công nghệ; chỉ đạo các tổ chức khoa học và công nghệ trực thuộc thực hiện các quy định tại Nghị định này; phê duyệt đề án của các tổ chức khoa học và công nghệ trực thuộc quy định tại khoản 1, khoản 2, khoản 3 Điều 4 Nghị định này và đôn đốc, kiểm tra việc thực hiện đề án.
+
+3\. Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo về các vấn đề liên quan đến hoạt động của các tổ chức khoa học và công nghệ trực thuộc theo quy định của pháp luật; phát hiện, đình chỉ thi hành hoặc huỷ bỏ các quyết định của Thủ trưởng tổ chức khoa học và công nghệ trực thuộc trái với quy định tại Nghị định này và các văn bản pháp luật có liên quan.
+
+4.10 Tập trung đầu tư phát triển cho các tổ chức khoa học và công nghệ trực thuộc trong quá trình thực hiện cơ chế tự chủ, tự chịu trách nhiệm, đặc biệt là tổ chức khoa học và công nghệ thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương.
+
+9
+
+Khoản này được sửa đổi, bổ sung theo quy định tại khoản 8 Điều 1 của Nghị định số 96/2010/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 115/2005/NĐ-CP ngày 05 tháng 9 năm 2005 của Chính phủ quy định cơ chế tự chủ, tự chịu trách nhiệm của tổ chức khoa học và công nghệ công lập và Nghị định số 80/2007/NĐ-CP ngày 19 tháng 5 năm 2007 của Chính phủ về doanh nghiệp khoa học và công nghệ, có hiệu lực kể từ ngày 06 tháng 11 năm 2010.
+
+10
+
+Khoản này được bổ sung theo quy định tại khoản 9 Điều 1 của Nghị định số 96/2010/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 115/2005/NĐ-CP ngày 05 tháng 9 năm 2005 của Chính phủ quy định cơ chế tự chủ, tự chịu trách nhiệm của tổ chức khoa học và công nghệ công lập và Nghị định số 80/2007/NĐ-CP ngày 19 tháng 5 năm 2007 của Chính phủ về doanh nghiệp khoa học và công nghệ, có hiệu lực kể từ ngày 06 tháng 11 năm 2010.
+
+## Chương IV. ĐIỀU KHOẢN THI HÀNH11
+
+#### Điều 18. Hiệu lực thi hành
+
+Nghị định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng công báo. Bãi bỏ những quy định trước đây trái với quy định tại Nghị định này.
+
+#### Điều 19. Trách nhiệm thi hành
+
+1\. Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an và người đứng đầu các tổ chức chính trị, tổ chức chính trị - xã hội căn cứ vào đặc điểm, tính chất và lĩnh vực hoạt động của tổ chức khoa học và công nghệ trực thuộc để quyết định việc áp dụng các quy định tại Nghị định này.
+
+2\. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này./.
+
+BỘ KHOA HỌC VÀ CÔNG NGHỆ
+
+XÁC THỰC VĂN BẢN HỢP NHẤT
+
+Số: 02/VBHN-BKHCN
+
+Hà Nội, ngày 06 tháng 01 năm 2015
+
+KT. BỘ TRƯỞNG
+
+THỨ TRƯỞNG
+
+Trần Văn Tùng
+
+11
+
+#### Điều 3 của Nghị định số 96/2010/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 115/2005/NĐ-CP ngày 05 tháng 9 năm 2005 của Chính phủ quy định cơ chế tự chủ, tự chịu trách nhiệm của tổ chức khoa học và công nghệ công lập và Nghị định số 80/2007/NĐ-CP ngày 19 tháng 5 năm 2007 của Chính phủ về doanh nghiệp khoa học và công nghệ, có hiệu lực kể từ ngày 06 tháng 11 năm 2010 quy định như sau: “Điều 3.
+
+1\. Nghị định này có hiệu lực thi hành kể từ ngày 06 tháng 11 năm 2010.
+
+2\. Bộ trưởng Bộ Khoa học và Công nghệ có trách nhiệm tổ chức thực hiện Nghị định này.
+
+3\. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này./.”
