@@ -88,6 +88,8 @@ def main():
             except Exception:
                 pass
     todo = [u for u in cand if u not in done]
+    # laws, ordinances, resolutions and consolidated texts first, decrees last
+    todo.sort(key=lambda u: u.split("/chi-tiet/")[-1].startswith("nghi-dinh"))
     print(len(cand), "candidates", len(todo), "to fetch", flush=True)
     import threading
     from concurrent.futures import ThreadPoolExecutor
@@ -107,7 +109,7 @@ def main():
             pass
         return meta
 
-    with open(outp, "a") as fo, ThreadPoolExecutor(3) as ex:
+    with open(outp, "a") as fo, ThreadPoolExecutor(4) as ex:
         for n, meta in enumerate(ex.map(one, todo)):
             if meta is None:
                 continue

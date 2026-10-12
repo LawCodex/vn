@@ -8,19 +8,21 @@ language: vi
 issuer: Quốc hội
 date: '2022-06-15'
 effective: '2024-01-01'
-last_amended: '2026-05-22'
-consolidated: true
-consolidated_text: 115/VBHN-VPQH
+consolidated: false
 status: in_force
 legal_force: PartiallyInForce
-source: https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-115-vbhn-vpqh-469627.htm
-source_format: docx
-gazette: Công báo số 313 ngày 2026-06-07
+source: https://congbao.chinhphu.vn/van-ban/luat-so-06-2022-qh15-37498.htm
+source_format: doc
+gazette: Công báo số 571 + 572 ngày 2022-07-15
 vbpl_url: https://vbpl.vn/van-ban/chi-tiet/luat-thi-dua-khen-thuong-so-06-2022-qh15--168080
 retrieved: '2026-10-12'
 ---
 
 # Luật Thi đua, Khen thưởng số 06/2022/QH15
+
+QUỐC HỘI
+
+Luật số: 06/2022/QH15
 
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 
@@ -30,13 +32,9 @@ LUẬT
 
 THI ĐUA, KHEN THƯỞNG
 
-Luật Thi đua, khen thưởng số 06/2022/QH15 ngày 15 tháng 6 năm 2022 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 01 năm 2024, được sửa đổi, bổ sung bởi:
-
-Luật số 06/2026/QH16 ngày 23 tháng 4 năm 2026 của Quốc hội sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
 Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;
 
-Quốc hội ban hành Luật Thi đua, khen thưởng.[^fn1]
+Quốc hội ban hành Luật Thi đua, khen thưởng.
 
 ## Chương I. NHỮNG QUY ĐỊNH CHUNG
 
@@ -60,7 +58,7 @@ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
 4\. Sáng kiến là giải pháp có tính mới về kỹ thuật, quản lý, tác nghiệp, ứng dụng tiến bộ kỹ thuật mang lại hiệu quả, lợi ích thiết thực đã được áp dụng tại cơ sở, có khả năng nhân rộng và được cấp có thẩm quyền công nhận.
 
-5\. Bộ, ban, ngành, tỉnh bao gồm Bộ, cơ quan ngang Bộ[^fn2]; Tòa án nhân dân tối cao; Viện kiểm sát nhân dân tối cao; Văn phòng Trung ương Đảng, các ban của Đảng và tương đương ở trung ương; Văn phòng Quốc hội; Văn phòng Chủ tịch nước; Kiểm toán nhà nước; Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam và cơ quan trung ương của các tổ chức chính trị - xã hội[^fn3]; Ủy ban nhân dân tỉnh, thành phố[^fn4].
+5\. Bộ, ban, ngành, tỉnh bao gồm Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Tòa án nhân dân tối cao; Viện kiểm sát nhân dân tối cao; Văn phòng Trung ương Đảng, các ban của Đảng và tương đương ở trung ương; Văn phòng Quốc hội; Văn phòng Chủ tịch nước; Kiểm toán nhà nước; Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam và cơ quan trung ương của các tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp có tổ chức đảng đoàn hoặc có tổ chức đảng thuộc Đảng bộ khối các cơ quan trung ương; Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương.
 
 6\. Năm tròn là số năm kỷ niệm có chữ số cuối cùng là “0”.
 
@@ -84,11 +82,9 @@ a) Chính xác, công khai, minh bạch, công bằng, kịp thời;
 
 b) Bảo đảm thống nhất giữa hình thức, đối tượng khen thưởng và công trạng, thành tích đạt được;
 
-c)[^fn5] Một hình thức khen thưởng có thể tặng nhiều lần cho một đối tượng; thành tích đến đâu khen thưởng đến đó.
+c) Một hình thức khen thưởng có thể tặng nhiều lần cho một đối tượng; không khen thưởng nhiều lần, nhiều hình thức cho một thành tích đạt được; thành tích đến đâu khen thưởng đến đó;
 
-Không khen thưởng nhiều lần, nhiều hình thức cho một thành tích đạt được, trừ khen thưởng công trạng;
-
-d)[^fn6] Chú trọng khen thưởng cá nhân, tập thể, hộ gia đình trực tiếp lao động, sản xuất, kinh doanh; cá nhân, tập thể công tác ở địa bàn biên giới, trên biển, hải đảo, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn, vùng đồng bào dân tộc thiểu số và miền núi; cá nhân, tập thể có thành tích tiêu biểu mang lại hiệu quả thiết thực vì lợi ích chung, đi đầu trong ứng dụng khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số.
+d) Chú trọng khen thưởng cá nhân, tập thể, hộ gia đình trực tiếp lao động, sản xuất, kinh doanh; cá nhân, tập thể công tác ở địa bàn biên giới, trên biển, hải đảo, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn.
 
 3\. Bảo đảm bình đẳng giới trong thi đua, khen thưởng.
 
@@ -110,15 +106,13 @@ d)[^fn6] Chú trọng khen thưởng cá nhân, tập thể, hộ gia đình tr�
 
 #### Điều 8. Các loại hình khen thưởng
 
-1.[^fn7] Khen thưởng công trạng là khen thưởng cho cá nhân, tập thể có quá trình phấn đấu liên tục, tích lũy nhiều thành tích, được ghi nhận thông qua việc tổng kết các phong trào thi đua thường xuyên và kết quả đánh giá, xếp loại hằng năm.
+1\. Khen thưởng công trạng là khen thưởng cho cá nhân, tập thể thường xuyên có thành tích xuất sắc trong xây dựng và bảo vệ Tổ quốc.
 
 2\. Khen thưởng đột xuất là khen thưởng kịp thời cho cá nhân, tập thể, hộ gia đình lập được thành tích xuất sắc đột xuất.
 
-3.[^fn8] Khen thưởng phong trào thi đua theo chuyên đề là khen thưởng cho cá nhân, tập thể, hộ gia đình có thành tích xuất sắc trong các phong trào thi đua theo chuyên đề do cấp có thẩm quyền phát động, chỉ đạo trong thời gian cụ thể.
+3\. Khen thưởng phong trào thi đua là khen thưởng cho cá nhân, tập thể, hộ gia đình có thành tích xuất sắc trong các phong trào thi đua do cấp có thẩm quyền phát động, chỉ đạo trong thời gian cụ thể hoặc thi đua theo chuyên đề phục vụ nhiệm vụ chính trị của Đảng, Nhà nước.
 
-Khen thưởng chuyên đề là khen thưởng thành tích phục vụ nhiệm vụ chính trị của Đảng, Nhà nước, Bộ, ban, ngành, địa phương, cơ quan, tổ chức, đơn vị trong thời gian cụ thể.
-
-4\. Khen thưởng quá trình cống hiến là khen thưởng cho cá nhân có quá trình tham gia hoạt động lâu dài trong các giai đoạn cách mạng hoặc trong xây dựng và bảo vệ Tổ quốc, giữ chức vụ lãnh đạo, quản lý trong cơ quan nhà nước, đơn vị sự nghiệp công lập, tổ chức chính trị, tổ chức chính trị - xã hội, các hội quần chúng được Đảng, Nhà nước giao nhiệm vụ[^fn9], có công lao, thành tích đóng góp vào sự nghiệp cách mạng của Đảng và của dân tộc.
+4\. Khen thưởng quá trình cống hiến là khen thưởng cho cá nhân có quá trình tham gia hoạt động lâu dài trong các giai đoạn cách mạng hoặc trong xây dựng và bảo vệ Tổ quốc, giữ chức vụ lãnh đạo, quản lý trong cơ quan nhà nước, đơn vị sự nghiệp công lập, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp được Đảng, Nhà nước giao nhiệm vụ, có công lao, thành tích đóng góp vào sự nghiệp cách mạng của Đảng và của dân tộc.
 
 5\. Khen thưởng theo niên hạn là khen thưởng cho cá nhân thuộc Quân đội nhân dân và Công an nhân dân có thành tích, có quá trình công tác trong lực lượng vũ trang nhân dân.
 
@@ -160,13 +154,11 @@ Khen thưởng chuyên đề là khen thưởng thành tích phục vụ nhiệm
 
 5\. Chính phủ quy định chi tiết việc thành lập, quản lý và sử dụng quỹ thi đua, khen thưởng.
 
-#### Điều 12. Hiện vật khen thưởng[^fn10]
+#### Điều 12. Hiện vật khen thưởng
 
-1\. Hiện vật khen thưởng là sản phẩm đặc biệt, được Nhà nước bảo hộ để tặng cho tập thể, hộ gia đình, tặng hoặc truy tặng cho cá nhân khi được cấp có thẩm quyền quyết định khen thưởng, gồm huân chương, huy chương; huy hiệu của danh hiệu vinh dự nhà nước, danh hiệu “Chiến sĩ thi đua toàn quốc”; kỷ niệm chương; bằng, cờ, giấy khen của các danh hiệu thi đua và hình thức khen thưởng.
+1\. Hiện vật khen thưởng là sản phẩm đặc biệt, được Nhà nước bảo hộ để tặng cho tập thể, hộ gia đình, tặng hoặc truy tặng cho cá nhân khi được cấp có thẩm quyền quyết định khen thưởng, gồm huân chương, huy chương; huy hiệu của danh hiệu “Anh hùng Lực lượng vũ trang nhân dân”, danh hiệu “Anh hùng Lao động”, danh hiệu “Bà mẹ Việt Nam anh hùng”, danh hiệu “Chiến sĩ thi đua toàn quốc”; kỷ niệm chương; bằng, cờ, giấy khen của các danh hiệu thi đua và hình thức khen thưởng.
 
-2\. Thủ tướng Chính phủ quy định mẫu, màu sắc, số sao, số vạch cho từng loại, hạng huân chương, huy chương, huy hiệu của danh hiệu vinh dự nhà nước, danh hiệu “Chiến sĩ thi đua toàn quốc”, kỷ niệm chương; chất liệu, kích thước các loại huân chương, huy chương, huy hiệu của danh hiệu vinh dự nhà nước, danh hiệu “Chiến sĩ thi đua toàn quốc”, kỷ niệm chương; khung, bằng, cờ, giấy khen; hộp đựng huân chương, huy chương, huy hiệu, kỷ niệm chương; khung bằng khen; hộp đựng khung bằng khen của các danh hiệu thi đua và hình thức khen thưởng; thủ tục cấp đổi, cấp lại hiện vật khen thưởng của các danh hiệu thi đua và hình thức khen thưởng thuộc thẩm quyền của Chủ tịch nước, Chính phủ, Thủ tướng Chính phủ.
-
-3\. Bộ, ban, ngành, tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, quy định chi tiết, hướng dẫn thủ tục cấp đổi, cấp lại hiện vật khen thưởng của các danh hiệu thi đua và hình thức khen thưởng thuộc thẩm quyền của Bộ, ban, ngành, tỉnh và của cơ quan, tổ chức, đơn vị thuộc Bộ, ban, ngành, tỉnh.
+2\. Chính phủ quy định chi tiết mẫu, màu sắc, số sao, số vạch cho từng loại, hạng huân chương, huy chương, huy hiệu của danh hiệu “Anh hùng Lực lượng vũ trang nhân dân”, danh hiệu “Anh hùng Lao động”, danh hiệu “Bà mẹ Việt Nam anh hùng”, danh hiệu “Chiến sĩ thi đua toàn quốc”, kỷ niệm chương; chất liệu, kích thước khung các loại huân chương, huy chương, bằng, cờ, giấy khen của các danh hiệu thi đua và hình thức khen thưởng; thủ tục cấp đổi, cấp lại hiện vật khen thưởng.
 
 #### Điều 13. Trách nhiệm của cơ quan, tổ chức, đơn vị trong công tác thi đua, khen thưởng
 
@@ -230,7 +222,7 @@ a) Toàn quốc;
 
 b) Bộ, ban, ngành, đoàn thể, địa phương;
 
-c)[^fn11] Cụm, khối thi đua do Bộ, ban, ngành, tỉnh và Hội đồng Thi đua - Khen thưởng Trung ương tổ chức;
+c) Cụm, khối thi đua do Hội đồng Thi đua - Khen thưởng các cấp tổ chức;
 
 d) Cơ quan, tổ chức, đơn vị.
 
@@ -250,7 +242,7 @@ d) Cơ quan, tổ chức, đơn vị.
 
 1\. Chủ tịch nước, Thủ tướng Chính phủ phát động, chỉ đạo phong trào thi đua trong phạm vi toàn quốc.
 
-2\. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ[^fn12], người đứng đầu ban, ngành phát động, chỉ đạo phong trào thi đua trong phạm vi ngành và lĩnh vực thuộc thẩm quyền quản lý.
+2\. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, người đứng đầu ban, ngành phát động, chỉ đạo phong trào thi đua trong phạm vi ngành và lĩnh vực thuộc thẩm quyền quản lý.
 
 3\. Chủ tịch Ủy ban nhân dân các cấp phát động, chỉ đạo phong trào thi đua trong phạm vi địa phương.
 
@@ -278,49 +270,43 @@ c) “Tập thể lao động xuất sắc”, “Đơn vị quyết thắng”;
 
 d) “Tập thể lao động tiên tiến”, “Đơn vị tiên tiến”;
 
-đ) Xã, phường, đặc khu[^fn13] tiêu biểu;
+đ) Xã, phường, thị trấn tiêu biểu;
 
 e) Thôn, tổ dân phố văn hóa.
 
 2\. Danh hiệu thi đua đối với hộ gia đình là “Gia đình văn hóa”.
 
-#### Điều 21. Danh hiệu “Chiến sĩ thi đua toàn quốc”[^fn14]
+#### Điều 21. Danh hiệu “Chiến sĩ thi đua toàn quốc”
 
 1\. Danh hiệu “Chiến sĩ thi đua toàn quốc” để tặng cho cá nhân đạt các tiêu chuẩn sau đây:
 
 a) Có thành tích xuất sắc tiêu biểu được lựa chọn trong số những cá nhân có 02 lần liên tục được tặng danh hiệu chiến sĩ thi đua Bộ, ban, ngành, tỉnh;
 
-b) Có sáng kiến đã được áp dụng hiệu quả và có khả năng nhân rộng trong toàn quốc hoặc có nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo được đánh giá hiệu quả theo quy định của pháp luật về khoa học, công nghệ và đổi mới sáng tạo, có phạm vi ảnh hưởng trong toàn quốc hoặc mưu trí, sáng tạo trong chiến đấu, phục vụ chiến đấu có phạm vi ảnh hưởng trong toàn quốc.
+b) Có sáng kiến đã được áp dụng hiệu quả và có khả năng nhân rộng trong toàn quốc hoặc có đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ đã được nghiệm thu và áp dụng hiệu quả, có phạm vi ảnh hưởng trong toàn quốc hoặc mưu trí, sáng tạo trong chiến đấu, phục vụ chiến đấu có phạm vi ảnh hưởng trong toàn quốc.
 
-2\. Người đứng đầu Bộ, ban, ngành, tỉnh xem xét, công nhận hiệu quả và khả năng nhân rộng trong toàn quốc của sáng kiến; xem xét, công nhận phạm vi ảnh hưởng trong toàn quốc của nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo.
+2\. Người đứng đầu Bộ, ban, ngành, tỉnh xem xét, công nhận hiệu quả và khả năng nhân rộng, phạm vi ảnh hưởng trong toàn quốc của sáng kiến, đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ.
 
 Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an xem xét, công nhận sự mưu trí, sáng tạo trong chiến đấu, phục vụ chiến đấu có phạm vi ảnh hưởng trong toàn quốc.
 
-#### Điều 22. Danh hiệu chiến sĩ thi đua Bộ, ban, ngành, tỉnh[^fn15]
+#### Điều 22. Danh hiệu chiến sĩ thi đua Bộ, ban, ngành, tỉnh
 
 1\. Danh hiệu chiến sĩ thi đua Bộ, ban, ngành, tỉnh để tặng cho cá nhân đạt các tiêu chuẩn sau đây:
 
 a) Có thành tích xuất sắc tiêu biểu được lựa chọn trong số những cá nhân có 03 lần liên tục được tặng danh hiệu “Chiến sĩ thi đua cơ sở”;
 
-b) Có sáng kiến đã được áp dụng hiệu quả và có khả năng nhân rộng trong Bộ, ban, ngành, tỉnh hoặc có nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo được đánh giá hiệu quả theo quy định của pháp luật về khoa học, công nghệ và đổi mới sáng tạo, có phạm vi ảnh hưởng trong Bộ, ban, ngành, tỉnh hoặc mưu trí, sáng tạo trong chiến đấu, phục vụ chiến đấu có phạm vi ảnh hưởng trong toàn quân hoặc toàn lực lượng Công an nhân dân.
+b) Có sáng kiến đã được áp dụng hiệu quả và có khả năng nhân rộng trong Bộ, ban, ngành, tỉnh hoặc có đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ đã được nghiệm thu và áp dụng hiệu quả, có phạm vi ảnh hưởng trong Bộ, ban, ngành, tỉnh hoặc mưu trí, sáng tạo trong chiến đấu, phục vụ chiến đấu có phạm vi ảnh hưởng trong toàn quân hoặc toàn lực lượng Công an nhân dân.
 
-2\. Người đứng đầu Bộ, ban, ngành, tỉnh xem xét, công nhận hiệu quả và khả năng nhân rộng trong Bộ, ban, ngành, tỉnh của sáng kiến; xem xét, công nhận phạm vi ảnh hưởng trong Bộ, ban, ngành, tỉnh của nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo.
+2\. Người đứng đầu Bộ, ban, ngành, tỉnh xem xét, công nhận hiệu quả và khả năng nhân rộng, phạm vi ảnh hưởng trong Bộ, ban, ngành, tỉnh của sáng kiến, đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ.
 
 Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an xem xét, công nhận sự mưu trí, sáng tạo trong chiến đấu, phục vụ chiến đấu có phạm vi ảnh hưởng trong toàn quân hoặc toàn lực lượng Công an nhân dân.
 
-#### Điều 23. Danh hiệu “Chiến sĩ thi đua cơ sở”[^fn16]
+#### Điều 23. Danh hiệu “Chiến sĩ thi đua cơ sở”
 
-1\. Danh hiệu “Chiến sĩ thi đua cơ sở” để tặng cho cá nhân đạt một trong các tiêu chuẩn sau đây:
+Danh hiệu “Chiến sĩ thi đua cơ sở” để tặng cho cá nhân đạt các tiêu chuẩn sau đây:
 
-a) Được đánh giá hoàn thành xuất sắc nhiệm vụ;
+1\. Đạt tiêu chuẩn danh hiệu “Lao động tiên tiến” hoặc “Chiến sĩ tiên tiến”;
 
-b) Đạt tiêu chuẩn danh hiệu “Lao động tiên tiến” hoặc “Chiến sĩ tiên tiến” và có sáng kiến được cơ sở công nhận;
-
-c) Đạt tiêu chuẩn danh hiệu “Lao động tiên tiến” hoặc “Chiến sĩ tiên tiến” và có nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo được đánh giá hiệu quả theo quy định của pháp luật về khoa học, công nghệ và đổi mới sáng tạo;
-
-d) Đạt tiêu chuẩn danh hiệu “Lao động tiên tiến” hoặc “Chiến sĩ tiên tiến” và mưu trí, sáng tạo trong chiến đấu, phục vụ chiến đấu được đơn vị công nhận.
-
-2\. Chính phủ quy định tỷ lệ xét tặng danh hiệu “Chiến sĩ thi đua cơ sở” quy định tại các điểm b, c và d khoản 1 Điều này.
+2\. Hoàn thành xuất sắc nhiệm vụ hoặc có sáng kiến được cơ sở công nhận hoặc có đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ đã được nghiệm thu hoặc mưu trí, sáng tạo trong chiến đấu, phục vụ chiến đấu được đơn vị công nhận.
 
 #### Điều 24. Danh hiệu “Lao động tiên tiến”, “Chiến sĩ tiên tiến”
 
@@ -350,7 +336,7 @@ b) Gương mẫu chấp hành tốt chủ trương của Đảng, chính sách, 
 
 a) Có thành tích xuất sắc, hoàn thành vượt các chỉ tiêu thi đua và nhiệm vụ được giao trong năm;
 
-b) Nội bộ đoàn kết; tổ chức đảng được đánh giá hoàn thành tốt nhiệm vụ trở lên[^fn17]; đi đầu trong việc thực hành tiết kiệm, chống lãng phí, phòng, chống tham nhũng, tiêu cực và các tệ nạn xã hội khác.
+b) Nội bộ đoàn kết; tổ chức đảng, đoàn thể trong sạch, vững mạnh; đi đầu trong việc thực hành tiết kiệm, chống lãng phí, phòng, chống tham nhũng, tiêu cực và các tệ nạn xã hội khác.
 
 2\. Danh hiệu “Cờ thi đua của Chính phủ” để tặng hằng năm cho tập thể dẫn đầu cụm, khối thi đua do Hội đồng Thi đua - Khen thưởng Trung ương tổ chức.
 
@@ -364,7 +350,7 @@ b) Nội bộ đoàn kết; tổ chức đảng được đánh giá hoàn thàn
 
 a) Hoàn thành vượt các chỉ tiêu thi đua và nhiệm vụ được giao trong năm; là tập thể tiêu biểu xuất sắc trong Bộ, ban, ngành, tỉnh;
 
-b) Nội bộ đoàn kết; tổ chức đảng được đánh giá hoàn thành tốt nhiệm vụ trở lên[^fn18]; tích cực thực hành tiết kiệm, chống lãng phí, phòng, chống tham nhũng, tiêu cực và các tệ nạn xã hội khác.
+b) Nội bộ đoàn kết; tổ chức đảng, đoàn thể trong sạch, vững mạnh; tích cực thực hành tiết kiệm, chống lãng phí, phòng, chống tham nhũng, tiêu cực và các tệ nạn xã hội khác.
 
 2\. Danh hiệu cờ thi đua của Bộ, ban, ngành, tỉnh để tặng cho tập thể dẫn đầu phong trào thi đua theo chuyên đề do Bộ, ban, ngành, tỉnh phát động có thời gian thực hiện từ 03 năm trở lên khi tổng kết phong trào.
 
@@ -404,9 +390,9 @@ d) Nội bộ đoàn kết, chấp hành tốt chủ trương của Đảng, ch�
 
 3\. Bộ, ban, ngành, tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, quy định chi tiết, hướng dẫn cụ thể đối tượng, tiêu chuẩn xét tặng danh hiệu “Tập thể lao động tiên tiến”, “Đơn vị tiên tiến”.
 
-#### Điều 29. Danh hiệu xã, phường, đặc khu[^fn19] tiêu biểu
+#### Điều 29. Danh hiệu xã, phường, thị trấn tiêu biểu
 
-1.[^fn20] Danh hiệu xã, phường, đặc khu tiêu biểu được xét tặng hằng năm cho xã, phường, đặc khu có thành tích tiêu biểu trong phong trào thi đua cấp tỉnh và đạt các tiêu chuẩn sau đây:
+1\. Danh hiệu xã, phường, thị trấn tiêu biểu để tặng hằng năm cho xã, phường, thị trấn dẫn đầu phong trào thi đua cấp huyện và đạt các tiêu chuẩn sau đây:
 
 a) Thực hiện tốt các nhiệm vụ kinh tế - xã hội, quốc phòng, an ninh, trật tự, an toàn xã hội được giao;
 
@@ -416,11 +402,9 @@ c) Đời sống văn hóa, tinh thần lành mạnh, phong phú;
 
 d) Môi trường an toàn, thân thiện, cảnh quan sạch đẹp;
 
-đ) Chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước;
+đ) Chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước.
 
-e) Sự hài lòng của tổ chức, cá nhân đối với hoạt động của chính quyền địa phương.
-
-2\. Ủy ban nhân dân cấp tỉnh quy định chi tiết tiêu chuẩn và việc xét tặng danh hiệu xã, phường, đặc khu[^fn21] tiêu biểu trên cơ sở khung tiêu chuẩn do Chính phủ quy định.
+2\. Ủy ban nhân dân cấp tỉnh quy định chi tiết tiêu chuẩn và việc xét tặng danh hiệu xã, phường, thị trấn tiêu biểu trên cơ sở khung tiêu chuẩn do Chính phủ quy định.
 
 #### Điều 30. Danh hiệu thôn, tổ dân phố văn hóa
 
@@ -456,7 +440,7 @@ c) Gia đình no ấm, tiến bộ, hạnh phúc, văn minh; thường xuyên g�
 
 2\. Danh hiệu thi đua, tiêu chuẩn danh hiệu cờ thi đua của quân khu, quân đoàn, quân chủng, binh chủng, tổng cục và tương đương thuộc Bộ Quốc phòng, Ban Cơ yếu Chính phủ do Bộ trưởng Bộ Quốc phòng quy định.
 
-3\. Danh hiệu thi đua, tiêu chuẩn danh hiệu cờ thi đua của đại học quốc gia do Bộ trưởng Bộ Giáo dục và Đào tạo quy định.
+3\. HYPERLINK "http://thuvienphapluat.vn/archive/Van-ban-hop-nhat-16-VBHN-VPQH-nam-2013-hop-nhat-Luat-thi-dua-khen-thuong-vb219918.aspx?attempt=1" \l "_ftn10" Danh hiệu thi đua, tiêu chuẩn danh hiệu cờ thi đua của đại học quốc gia do Bộ trưởng Bộ Giáo dục và Đào tạo quy định.
 
 4\. Danh hiệu thi đua, tiêu chuẩn danh hiệu thi đua đối với cá nhân, tập thể và người đang công tác, học tập tại cơ sở giáo dục theo quy định của pháp luật về giáo dục, đào tạo do Bộ trưởng Bộ Giáo dục và Đào tạo hoặc người đứng đầu Bộ, ngành quản lý cơ sở giáo dục quy định theo thẩm quyền.
 
@@ -504,13 +488,13 @@ b) Có nhiều công lao to lớn, đặc biệt xuất sắc đối với đấ
 
 a) Đã được tặng “Huân chương Hồ Chí Minh” và sau đó có liên tục từ 25 năm trở lên đến thời điểm đề nghị lập được nhiều thành tích đặc biệt xuất sắc, có phạm vi ảnh hưởng rộng và có nhân tố mới tiêu biểu cho cả nước học tập;
 
-b) Có bề dày truyền thống, có công lao to lớn trong sự nghiệp cách mạng của Đảng, của dân tộc; nội bộ đoàn kết; tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng[^fn22].
+b) Có bề dày truyền thống, có công lao to lớn trong sự nghiệp cách mạng của Đảng, của dân tộc; nội bộ đoàn kết; tổ chức đảng, đoàn thể trong sạch, vững mạnh.
 
-4\. “Huân chương Sao vàng” để tặng cho quân khu, quân đoàn, quân chủng, binh chủng, tổng cục và tương đương thuộc Bộ Quốc phòng, hệ lực lượng trong Công an nhân dân[^fn23] đạt các tiêu chuẩn sau đây:
+4\. “Huân chương Sao vàng” để tặng cho quân khu, quân đoàn, quân chủng, binh chủng, tổng cục và tương đương thuộc Bộ Quốc phòng, hệ lực lượng trong Công an nhân dân, tổng cục và tương đương thuộc Bộ, ban, ngành đạt các tiêu chuẩn sau đây:
 
 a) Đã được tặng “Huân chương Hồ Chí Minh” và sau đó có liên tục từ 25 năm trở lên đến thời điểm đề nghị lập được nhiều thành tích đặc biệt xuất sắc, có phạm vi ảnh hưởng rộng và có nhân tố mới tiêu biểu cho cả nước học tập;
 
-b) Có bề dày truyền thống, có công lao to lớn trong sự nghiệp cách mạng của Đảng, của dân tộc; nội bộ đoàn kết; tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng[^fn24].
+b) Có bề dày truyền thống, có công lao to lớn trong sự nghiệp cách mạng của Đảng, của dân tộc; nội bộ đoàn kết; tổ chức đảng, đoàn thể trong sạch, vững mạnh.
 
 5\. Tập thể đã được tặng “Huân chương Hồ Chí Minh” lần tiếp theo thì thời gian và tiêu chuẩn đề nghị tặng “Huân chương Sao vàng” được tính từ khi được tặng “Huân chương Hồ Chí Minh” lần gần nhất.
 
@@ -530,15 +514,15 @@ b) Có nhiều thành tích đặc biệt xuất sắc, có phạm vi ảnh hư�
 
 a) Đã được tặng “Huân chương Độc lập” hạng Nhất hoặc “Huân chương Quân công” hạng Nhất và sau đó có liên tục từ 10 năm trở lên đến thời điểm đề nghị lập được thành tích đặc biệt xuất sắc, có phạm vi ảnh hưởng rộng và có nhân tố mới tiêu biểu cho cả nước học tập;
 
-b) Có bề dày truyền thống, có công lao to lớn trong sự nghiệp cách mạng của Đảng, của dân tộc; nội bộ đoàn kết; tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng[^fn25].
+b) Có bề dày truyền thống, có công lao to lớn trong sự nghiệp cách mạng của Đảng, của dân tộc; nội bộ đoàn kết; tổ chức đảng, đoàn thể trong sạch, vững mạnh.
 
-3\. “Huân chương Hồ Chí Minh” để tặng cho quân khu, quân đoàn, quân chủng, binh chủng, tổng cục và tương đương thuộc Bộ Quốc phòng, hệ lực lượng trong Công an nhân dân[^fn26] đạt các tiêu chuẩn sau đây:
+3\. “Huân chương Hồ Chí Minh” để tặng cho quân khu, quân đoàn, quân chủng, binh chủng, tổng cục và tương đương thuộc Bộ Quốc phòng, hệ lực lượng trong Công an nhân dân, tổng cục và tương đương thuộc Bộ, ban, ngành đạt các tiêu chuẩn sau đây:
 
 a) Đã được tặng “Huân chương Độc lập” hạng Nhất hoặc “Huân chương Quân công” hạng Nhất và sau đó có liên tục từ 10 năm trở lên đến thời điểm đề nghị lập được thành tích đặc biệt xuất sắc, có phạm vi ảnh hưởng rộng và có nhân tố mới tiêu biểu cho cả nước học tập;
 
-b) Có bề dày truyền thống, có công lao to lớn trong sự nghiệp cách mạng của Đảng, của dân tộc; nội bộ đoàn kết; tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng[^fn27].
+b) Có bề dày truyền thống, có công lao to lớn trong sự nghiệp cách mạng của Đảng, của dân tộc; nội bộ đoàn kết; tổ chức đảng, đoàn thể trong sạch, vững mạnh.
 
-4.[^fn28] Tập thể đã được tặng “Huân chương Hồ Chí Minh” và sau đó có liên tục từ 15 năm trở lên đến thời điểm đề nghị lập được nhiều thành tích xuất sắc; nội bộ đoàn kết; tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên thì được xét tặng “Huân chương Hồ Chí Minh” lần tiếp theo. Trong thời gian đó, nếu được tặng “Huân chương Độc lập” hạng Nhất hoặc “Huân chương Quân công” hạng Nhất thì tiêu chuẩn để tặng “Huân chương Hồ Chí Minh” lần tiếp theo thực hiện theo quy định tại khoản 2 và khoản 3 Điều này.
+4\. Tập thể đã được tặng “Huân chương Hồ Chí Minh” và sau đó có liên tục từ 15 năm trở lên đến thời điểm đề nghị lập được nhiều thành tích xuất sắc; nội bộ đoàn kết; tổ chức đảng, đoàn thể trong sạch, vững mạnh thì được xét tặng “Huân chương Hồ Chí Minh” lần tiếp theo. Trong thời gian đó, nếu được tặng “Huân chương Độc lập” hạng Nhất hoặc “Huân chương Quân công” hạng Nhất thì tiêu chuẩn để tặng “Huân chương Hồ Chí Minh” lần tiếp theo thực hiện theo quy định tại khoản 3 Điều này.
 
 5\. “Huân chương Hồ Chí Minh” để tặng cho người nước ngoài có công lao to lớn đối với nước Cộng hòa xã hội chủ nghĩa Việt Nam được Bộ, ban, ngành công nhận và đề nghị.
 
@@ -556,13 +540,13 @@ b) Có thành tích đặc biệt xuất sắc, có phạm vi ảnh hưởng và
 
 a) Đã được tặng “Huân chương Độc lập” hạng Nhì;
 
-b) Lập được thành tích đặc biệt xuất sắc, có bề dày truyền thống, có công lao to lớn trong sự nghiệp cách mạng của Đảng, của dân tộc; nội bộ đoàn kết; tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng[^fn29].
+b) Lập được thành tích đặc biệt xuất sắc, có bề dày truyền thống, có công lao to lớn trong sự nghiệp cách mạng của Đảng, của dân tộc; nội bộ đoàn kết; tổ chức đảng, đoàn thể trong sạch, vững mạnh.
 
 3\. “Huân chương Độc lập” hạng Nhất để tặng cho tập thể không thuộc đối tượng quy định tại khoản 2 Điều này và đạt các tiêu chuẩn sau đây:
 
 a) Đã được tặng “Huân chương Độc lập” hạng Nhì và sau đó có liên tục từ 10 năm trở lên đến thời điểm đề nghị được công nhận hoàn thành xuất sắc nhiệm vụ hoặc đạt danh hiệu “Tập thể lao động xuất sắc”, trong thời gian đó có 03 lần được tặng “Cờ thi đua của Chính phủ” và 01 lần được tặng “Bằng khen của Thủ tướng Chính phủ” hoặc có 03 lần được tặng “Cờ thi đua của Chính phủ” và 02 lần được tặng cờ thi đua của Bộ, ban, ngành, tỉnh;
 
-b) Nội bộ đoàn kết; tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng[^fn30].
+b) Nội bộ đoàn kết; tổ chức đảng, đoàn thể trong sạch, vững mạnh.
 
 4\. “Huân chương Độc lập” hạng Nhất để tặng cho cá nhân, tập thể người Việt Nam định cư ở nước ngoài, cá nhân, tập thể người nước ngoài tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ, luật pháp, phong tục, tập quán tốt đẹp của Việt Nam và có thành tích đặc biệt xuất sắc đối với nước Cộng hòa xã hội chủ nghĩa Việt Nam được Bộ, ban, ngành, tỉnh công nhận và đề nghị.
 
@@ -580,13 +564,13 @@ b) Lập được nhiều thành tích xuất sắc, có phạm vi ảnh hưởn
 
 a) Đã được tặng “Huân chương Độc lập” hạng Ba;
 
-b) Có nhiều thành tích xuất sắc, có bề dày truyền thống, có công lao to lớn trong sự nghiệp cách mạng của Đảng, của dân tộc; nội bộ đoàn kết; tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng[^fn31].
+b) Có nhiều thành tích xuất sắc, có bề dày truyền thống, có công lao to lớn trong sự nghiệp cách mạng của Đảng, của dân tộc; nội bộ đoàn kết; tổ chức đảng, đoàn thể trong sạch, vững mạnh.
 
 3\. “Huân chương Độc lập” hạng Nhì để tặng cho tập thể không thuộc đối tượng quy định tại khoản 2 Điều này và đạt các tiêu chuẩn sau đây:
 
 a) Đã được tặng “Huân chương Độc lập” hạng Ba và sau đó có liên tục từ 10 năm trở lên đến thời điểm đề nghị được công nhận hoàn thành xuất sắc nhiệm vụ hoặc đạt danh hiệu “Tập thể lao động xuất sắc”, trong thời gian đó có 02 lần được tặng “Cờ thi đua của Chính phủ”, 01 lần được tặng “Bằng khen của Thủ tướng Chính phủ” và 01 lần được tặng bằng khen của Bộ, ban, ngành, tỉnh hoặc có 02 lần được tặng “Cờ thi đua của Chính phủ”, 02 lần được tặng cờ thi đua của Bộ, ban, ngành, tỉnh và 01 lần được tặng bằng khen của Bộ, ban, ngành, tỉnh;
 
-b) Nội bộ đoàn kết; tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng[^fn32].
+b) Nội bộ đoàn kết; tổ chức đảng, đoàn thể trong sạch, vững mạnh.
 
 4\. “Huân chương Độc lập” hạng Nhì để tặng cho cá nhân, tập thể người Việt Nam định cư ở nước ngoài, cá nhân, tập thể người nước ngoài tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ, luật pháp, phong tục, tập quán tốt đẹp của Việt Nam và có nhiều thành tích xuất sắc đối với nước Cộng hòa xã hội chủ nghĩa Việt Nam được Bộ, ban, ngành, tỉnh công nhận và đề nghị.
 
@@ -600,13 +584,13 @@ a) Có quá trình cống hiến lâu dài trong cơ quan, tổ chức, đơn v�
 
 b) Lập được thành tích xuất sắc, có phạm vi ảnh hưởng và nêu gương trong toàn quốc thuộc một trong các lĩnh vực chính trị, kinh tế, xã hội, văn hóa, nghệ thuật, khoa học, công nghệ, đối ngoại hoặc lĩnh vực khác.
 
-2\. “Huân chương Độc lập” hạng Ba để tặng cho Bộ, ban, ngành, tỉnh, cơ quan của Quốc hội nhân dịp kỷ niệm ngày thành lập năm tròn lập được nhiều thành tích xuất sắc; có bề dày truyền thống; có công lao to lớn trong sự nghiệp cách mạng của Đảng, của dân tộc; nội bộ đoàn kết; tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng[^fn33].
+2\. “Huân chương Độc lập” hạng Ba để tặng cho Bộ, ban, ngành, tỉnh, cơ quan của Quốc hội nhân dịp kỷ niệm ngày thành lập năm tròn lập được nhiều thành tích xuất sắc; có bề dày truyền thống; có công lao to lớn trong sự nghiệp cách mạng của Đảng, của dân tộc; nội bộ đoàn kết; tổ chức đảng, đoàn thể trong sạch, vững mạnh.
 
 3\. “Huân chương Độc lập” hạng Ba để tặng cho tập thể không thuộc đối tượng quy định tại khoản 2 Điều này và đạt các tiêu chuẩn sau đây:
 
 a) Đã được tặng “Huân chương Lao động” hạng Nhất và sau đó có liên tục từ 10 năm trở lên đến thời điểm đề nghị được công nhận hoàn thành xuất sắc nhiệm vụ hoặc đạt danh hiệu “Tập thể lao động xuất sắc”, trong thời gian đó có 02 lần được tặng “Cờ thi đua của Chính phủ” và 01 lần được tặng “Bằng khen của Thủ tướng Chính phủ” hoặc có 02 lần được tặng “Cờ thi đua của Chính phủ” và 02 lần được tặng cờ thi đua của Bộ, ban, ngành, tỉnh;
 
-b) Nội bộ đoàn kết; tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng[^fn34];
+b) Nội bộ đoàn kết; tổ chức đảng, đoàn thể trong sạch, vững mạnh;
 
 c) Có quá trình xây dựng và phát triển từ 30 năm trở lên.
 
@@ -626,13 +610,13 @@ b) Lập được thành tích đặc biệt xuất sắc trong chiến đấu, 
 
 a) Đã được tặng “Huân chương Quân công” hạng Nhì;
 
-b) Lập được thành tích đặc biệt xuất sắc, có công lao to lớn trong sự nghiệp cách mạng của Đảng, của dân tộc; nội bộ đoàn kết; tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng[^fn35].
+b) Lập được thành tích đặc biệt xuất sắc, có công lao to lớn trong sự nghiệp cách mạng của Đảng, của dân tộc; nội bộ đoàn kết; tổ chức đảng, đoàn thể trong sạch, vững mạnh.
 
 3\. “Huân chương Quân công” hạng Nhất để tặng cho tập thể trong Quân đội nhân dân, Công an nhân dân đạt các tiêu chuẩn sau đây:
 
 a) Đã được tặng “Huân chương Quân công” hạng Nhì và sau đó có liên tục từ 10 năm trở lên đến thời điểm đề nghị được công nhận hoàn thành xuất sắc nhiệm vụ hoặc đạt danh hiệu “Đơn vị quyết thắng”, trong thời gian đó có 03 lần được tặng “Cờ thi đua của Chính phủ” và 01 lần được tặng “Bằng khen của Thủ tướng Chính phủ” hoặc có 03 lần được tặng “Cờ thi đua của Chính phủ” và 02 lần được tặng cờ thi đua của Bộ Quốc phòng hoặc Bộ Công an;
 
-b) Nội bộ đoàn kết; tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng[^fn36].
+b) Nội bộ đoàn kết; tổ chức đảng, đoàn thể trong sạch, vững mạnh.
 
 4\. Chính phủ quy định chi tiết đối tượng, tiêu chuẩn khen thưởng “Huân chương Quân công” hạng Nhất đối với trường hợp quy định tại điểm a khoản 1 Điều này.
 
@@ -648,13 +632,13 @@ b) Lập được nhiều thành tích xuất sắc trong chiến đấu, phục
 
 a) Đã được tặng “Huân chương Quân công” hạng Ba;
 
-b) Lập được nhiều thành tích xuất sắc, có công lao to lớn trong sự nghiệp cách mạng của Đảng, của dân tộc; nội bộ đoàn kết; tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng[^fn37].
+b) Lập được nhiều thành tích xuất sắc, có công lao to lớn trong sự nghiệp cách mạng của Đảng, của dân tộc; nội bộ đoàn kết; tổ chức đảng, đoàn thể trong sạch, vững mạnh.
 
 3\. “Huân chương Quân công” hạng Nhì để tặng cho tập thể trong Quân đội nhân dân, Công an nhân dân đạt các tiêu chuẩn sau đây:
 
 a) Đã được tặng “Huân chương Quân công” hạng Ba và sau đó có liên tục từ 10 năm trở lên đến thời điểm đề nghị được công nhận hoàn thành xuất sắc nhiệm vụ hoặc đạt danh hiệu “Đơn vị quyết thắng”, trong thời gian đó có 02 lần được tặng “Cờ thi đua của Chính phủ”, 01 lần được tặng “Bằng khen của Thủ tướng Chính phủ” và 01 lần được tặng bằng khen của Bộ Quốc phòng hoặc Bộ Công an hoặc có 02 lần được tặng “Cờ thi đua của Chính phủ”, 02 lần được tặng cờ thi đua của Bộ Quốc phòng hoặc Bộ Công an và 01 lần được tặng bằng khen của Bộ Quốc phòng hoặc Bộ Công an;
 
-b) Nội bộ đoàn kết; tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng[^fn38].
+b) Nội bộ đoàn kết; tổ chức đảng, đoàn thể trong sạch, vững mạnh.
 
 4\. Chính phủ quy định chi tiết đối tượng, tiêu chuẩn khen thưởng “Huân chương Quân công” hạng Nhì đối với trường hợp quy định tại điểm a khoản 1 Điều này.
 
@@ -666,13 +650,13 @@ a) Có quá trình cống hiến lâu dài trong lực lượng vũ trang nhân 
 
 b) Lập được thành tích xuất sắc trong chiến đấu, phục vụ chiến đấu, huấn luyện, xây dựng lực lượng, củng cố nền quốc phòng toàn dân, nền an ninh nhân dân được nêu gương trong toàn quốc.
 
-2\. “Huân chương Quân công” hạng Ba để tặng cho Bộ Quốc phòng, Bộ Công an nhân dịp kỷ niệm ngày thành lập năm tròn lập được thành tích xuất sắc; có công lao to lớn trong sự nghiệp cách mạng của Đảng, của dân tộc; nội bộ đoàn kết; tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng[^fn39].
+2\. “Huân chương Quân công” hạng Ba để tặng cho Bộ Quốc phòng, Bộ Công an nhân dịp kỷ niệm ngày thành lập năm tròn lập được thành tích xuất sắc; có công lao to lớn trong sự nghiệp cách mạng của Đảng, của dân tộc; nội bộ đoàn kết; tổ chức đảng, đoàn thể trong sạch, vững mạnh.
 
 3\. “Huân chương Quân công” hạng Ba để tặng cho tập thể trong Quân đội nhân dân, Công an nhân dân đạt các tiêu chuẩn sau đây:
 
 a) Đã được tặng “Huân chương Bảo vệ Tổ quốc” hạng Nhất và sau đó có liên tục từ 10 năm trở lên đến thời điểm đề nghị được công nhận hoàn thành xuất sắc nhiệm vụ hoặc đạt danh hiệu “Đơn vị quyết thắng”, trong thời gian đó có 02 lần được tặng “Cờ thi đua của Chính phủ” và 01 lần được tặng “Bằng khen của Thủ tướng Chính phủ” hoặc có 02 lần được tặng “Cờ thi đua của Chính phủ” và 02 lần được tặng cờ thi đua của Bộ Quốc phòng hoặc Bộ Công an;
 
-b) Nội bộ đoàn kết; tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng[^fn40];
+b) Nội bộ đoàn kết; tổ chức đảng, đoàn thể trong sạch, vững mạnh;
 
 c) Có quá trình xây dựng và phát triển từ 30 năm trở lên.
 
@@ -686,9 +670,9 @@ a) Lập được thành tích đặc biệt xuất sắc đột xuất trong la
 
 b) Được giải thưởng cao của thế giới;
 
-c) Có phát minh, sáng chế được ứng dụng mang lại hiệu quả cao, có phạm vi ảnh hưởng và nêu gương trong toàn quốc hoặc có công trình khoa học, công nghệ và đổi mới sáng tạo[^fn41] hoặc tác phẩm xuất sắc tiêu biểu cấp Nhà nước được cơ quan, tổ chức có thẩm quyền công nhận;
+c) Có phát minh, sáng chế được ứng dụng mang lại hiệu quả cao, có phạm vi ảnh hưởng và nêu gương trong toàn quốc hoặc có công trình khoa học và công nghệ hoặc tác phẩm xuất sắc tiêu biểu cấp Nhà nước được cơ quan, tổ chức có thẩm quyền công nhận;
 
-d)[^fn42] Có nhiều đóng góp lớn vào sự phát triển kinh tế - xã hội, quốc phòng, an ninh, đối ngoại của đất nước; ứng dụng khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số; bảo đảm an sinh xã hội, từ thiện nhân đạo có phạm vi ảnh hưởng trong toàn quốc được Bộ, ban, ngành, tỉnh công nhận;
+d) Có nhiều đóng góp lớn vào sự phát triển kinh tế - xã hội của đất nước, bảo đảm an sinh xã hội, từ thiện nhân đạo, ứng dụng tiến bộ khoa học, kỹ thuật;
 
 đ) Đã được tặng “Huân chương Lao động” hạng Nhì và sau đó có liên tục từ 05 năm trở lên đến thời điểm đề nghị được công nhận hoàn thành tốt nhiệm vụ trở lên, trong thời gian đó có từ 03 năm trở lên được công nhận hoàn thành xuất sắc nhiệm vụ và có 02 lần được tặng danh hiệu chiến sĩ thi đua Bộ, ban, ngành, tỉnh;
 
@@ -708,7 +692,7 @@ c) Nông dân có 03 sáng kiến được áp dụng có hiệu quả trong ph�
 
 a) Lập được thành tích đặc biệt xuất sắc đột xuất, có phạm vi ảnh hưởng và nêu gương trong toàn quốc được Bộ, ban, ngành, tỉnh công nhận;
 
-b)[^fn43] Có nhiều đóng góp lớn vào sự phát triển kinh tế - xã hội, quốc phòng, an ninh, đối ngoại của đất nước; ứng dụng khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số; bảo đảm an sinh xã hội, từ thiện nhân đạo có phạm vi ảnh hưởng trong toàn quốc được Bộ, ban, ngành, tỉnh công nhận;
+b) Có nhiều đóng góp lớn vào sự phát triển kinh tế - xã hội của đất nước, bảo đảm an sinh xã hội, từ thiện nhân đạo, ứng dụng tiến bộ khoa học, kỹ thuật;
 
 c) Có thành tích đặc biệt xuất sắc, được bình xét khi sơ kết, tổng kết phong trào thi đua do Chủ tịch nước, Thủ tướng Chính phủ phát động;
 
@@ -728,9 +712,9 @@ a) Lập được thành tích xuất sắc đột xuất trong lao động, cô
 
 b) Được giải thưởng quốc tế cao nhất của khu vực;
 
-c) Có phát minh, sáng chế được ứng dụng mang lại hiệu quả cao, có phạm vi ảnh hưởng và nêu gương trong Bộ, ban, ngành, tỉnh hoặc có công trình khoa học, công nghệ và đổi mới sáng tạo[^fn44] hoặc tác phẩm xuất sắc tiêu biểu cấp Bộ, ban, ngành, tỉnh;
+c) Có phát minh, sáng chế được ứng dụng mang lại hiệu quả cao, có phạm vi ảnh hưởng và nêu gương trong Bộ, ban, ngành, tỉnh hoặc có công trình khoa học và công nghệ hoặc tác phẩm xuất sắc tiêu biểu cấp Bộ, ban, ngành, tỉnh;
 
-d)[^fn45] Có đóng góp lớn vào sự phát triển kinh tế - xã hội, quốc phòng, an ninh, đối ngoại của đất nước; ứng dụng khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số; bảo đảm an sinh xã hội, từ thiện nhân đạo có phạm vi ảnh hưởng trong Bộ, ban, ngành, tỉnh được Bộ, ban, ngành, tỉnh công nhận;
+d) Có đóng góp lớn vào sự phát triển kinh tế - xã hội của đất nước, bảo đảm an sinh xã hội, từ thiện nhân đạo, ứng dụng tiến bộ khoa học, kỹ thuật;
 
 đ) Đã được tặng “Huân chương Lao động” hạng Ba và sau đó có liên tục từ 05 năm trở lên được công nhận hoàn thành tốt nhiệm vụ trở lên, trong thời gian đó có từ 02 năm trở lên được công nhận hoàn thành xuất sắc nhiệm vụ và có 01 lần được tặng danh hiệu chiến sĩ thi đua Bộ, ban, ngành, tỉnh;
 
@@ -750,7 +734,7 @@ c) Nông dân có 02 sáng kiến được áp dụng có hiệu quả trong ph�
 
 a) Lập được thành tích xuất sắc đột xuất, có phạm vi ảnh hưởng trong Bộ, ban, ngành, tỉnh;
 
-b)[^fn46] Có đóng góp lớn vào sự phát triển kinh tế - xã hội, quốc phòng, an ninh, đối ngoại của đất nước; ứng dụng khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số; bảo đảm an sinh xã hội, từ thiện nhân đạo có phạm vi ảnh hưởng trong Bộ, ban, ngành, tỉnh được Bộ, ban, ngành, tỉnh công nhận;
+b) Có đóng góp lớn vào sự phát triển kinh tế - xã hội của đất nước, bảo đảm an sinh xã hội, từ thiện nhân đạo, ứng dụng tiến bộ khoa học, kỹ thuật;
 
 c) Có nhiều thành tích xuất sắc tiêu biểu, được bình xét khi sơ kết, tổng kết phong trào thi đua do Chủ tịch nước, Thủ tướng Chính phủ phát động;
 
@@ -766,11 +750,11 @@ d) Đã được tặng “Huân chương Lao động” hạng Ba và sau đó 
 
 1\. “Huân chương Lao động” hạng Ba để tặng hoặc truy tặng cho cá nhân chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước và đạt một trong các tiêu chuẩn sau đây:
 
-a)[^fn47] Có thành tích xuất sắc tiêu biểu, được bình xét khi sơ kết, tổng kết phong trào thi đua do Chủ tịch nước, Thủ tướng Chính phủ phát động hoặc phong trào thi đua do Bộ, ban, ngành, tỉnh phát động có thời gian thực hiện từ 05 năm trở lên hoặc có thành tích xuất sắc trong phục vụ nhiệm vụ chính trị của Đảng, Nhà nước;
+a) Có thành tích xuất sắc tiêu biểu, được bình xét khi sơ kết, tổng kết phong trào thi đua do Bộ, ban, ngành, tỉnh phát động có thời gian thực hiện từ 05 năm trở lên;
 
-b) Có phát minh, sáng chế được ứng dụng mang lại hiệu quả cao, có phạm vi ảnh hưởng và nêu gương ở một trong các lĩnh vực thuộc phạm vi quản lý của Bộ, ban, ngành, tỉnh hoặc công trình khoa học, công nghệ và đổi mới sáng tạo[^fn48] hoặc tác phẩm xuất sắc tiêu biểu ở một trong các lĩnh vực thuộc phạm vi quản lý của Bộ, ban, ngành, tỉnh;
+b) Có phát minh, sáng chế được ứng dụng mang lại hiệu quả cao, có phạm vi ảnh hưởng và nêu gương ở một trong các lĩnh vực thuộc phạm vi quản lý của Bộ, ban, ngành, tỉnh hoặc công trình khoa học và công nghệ hoặc tác phẩm xuất sắc tiêu biểu ở một trong các lĩnh vực thuộc phạm vi quản lý của Bộ, ban, ngành, tỉnh;
 
-c)[^fn49] Có nhiều đóng góp vào sự phát triển kinh tế - xã hội, quốc phòng, an ninh, đối ngoại của đất nước; ứng dụng khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số; bảo đảm an sinh xã hội, từ thiện nhân đạo có phạm vi ảnh hưởng ở một trong các lĩnh vực thuộc phạm vi quản lý của Bộ, ban, ngành, tỉnh;
+c) Có nhiều đóng góp vào sự phát triển kinh tế - xã hội của đất nước, bảo đảm an sinh xã hội, từ thiện nhân đạo, ứng dụng tiến bộ khoa học, kỹ thuật;
 
 d) Có thành tích xuất sắc đột xuất trong lao động, công tác, sản xuất, kinh doanh, học tập và nghiên cứu khoa học hoặc lĩnh vực khác, có phạm vi ảnh hưởng và nêu gương ở một trong các lĩnh vực thuộc phạm vi quản lý của Bộ, ban, ngành, tỉnh;
 
@@ -794,7 +778,7 @@ c) Nông dân có sáng kiến được áp dụng có hiệu quả trong phạm
 
 a) Lập được thành tích xuất sắc đột xuất, có phạm vi ảnh hưởng trong từng lĩnh vực thuộc phạm vi quản lý của Bộ, ban, ngành, tỉnh;
 
-b)[^fn50] Có nhiều đóng góp trong phát triển kinh tế - xã hội, quốc phòng, an ninh, đối ngoại của đất nước; ứng dụng khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số; bảo đảm an sinh xã hội, từ thiện nhân đạo có phạm vi ảnh hưởng ở một trong các lĩnh vực thuộc phạm vi quản lý của Bộ, ban, ngành, tỉnh;
+b) Có nhiều đóng góp trong phát triển kinh tế - xã hội của đất nước, bảo đảm an sinh xã hội, từ thiện nhân đạo, ứng dụng tiến bộ khoa học, kỹ thuật;
 
 c) Có thành tích xuất sắc, được bình xét khi sơ kết, tổng kết phong trào thi đua do Chủ tịch nước, Thủ tướng Chính phủ phát động hoặc phong trào thi đua do Bộ, ban, ngành, tỉnh phát động có thời gian thực hiện từ 05 năm trở lên;
 
@@ -814,19 +798,17 @@ d) Có thành tích xuất sắc trong phục vụ nhiệm vụ chính trị c�
 
 a) Lập được thành tích đặc biệt xuất sắc đột xuất trong chiến đấu, phục vụ chiến đấu, huấn luyện, xây dựng lực lượng, củng cố nền quốc phòng toàn dân, nền an ninh nhân dân, có phạm vi ảnh hưởng và nêu gương trong toàn quốc;
 
-b) Có phát minh, sáng chế, công trình khoa học, công nghệ và đổi mới sáng tạo[^fn51] hoặc tác phẩm xuất sắc tiêu biểu cấp Nhà nước về quốc phòng, an ninh được cơ quan, tổ chức có thẩm quyền công nhận;
+b) Có phát minh, sáng chế, công trình khoa học và công nghệ hoặc tác phẩm xuất sắc tiêu biểu cấp Nhà nước về quốc phòng, an ninh được cơ quan, tổ chức có thẩm quyền công nhận;
 
 c) Đã được tặng “Huân chương Bảo vệ Tổ quốc” hạng Nhì và sau đó có liên tục từ 05 năm trở lên đến thời điểm đề nghị được công nhận hoàn thành tốt nhiệm vụ trở lên, trong thời gian đó có từ 03 năm trở lên được công nhận hoàn thành xuất sắc nhiệm vụ và có 02 lần được Bộ Quốc phòng hoặc Bộ Công an tặng danh hiệu chiến sĩ thi đua cấp Bộ;
 
 d) Có quá trình cống hiến lâu dài trong lực lượng vũ trang nhân dân.
 
-2\. “Huân chương Bảo vệ Tổ quốc” hạng Nhất để tặng cho tập thể thuộc lực lượng vũ trang nhân dân có nội bộ đoàn kết, tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng[^fn52], chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước và đạt một trong các tiêu chuẩn sau đây:
+2\. “Huân chương Bảo vệ Tổ quốc” hạng Nhất để tặng cho tập thể thuộc lực lượng vũ trang nhân dân có nội bộ đoàn kết, tổ chức đảng, đoàn thể trong sạch, vững mạnh, chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước và đạt một trong các tiêu chuẩn sau đây:
 
 a) Lập được thành tích đặc biệt xuất sắc đột xuất trong công tác huấn luyện, sẵn sàng chiến đấu, xây dựng lực lượng, củng cố nền quốc phòng toàn dân, nền an ninh nhân dân, có phạm vi ảnh hưởng trong toàn quốc được Bộ Quốc phòng hoặc Bộ Công an công nhận;
 
-b) Đã được tặng “Huân chương Bảo vệ Tổ quốc” hạng Nhì và sau đó có liên tục từ 05 năm trở lên đến thời điểm đề nghị được công nhận hoàn thành xuất sắc nhiệm vụ hoặc đạt danh hiệu “Đơn vị quyết thắng”, trong thời gian đó có 02 lần được tặng “Cờ thi đua của Chính phủ” hoặc có 01 lần được tặng “Cờ thi đua của Chính phủ” và 02 lần được tặng cờ thi đua của Bộ Quốc phòng, Bộ Công an hoặc có 04 lần được tặng cờ thi đua của Bộ Quốc phòng, Bộ Công an hoặc có 04 lần được tặng bằng khen của Bộ Quốc phòng, Bộ Công an đối với tập thể không thuộc đối tượng được tặng cờ thi đua;
-
-c)[^fn53] Có thành tích đặc biệt xuất sắc, được bình xét khi sơ kết, tổng kết phong trào thi đua do Chủ tịch nước, Thủ tướng Chính phủ phát động.
+b) Đã được tặng “Huân chương Bảo vệ Tổ quốc” hạng Nhì và sau đó có liên tục từ 05 năm trở lên đến thời điểm đề nghị được công nhận hoàn thành xuất sắc nhiệm vụ hoặc đạt danh hiệu “Đơn vị quyết thắng”, trong thời gian đó có 02 lần được tặng “Cờ thi đua của Chính phủ” hoặc có 01 lần được tặng “Cờ thi đua của Chính phủ” và 02 lần được tặng cờ thi đua của Bộ Quốc phòng, Bộ Công an hoặc có 04 lần được tặng cờ thi đua của Bộ Quốc phòng, Bộ Công an hoặc có 04 lần được tặng bằng khen của Bộ Quốc phòng, Bộ Công an đối với tập thể không thuộc đối tượng được tặng cờ thi đua.
 
 3\. Chính phủ quy định chi tiết đối tượng, tiêu chuẩn khen thưởng “Huân chương Bảo vệ Tổ quốc” hạng Nhất đối với trường hợp quy định tại điểm d khoản 1 Điều này.
 
@@ -836,19 +818,17 @@ c)[^fn53] Có thành tích đặc biệt xuất sắc, được bình xét khi s
 
 a) Lập được thành tích xuất sắc đột xuất trong chiến đấu, phục vụ chiến đấu, huấn luyện, xây dựng lực lượng, củng cố nền quốc phòng toàn dân, nền an ninh nhân dân, có phạm vi ảnh hưởng và nêu gương trong toàn quân hoặc toàn lực lượng Công an nhân dân;
 
-b) Có phát minh, sáng chế, công trình khoa học, công nghệ và đổi mới sáng tạo[^fn54] hoặc tác phẩm xuất sắc cấp Nhà nước về quốc phòng, an ninh được cơ quan, tổ chức có thẩm quyền công nhận;
+b) Có phát minh, sáng chế, công trình khoa học và công nghệ hoặc tác phẩm xuất sắc cấp Nhà nước về quốc phòng, an ninh được cơ quan, tổ chức có thẩm quyền công nhận;
 
 c) Đã được tặng “Huân chương Bảo vệ Tổ quốc” hạng Ba và sau đó có liên tục từ 05 năm trở lên đến thời điểm đề nghị được công nhận hoàn thành tốt nhiệm vụ trở lên, trong thời gian đó có từ 02 năm trở lên được công nhận hoàn thành xuất sắc nhiệm vụ và có 01 lần được Bộ Quốc phòng hoặc Bộ Công an tặng danh hiệu chiến sĩ thi đua cấp Bộ;
 
 d) Có quá trình cống hiến lâu dài trong lực lượng vũ trang nhân dân.
 
-2\. “Huân chương Bảo vệ Tổ quốc” hạng Nhì để tặng cho tập thể thuộc lực lượng vũ trang nhân dân có nội bộ đoàn kết, tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng[^fn55], chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước và đạt một trong các tiêu chuẩn sau đây:
+2\. “Huân chương Bảo vệ Tổ quốc” hạng Nhì để tặng cho tập thể thuộc lực lượng vũ trang nhân dân có nội bộ đoàn kết, tổ chức đảng, đoàn thể trong sạch, vững mạnh, chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước và đạt một trong các tiêu chuẩn sau đây:
 
 a) Lập được thành tích xuất sắc đột xuất trong công tác huấn luyện, sẵn sàng chiến đấu, xây dựng lực lượng, củng cố nền quốc phòng toàn dân, nền an ninh nhân dân, có phạm vi ảnh hưởng trong toàn quân hoặc toàn lực lượng Công an nhân dân được Bộ Quốc phòng hoặc Bộ Công an công nhận;
 
-b) Đã được tặng “Huân chương Bảo vệ Tổ quốc” hạng Ba và sau đó có liên tục từ 05 năm trở lên đến thời điểm đề nghị được công nhận hoàn thành xuất sắc nhiệm vụ hoặc đạt danh hiệu “Đơn vị quyết thắng”, trong thời gian đó có 01 lần được tặng “Cờ thi đua của Chính phủ” và 01 lần được tặng cờ thi đua của Bộ Quốc phòng, Bộ Công an hoặc có 03 lần được tặng cờ thi đua của Bộ Quốc phòng, Bộ Công an hoặc có 03 lần được tặng bằng khen của Bộ Quốc phòng, Bộ Công an đối với tập thể không thuộc đối tượng được tặng cờ thi đua;
-
-c)[^fn56] Có nhiều thành tích xuất sắc tiêu biểu, được bình xét khi sơ kết, tổng kết phong trào thi đua do Chủ tịch nước, Thủ tướng Chính phủ phát động.
+b) Đã được tặng “Huân chương Bảo vệ Tổ quốc” hạng Ba và sau đó có liên tục từ 05 năm trở lên đến thời điểm đề nghị được công nhận hoàn thành xuất sắc nhiệm vụ hoặc đạt danh hiệu “Đơn vị quyết thắng”, trong thời gian đó có 01 lần được tặng “Cờ thi đua của Chính phủ” và 01 lần được tặng cờ thi đua của Bộ Quốc phòng, Bộ Công an hoặc có 03 lần được tặng cờ thi đua của Bộ Quốc phòng, Bộ Công an hoặc có 03 lần được tặng bằng khen của Bộ Quốc phòng, Bộ Công an đối với tập thể không thuộc đối tượng được tặng cờ thi đua.
 
 3\. Chính phủ quy định chi tiết đối tượng, tiêu chuẩn khen thưởng “Huân chương Bảo vệ Tổ quốc” hạng Nhì đối với trường hợp quy định tại điểm d khoản 1 Điều này.
 
@@ -858,21 +838,17 @@ c)[^fn56] Có nhiều thành tích xuất sắc tiêu biểu, được bình xé
 
 a) Có thành tích xuất sắc đột xuất trong chiến đấu, phục vụ chiến đấu, huấn luyện, xây dựng lực lượng, củng cố nền quốc phòng toàn dân, nền an ninh nhân dân, có phạm vi ảnh hưởng trong toàn quân khu, quân đoàn, quân chủng, binh chủng, tổng cục và tương đương thuộc Bộ Quốc phòng hoặc hệ lực lượng trong Công an nhân dân;
 
-b) Có phát minh, sáng chế, công trình khoa học, công nghệ và đổi mới sáng tạo[^fn57] hoặc tác phẩm xuất sắc cấp Bộ, ban, ngành, tỉnh về quốc phòng, an ninh được cơ quan, tổ chức có thẩm quyền công nhận;
+b) Có phát minh, sáng chế, công trình khoa học và công nghệ hoặc tác phẩm xuất sắc cấp Bộ, ban, ngành, tỉnh về quốc phòng, an ninh được cơ quan, tổ chức có thẩm quyền công nhận;
 
 c) Đã được tặng “Bằng khen của Thủ tướng Chính phủ” và sau đó có liên tục từ 05 năm trở lên đến thời điểm đề nghị được công nhận hoàn thành tốt nhiệm vụ trở lên, trong thời gian đó có từ 01 năm trở lên được công nhận hoàn thành xuất sắc nhiệm vụ và có 03 lần được Bộ Quốc phòng hoặc Bộ Công an tặng danh hiệu “Chiến sĩ thi đua cơ sở”;
 
-d) Có quá trình cống hiến lâu dài trong lực lượng vũ trang nhân dân;
+d) Có quá trình cống hiến lâu dài trong lực lượng vũ trang nhân dân.
 
-đ)[^fn58] Có thành tích xuất sắc tiêu biểu, được bình xét khi sơ kết, tổng kết phong trào thi đua do Chủ tịch nước, Thủ tướng Chính phủ phát động hoặc phong trào thi đua do Bộ Quốc phòng, Bộ Công an phát động có thời gian thực hiện từ 05 năm trở lên.
-
-2\. “Huân chương Bảo vệ Tổ quốc” hạng Ba để tặng cho tập thể thuộc lực lượng vũ trang nhân dân có nội bộ đoàn kết, tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng[^fn59], chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước và đạt một trong các tiêu chuẩn sau đây:
+2\. “Huân chương Bảo vệ Tổ quốc” hạng Ba để tặng cho tập thể thuộc lực lượng vũ trang nhân dân có nội bộ đoàn kết, tổ chức đảng, đoàn thể trong sạch, vững mạnh, chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước và đạt một trong các tiêu chuẩn sau đây:
 
 a) Lập được thành tích xuất sắc đột xuất trong công tác huấn luyện, sẵn sàng chiến đấu, xây dựng lực lượng, củng cố nền quốc phòng toàn dân, nền an ninh nhân dân, có phạm vi ảnh hưởng trong toàn quân khu, quân đoàn, quân chủng, binh chủng, tổng cục và tương đương thuộc Bộ Quốc phòng hoặc hệ lực lượng trong Công an nhân dân được Bộ Quốc phòng hoặc Bộ Công an công nhận;
 
-b) Có quá trình xây dựng, phát triển từ 10 năm trở lên, trong thời gian đó đã được tặng “Bằng khen của Thủ tướng Chính phủ” và sau đó có liên tục từ 05 năm trở lên đến thời điểm đề nghị được công nhận hoàn thành xuất sắc nhiệm vụ hoặc đạt danh hiệu “Đơn vị quyết thắng”, trong thời gian đó có 01 lần được tặng “Cờ thi đua của Chính phủ” hoặc có 02 lần được tặng cờ thi đua của Bộ Quốc phòng, Bộ Công an hoặc có 01 lần được tặng cờ thi đua của Bộ Quốc phòng, Bộ Công an và 01 lần được tặng bằng khen của Bộ Quốc phòng, Bộ Công an hoặc có 02 lần được tặng bằng khen của Bộ Quốc phòng, Bộ Công an đối với tập thể không thuộc đối tượng được tặng cờ thi đua;
-
-c)[^fn60] Có thành tích xuất sắc, được bình xét khi sơ kết, tổng kết phong trào thi đua do Chủ tịch nước, Thủ tướng Chính phủ phát động hoặc phong trào thi đua do Bộ Quốc phòng, Bộ Công an phát động có thời gian thực hiện từ 05 năm trở lên.
+b) Có quá trình xây dựng, phát triển từ 10 năm trở lên, trong thời gian đó đã được tặng “Bằng khen của Thủ tướng Chính phủ” và sau đó có liên tục từ 05 năm trở lên đến thời điểm đề nghị được công nhận hoàn thành xuất sắc nhiệm vụ hoặc đạt danh hiệu “Đơn vị quyết thắng”, trong thời gian đó có 01 lần được tặng “Cờ thi đua của Chính phủ” hoặc có 02 lần được tặng cờ thi đua của Bộ Quốc phòng, Bộ Công an hoặc có 01 lần được tặng cờ thi đua của Bộ Quốc phòng, Bộ Công an và 01 lần được tặng bằng khen của Bộ Quốc phòng, Bộ Công an hoặc có 02 lần được tặng bằng khen của Bộ Quốc phòng, Bộ Công an đối với tập thể không thuộc đối tượng được tặng cờ thi đua.
 
 3\. Chính phủ quy định chi tiết đối tượng, tiêu chuẩn khen thưởng “Huân chương Bảo vệ Tổ quốc” hạng Ba đối với trường hợp quy định tại điểm d khoản 1 Điều này.
 
@@ -888,7 +864,7 @@ b) Chủ động, sáng tạo, mưu trí, dũng cảm, đạt hiệu quả cao t
 
 a) Lập được thành tích đặc biệt xuất sắc trong chiến đấu, phục vụ chiến đấu, có phạm vi ảnh hưởng và nêu gương trong toàn quốc được Bộ, ban, ngành, tỉnh công nhận;
 
-b) Chủ động, sáng tạo, mưu trí, dũng cảm, đạt hiệu quả cao trong chiến đấu, phục vụ chiến đấu bảo vệ chủ quyền, an ninh quốc gia hoặc đấu tranh với tội phạm, giữ vững an ninh chính trị, trật tự, an toàn xã hội; nội bộ đoàn kết;[^fn61] thành tích đạt được có phạm vi ảnh hưởng và nêu gương trong toàn quốc được Bộ, ban, ngành, tỉnh công nhận.
+b) Chủ động, sáng tạo, mưu trí, dũng cảm, đạt hiệu quả cao trong chiến đấu, phục vụ chiến đấu bảo vệ chủ quyền, an ninh quốc gia hoặc đấu tranh với tội phạm, giữ vững an ninh chính trị, trật tự, an toàn xã hội; nội bộ đoàn kết; tổ chức đảng, đoàn thể trong sạch, vững mạnh; hoàn thành xuất sắc nhiệm vụ được giao; thành tích đạt được có phạm vi ảnh hưởng và nêu gương trong toàn quốc được Bộ, ban, ngành, tỉnh công nhận.
 
 #### Điều 49. “Huân chương Chiến công” hạng Nhì
 
@@ -902,7 +878,7 @@ b) Chủ động, mưu trí, dũng cảm, đạt hiệu quả cao trong chiến 
 
 a) Lập được thành tích xuất sắc trong chiến đấu, phục vụ chiến đấu, có phạm vi ảnh hưởng và nêu gương trong toàn quân, toàn lực lượng Công an nhân dân hoặc trong Bộ, ban, ngành, tỉnh được Bộ, ban, ngành, tỉnh công nhận;
 
-b) Chủ động, mưu trí, dũng cảm, đạt hiệu quả cao trong chiến đấu, phục vụ chiến đấu bảo vệ chủ quyền, an ninh quốc gia hoặc đấu tranh với tội phạm, giữ vững an ninh chính trị, trật tự, an toàn xã hội; nội bộ đoàn kết;[^fn62] thành tích đạt được có phạm vi ảnh hưởng và nêu gương trong toàn quân, toàn lực lượng Công an nhân dân hoặc trong Bộ, ban, ngành, tỉnh được Bộ, ban, ngành, tỉnh công nhận.
+b) Chủ động, mưu trí, dũng cảm, đạt hiệu quả cao trong chiến đấu, phục vụ chiến đấu bảo vệ chủ quyền, an ninh quốc gia hoặc đấu tranh với tội phạm, giữ vững an ninh chính trị, trật tự, an toàn xã hội; nội bộ đoàn kết; tổ chức đảng, đoàn thể trong sạch, vững mạnh; hoàn thành xuất sắc nhiệm vụ được giao; thành tích đạt được có phạm vi ảnh hưởng và nêu gương trong toàn quân, toàn lực lượng Công an nhân dân hoặc trong Bộ, ban, ngành, tỉnh được Bộ, ban, ngành, tỉnh công nhận.
 
 #### Điều 50. “Huân chương Chiến công” hạng Ba
 
@@ -916,7 +892,7 @@ b) Chủ động, mưu trí, dũng cảm, đạt hiệu quả cao trong chiến 
 
 a) Lập được thành tích xuất sắc trong chiến đấu, phục vụ chiến đấu; có tác dụng động viên, giáo dục, nêu gương trong toàn quân khu, quân đoàn, quân chủng, binh chủng, tổng cục và tương đương thuộc Bộ Quốc phòng, trong hệ lực lượng trong Công an nhân dân hoặc ở một trong các lĩnh vực thuộc phạm vi quản lý của Bộ, ban, ngành, tỉnh được Bộ, ban, ngành, tỉnh công nhận;
 
-b) Chủ động, mưu trí, dũng cảm, đạt hiệu quả trong chiến đấu, phục vụ chiến đấu bảo vệ chủ quyền, an ninh quốc gia hoặc đấu tranh với tội phạm, giữ vững an ninh chính trị, trật tự, an toàn xã hội; nội bộ đoàn kết;[^fn63] thành tích đạt được có phạm vi ảnh hưởng và nêu gương trong toàn quân khu, quân đoàn, quân chủng, binh chủng, tổng cục và tương đương thuộc Bộ Quốc phòng, trong hệ lực lượng trong Công an nhân dân hoặc ở một trong các lĩnh vực thuộc phạm vi quản lý của Bộ, ban, ngành, tỉnh được Bộ, ban, ngành, tỉnh công nhận.
+b) Chủ động, mưu trí, dũng cảm, đạt hiệu quả trong chiến đấu, phục vụ chiến đấu bảo vệ chủ quyền, an ninh quốc gia hoặc đấu tranh với tội phạm, giữ vững an ninh chính trị, trật tự, an toàn xã hội; nội bộ đoàn kết; tổ chức đảng, đoàn thể trong sạch, vững mạnh; hoàn thành xuất sắc nhiệm vụ được giao; thành tích đạt được có phạm vi ảnh hưởng và nêu gương trong toàn quân khu, quân đoàn, quân chủng, binh chủng, tổng cục và tương đương thuộc Bộ Quốc phòng, trong hệ lực lượng trong Công an nhân dân hoặc ở một trong các lĩnh vực thuộc phạm vi quản lý của Bộ, ban, ngành, tỉnh được Bộ, ban, ngành, tỉnh công nhận.
 
 #### Điều 51. “Huân chương Đại đoàn kết dân tộc”
 
@@ -1024,7 +1000,7 @@ h) “Nghệ nhân nhân dân”, “Nghệ nhân ưu tú”.
 
 #### Điều 60. Danh hiệu “Tỉnh Anh hùng”, “Thành phố Anh hùng”
 
-Danh hiệu “Tỉnh Anh hùng”, “Thành phố Anh hùng” để tặng cho tỉnh, thành phố[^fn64] đạt các tiêu chuẩn sau đây:
+Danh hiệu “Tỉnh Anh hùng”, “Thành phố Anh hùng” để tặng cho tỉnh, thành phố trực thuộc Trung ương đạt các tiêu chuẩn sau đây:
 
 1\. Có thành tích đặc biệt xuất sắc và toàn diện trên các lĩnh vực chính trị, kinh tế, văn hóa, xã hội, giáo dục, khoa học, công nghệ, quốc phòng, an ninh và đối ngoại; đóng góp to lớn vào sự nghiệp đấu tranh giải phóng dân tộc, xây dựng và bảo vệ Tổ quốc;
 
@@ -1058,7 +1034,7 @@ c) Dẫn đầu toàn quân, toàn lực lượng Công an nhân dân trong phon
 
 d) Dẫn đầu trong việc đào tạo, bồi dưỡng về kỹ thuật, chiến thuật, về chuyên môn, nghiệp vụ và chính trị cho cán bộ, chiến sĩ; quản lý tốt vũ khí và cơ sở vật chất kỹ thuật, an toàn tuyệt đối về người và tài sản;
 
-đ) Trung thành với Tổ quốc, với Nhân dân; có tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng[^fn65]; dẫn đầu trong việc chấp hành chủ trương của Đảng, chính sách, pháp luật của Nhà nước; nêu cao tinh thần đoàn kết nội bộ, hợp tác, giúp đỡ và đoàn kết quân dân, chăm lo tốt đời sống vật chất, tinh thần của cán bộ, chiến sĩ;
+đ) Trung thành với Tổ quốc, với Nhân dân; có tổ chức đảng, đoàn thể trong sạch, vững mạnh; dẫn đầu trong việc chấp hành chủ trương của Đảng, chính sách, pháp luật của Nhà nước; nêu cao tinh thần đoàn kết nội bộ, hợp tác, giúp đỡ và đoàn kết quân dân, chăm lo tốt đời sống vật chất, tinh thần của cán bộ, chiến sĩ;
 
 e) Tích cực tham gia các phong trào ở địa phương, được Nhân dân địa phương tin yêu, là tấm gương mẫu mực về mọi mặt.
 
@@ -1088,7 +1064,7 @@ c) Dẫn đầu toàn quốc trong việc áp dụng và đổi mới khoa học
 
 d) Dẫn đầu trong việc đào tạo, bồi dưỡng trình độ về mọi mặt cho cán bộ, công chức, viên chức và người lao động; là điển hình về công tác đào tạo, nâng cao trình độ chuyên môn, nghiệp vụ để các tập thể khác noi theo;
 
-đ) Trung thành với Tổ quốc; nội bộ đoàn kết; tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng[^fn66]; dẫn đầu trong việc chấp hành chủ trương của Đảng, chính sách, pháp luật của Nhà nước, bảo đảm tốt quyền lợi của người lao động, quản lý tốt nguồn vốn, tài sản, bảo đảm tuyệt đối an toàn về người và tài sản;
+đ) Trung thành với Tổ quốc; nội bộ đoàn kết; tổ chức đảng, đoàn thể trong sạch, vững mạnh; dẫn đầu trong việc chấp hành chủ trương của Đảng, chính sách, pháp luật của Nhà nước, bảo đảm tốt quyền lợi của người lao động, quản lý tốt nguồn vốn, tài sản, bảo đảm tuyệt đối an toàn về người và tài sản;
 
 e) Tích cực tham gia các phong trào ở địa phương; là tấm gương mẫu mực về mọi mặt được Nhân dân địa phương ca ngợi.
 
@@ -1210,7 +1186,7 @@ d) Được đồng nghiệp và Nhân dân mến mộ, kính trọng; tiêu bi�
 
 1\. “Giải thưởng Hồ Chí Minh”, “Giải thưởng Nhà nước” để tặng hoặc truy tặng cho cá nhân trung thành với Tổ quốc, chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước, là tác giả hoặc đồng tác giả của một hoặc nhiều công trình, tác phẩm đáp ứng tiêu chuẩn quy định tại Điều 69 và Điều 70 của Luật này và đã được công bố, sử dụng kể từ ngày 02 tháng 9 năm 1945, bao gồm:
 
-a) Công trình khoa học, công nghệ và đổi mới sáng tạo[^fn67], giáo dục;
+a) Công trình khoa học và công nghệ, giáo dục;
 
 b) Tác phẩm văn học, nghệ thuật, công trình nghiên cứu lý luận phê bình dưới các hình thức xuất bản, kiến trúc, triển lãm, sân khấu, điện ảnh, phát thanh, truyền hình, giảng dạy, đĩa hát hoặc các hình thức khác.
 
@@ -1248,9 +1224,9 @@ c) Tác phẩm văn học, nghệ thuật, công trình nghiên cứu lý luận
 
 1\. Kỷ niệm chương của Ủy ban Thường vụ Quốc hội để tặng cho cá nhân có đóng góp vào quá trình phát triển của Quốc hội. Tên kỷ niệm chương, đối tượng, tiêu chuẩn tặng kỷ niệm chương do Ủy ban Thường vụ Quốc hội quy định.
 
-2.[^fn68] Kỷ niệm chương để tặng cho cá nhân có đóng góp vào quá trình phát triển của Bộ, ban, ngành, tỉnh, tổ chức chính trị, tổ chức chính trị - xã hội ở trung ương, các hội quần chúng do Đảng, Nhà nước giao nhiệm vụ ở trung ương.
+2\. Kỷ niệm chương để tặng cho cá nhân có đóng góp vào quá trình phát triển của Bộ, ban, ngành, tỉnh, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp có tổ chức đảng đoàn hoặc có tổ chức đảng thuộc Đảng bộ khối các cơ quan trung ương.
 
-Tên kỷ niệm chương, đối tượng và tiêu chuẩn tặng kỷ niệm chương do Bộ, ban, ngành, Hội đồng nhân dân cấp tỉnh, cơ quan trung ương của tổ chức chính trị, tổ chức chính trị - xã hội ở trung ương, các hội quần chúng do Đảng, Nhà nước giao nhiệm vụ ở trung ương quy định.
+Tên kỷ niệm chương, đối tượng và tiêu chuẩn tặng kỷ niệm chương do Bộ, ban, ngành, Hội đồng nhân dân cấp tỉnh, cơ quan trung ương của tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp có tổ chức đảng đoàn hoặc có tổ chức đảng thuộc Đảng bộ khối các cơ quan trung ương quy định.
 
 3\. Tên kỷ niệm chương phải được đăng ký với cơ quan quản lý nhà nước về thi đua, khen thưởng ở trung ương.
 
@@ -1264,13 +1240,13 @@ Tên kỷ niệm chương, đối tượng và tiêu chuẩn tặng kỷ niệm 
 
 1\. “Bằng khen của Thủ tướng Chính phủ” để tặng hoặc truy tặng cho cá nhân chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước và đạt một trong các tiêu chuẩn sau đây:
 
-a)[^fn69] Có thành tích xuất sắc tiêu biểu, được bình xét khi sơ kết, tổng kết phong trào thi đua do Chủ tịch nước, Thủ tướng Chính phủ phát động hoặc phong trào thi đua do Bộ, ban, ngành, tỉnh phát động có thời gian thực hiện từ 03 năm trở lên;
+a) Có thành tích xuất sắc tiêu biểu, được bình xét trong phong trào thi đua;
 
-b)[^fn70] Đã được tặng bằng khen của Bộ, ban, ngành, tỉnh và sau đó có liên tục từ 05 năm trở lên đến thời điểm đề nghị được công nhận hoàn thành tốt nhiệm vụ trở lên, trong thời gian đó có 03 lần được tặng danh hiệu “Chiến sĩ thi đua cơ sở”;
+b) Đã được tặng bằng khen của Bộ, ban, ngành, tỉnh và có liên tục từ 05 năm trở lên đến thời điểm đề nghị được công nhận hoàn thành tốt nhiệm vụ trở lên, trong thời gian đó có 03 lần được tặng danh hiệu “Chiến sĩ thi đua cơ sở”;
 
 c) Lập được nhiều thành tích hoặc thành tích đột xuất, có phạm vi ảnh hưởng trong Bộ, ban, ngành, tỉnh hoặc được giải thưởng ở khu vực;
 
-d)[^fn71] Có đóng góp vào sự phát triển kinh tế - xã hội, quốc phòng, an ninh, đối ngoại của đất nước; ứng dụng khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số; công tác xã hội, từ thiện nhân đạo.
+d) Có đóng góp vào sự phát triển kinh tế - xã hội của đất nước, ứng dụng tiến bộ khoa học, kỹ thuật, công tác xã hội, từ thiện nhân đạo.
 
 2\. “Bằng khen của Thủ tướng Chính phủ” để tặng hoặc truy tặng cho công nhân, nông dân, người lao động chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước và đạt một trong các tiêu chuẩn sau đây:
 
@@ -1278,9 +1254,9 @@ a) Đạt một trong các tiêu chuẩn quy định tại các điểm a, b và
 
 b) Lập được nhiều thành tích hoặc thành tích đột xuất trong lao động, sản xuất, có phạm vi ảnh hưởng trong lĩnh vực, ngành, nghề;
 
-c)[^fn72] Công nhân có sáng kiến mang lại lợi ích giá trị cao, được doanh nghiệp, tổ chức kinh tế khác nơi làm việc công nhận hoặc có phạm vi ảnh hưởng trong địa bàn cấp xã và có đóng góp trong việc đào tạo, bồi dưỡng, giúp đỡ đồng nghiệp để nâng cao trình độ chuyên môn, tay nghề;
+c) Công nhân có sáng kiến mang lại lợi ích giá trị cao, có phạm vi ảnh hưởng trong địa bàn cấp huyện và có đóng góp trong việc đào tạo, bồi dưỡng, giúp đỡ đồng nghiệp để nâng cao trình độ chuyên môn, tay nghề;
 
-d)[^fn73] Nông dân có mô hình sản xuất hiệu quả, ổn định từ 02 năm trở lên, có phạm vi ảnh hưởng trong địa bàn cấp xã và giúp đỡ hộ nông dân khác phát triển kinh tế, tạo việc làm cho người lao động.
+d) Nông dân có mô hình sản xuất hiệu quả, ổn định từ 02 năm trở lên, có phạm vi ảnh hưởng trong địa bàn cấp huyện và giúp đỡ hộ nông dân khác phát triển kinh tế, tạo việc làm cho người lao động.
 
 3\. “Bằng khen của Thủ tướng Chính phủ” để tặng hoặc truy tặng cho doanh nhân, trí thức, nhà khoa học chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước không thuộc trường hợp quy định tại khoản 1 và khoản 2 Điều này, có thành tích đóng góp vào sự phát triển kinh tế - xã hội, quốc phòng, an ninh của đất nước được Bộ, ban, ngành, tỉnh công nhận.
 
@@ -1288,7 +1264,7 @@ d)[^fn73] Nông dân có mô hình sản xuất hiệu quả, ổn định từ 
 
 a) Lập được thành tích đột xuất, có phạm vi ảnh hưởng trong Bộ, ban, ngành, tỉnh;
 
-b)[^fn74] Có đóng góp vào sự phát triển kinh tế - xã hội, quốc phòng, an ninh, đối ngoại của đất nước; ứng dụng khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số; công tác xã hội, từ thiện nhân đạo;
+b) Có đóng góp vào sự phát triển kinh tế - xã hội, quốc phòng, an ninh của đất nước, ứng dụng tiến bộ khoa học, kỹ thuật, công tác xã hội, từ thiện nhân đạo;
 
 c) Có thành tích xuất sắc tiêu biểu được bình xét trong cụm, khối thi đua do Hội đồng Thi đua - Khen thưởng Trung ương tổ chức;
 
@@ -1312,9 +1288,9 @@ a) Có thành tích xuất sắc được bình xét trong các phong trào thi 
 
 b) Lập được nhiều thành tích hoặc thành tích đột xuất, có phạm vi ảnh hưởng ở một trong các lĩnh vực thuộc phạm vi quản lý của Bộ, ban, ngành, tỉnh;
 
-c)[^fn75] Có đóng góp vào sự phát triển kinh tế - xã hội, quốc phòng, an ninh, đối ngoại; ứng dụng khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số; công tác xã hội, từ thiện nhân đạo;
+c) Có đóng góp vào sự phát triển kinh tế - xã hội, ứng dụng tiến bộ khoa học, kỹ thuật, công tác xã hội, từ thiện nhân đạo;
 
-d)[^fn76] Có 02 lần liên tục trở lên đến thời điểm đề nghị được tặng danh hiệu “Chiến sĩ thi đua cơ sở” hoặc có 02 năm liên tục trở lên đến thời điểm đề nghị được công nhận hoàn thành xuất sắc nhiệm vụ;
+d) Có 02 lần liên tục được tặng danh hiệu “Chiến sĩ thi đua cơ sở” hoặc có liên tục từ 02 năm trở lên được công nhận hoàn thành xuất sắc nhiệm vụ, trong thời gian đó có 02 sáng kiến được công nhận và áp dụng có hiệu quả trong phạm vi cơ sở hoặc có 02 đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ đã được nghiệm thu và áp dụng hiệu quả trong phạm vi cơ sở;
 
 đ) Công nhân, nông dân, người lao động lập được nhiều thành tích trong lao động, sản xuất, có phạm vi ảnh hưởng trong địa bàn cấp xã, cơ quan, đơn vị, tổ chức, doanh nghiệp.
 
@@ -1326,31 +1302,31 @@ a) Có thành tích xuất sắc được bình xét trong phong trào thi đua;
 
 b) Lập được thành tích xuất sắc đột xuất, có phạm vi ảnh hưởng trong từng lĩnh vực thuộc phạm vi quản lý của Bộ, ban, ngành, tỉnh;
 
-c)[^fn77] Có đóng góp vào sự phát triển kinh tế - xã hội, quốc phòng, an ninh, đối ngoại; ứng dụng khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số; công tác xã hội, từ thiện nhân đạo;
+c) Có đóng góp vào sự phát triển kinh tế - xã hội, ứng dụng tiến bộ khoa học, kỹ thuật, công tác xã hội, từ thiện nhân đạo;
 
-d)[^fn78] Có 02 năm liên tục trở lên đến thời điểm đề nghị được công nhận hoàn thành xuất sắc nhiệm vụ, thực hiện tốt dân chủ ở cơ sở, tổ chức tốt các phong trào thi đua; chăm lo đời sống vật chất, tinh thần trong tập thể; thực hành tiết kiệm, chống lãng phí; phòng, chống tham nhũng, tiêu cực.
+d) Có 02 năm liên tục được công nhận hoàn thành xuất sắc nhiệm vụ hoặc đạt danh hiệu “Tập thể lao động xuất sắc” hoặc “Đơn vị quyết thắng”, thực hiện tốt dân chủ ở cơ sở, tổ chức tốt các phong trào thi đua; chăm lo đời sống vật chất, tinh thần trong tập thể; thực hành tiết kiệm, chống lãng phí; phòng, chống tham nhũng, tiêu cực.
 
 4\. Bằng khen của Bộ, ban, ngành, tỉnh để tặng cho doanh nghiệp và tổ chức kinh tế khác chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước và đạt một trong các tiêu chuẩn quy định tại khoản 3 Điều này hoặc có thành tích đóng góp vào sự phát triển của Bộ, ban, ngành, địa phương được Bộ, ban, ngành, tỉnh công nhận.
 
 5\. Bằng khen của Bộ, ban, ngành, tỉnh để tặng cho hộ gia đình gương mẫu chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước, có nhiều đóng góp về công sức, đất đai và tài sản cho địa phương, xã hội.
 
-6.[^fn79] Bộ, ban, ngành, tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, quy định chi tiết, hướng dẫn cụ thể tiêu chuẩn xét tặng bằng khen của Bộ, ban, ngành, tỉnh đối với cá nhân, tập thể, hộ gia đình.
+6\. Bộ, ban, ngành, tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, quy định chi tiết, hướng dẫn cụ thể tiêu chuẩn xét tặng bằng khen của Bộ, ban, ngành, tỉnh đối với cá nhân, tập thể, hộ gia đình thuộc thẩm quyền quản lý.
 
 #### Điều 75. Giấy khen
 
 1\. Giấy khen gồm:
 
-a)[^fn80] Giấy khen của Thủ trưởng cơ quan, đơn vị có tư cách pháp nhân thuộc và trực thuộc Bộ, ban, ngành; giấy khen của Thủ trưởng cơ quan, đơn vị có tư cách pháp nhân thuộc cơ quan, đơn vị có tư cách pháp nhân thuộc Bộ, ban, ngành;
+a) Giấy khen của Thủ trưởng cơ quan, đơn vị có tư cách pháp nhân thuộc và trực thuộc Bộ, ban, ngành;
 
 b) Giấy khen của Chủ tịch Hội đồng quản trị, Chủ tịch Hội đồng thành viên, Tổng giám đốc, Giám đốc doanh nghiệp, hợp tác xã;
 
 c) Giấy khen của Thủ trưởng cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh và tương đương;
 
-d)[^fn81] (được bãi bỏ)
+d) Giấy khen của Chủ tịch Ủy ban nhân dân cấp huyện;
 
 đ) Giấy khen của Chủ tịch Ủy ban nhân dân cấp xã.
 
-2.[^fn82] Bộ, ban, ngành, tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, quy định chi tiết, hướng dẫn cụ thể tiêu chuẩn xét tặng giấy khen đối với cá nhân, tập thể, hộ gia đình.
+2\. Bộ, ban, ngành, tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, quy định chi tiết, hướng dẫn cụ thể tiêu chuẩn xét tặng giấy khen đối với cá nhân, tập thể, hộ gia đình thuộc thẩm quyền quản lý.
 
 #### Điều 76. Hình thức bằng khen, giấy khen khác
 
@@ -1380,27 +1356,25 @@ Chủ tịch nước quyết định tặng huân chương, huy chương, “Gi�
 
 1\. Ủy ban Thường vụ Quốc hội quyết định tặng kỷ niệm chương.
 
-2.[^fn83] Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Chánh Văn phòng Trung ương Đảng, Trưởng các ban của Đảng và tương đương ở trung ương, Chủ nhiệm Văn phòng Quốc hội, Chủ nhiệm Văn phòng Chủ tịch nước, Tổng Kiểm toán nhà nước, Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, người đứng đầu các tổ chức chính trị - xã hội ở trung ương quyết định tặng bằng khen, cờ thi đua của Bộ, ban, ngành, chiến sĩ thi đua Bộ, ban, ngành, kỷ niệm chương; quyết định hoặc ủy quyền quyết định tặng danh hiệu “Tập thể lao động xuất sắc”. Người đứng đầu cơ quan trung ương của các hội quần chúng do Đảng, Nhà nước giao nhiệm vụ quyết định tặng kỷ niệm chương.
+2\. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Chánh Văn phòng Trung ương Đảng, Trưởng các ban của Đảng và tương đương ở trung ương, Chủ nhiệm Văn phòng Quốc hội, Chủ nhiệm Văn phòng Chủ tịch nước, Tổng Kiểm toán nhà nước, người đứng đầu cơ quan trung ương của Mặt trận Tổ quốc Việt Nam và tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp có tổ chức đảng đoàn hoặc có tổ chức đảng thuộc Đảng bộ khối các cơ quan trung ương quyết định tặng bằng khen, cờ thi đua của Bộ, ban, ngành, danh hiệu “Tập thể lao động xuất sắc”, chiến sĩ thi đua Bộ, ban, ngành, kỷ niệm chương; người đứng đầu cơ quan trung ương của tổ chức xã hội, tổ chức xã hội - nghề nghiệp được Đảng và Nhà nước giao nhiệm vụ quyết định tặng kỷ niệm chương.
 
 3\. Bộ trưởng, Thủ trưởng các Bộ, ban, ngành, người đứng đầu cơ quan trung ương của Mặt trận Tổ quốc Việt Nam và tổ chức chính trị - xã hội ở trung ương quyết định tặng danh hiệu “Tập thể lao động tiên tiến”, “Chiến sĩ thi đua cơ sở”, “Lao động tiên tiến” hoặc ủy quyền cho người đứng đầu cơ quan, tổ chức, đơn vị không có tư cách pháp nhân thuộc Bộ, ban, ngành quyết định tặng danh hiệu “Tập thể lao động tiên tiến”, “Chiến sĩ thi đua cơ sở”, “Lao động tiên tiến”.
 
-4.[^fn84] Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định tặng cờ thi đua cấp tỉnh, danh hiệu chiến sĩ thi đua cấp tỉnh, danh hiệu xã, phường, đặc khu tiêu biểu, bằng khen, kỷ niệm chương; quyết định hoặc ủy quyền quyết định tặng danh hiệu “Tập thể lao động xuất sắc”.
+4\. Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định tặng cờ thi đua cấp tỉnh, danh hiệu “Tập thể lao động xuất sắc”, danh hiệu chiến sĩ thi đua cấp tỉnh, danh hiệu xã, phường, thị trấn tiêu biểu, bằng khen, kỷ niệm chương.
 
-5.[^fn85] Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quyết định hoặc ủy quyền quyết định tặng danh hiệu “Tập thể lao động xuất sắc”, “Đơn vị quyết thắng” cho các đơn vị thuộc Bộ Quốc phòng, Bộ Công an.
+5\. Thẩm quyền quyết định tặng danh hiệu “Đơn vị quyết thắng”, “Tập thể lao động xuất sắc” trong Quân đội nhân dân, Công an nhân dân do Chính phủ quy định.
 
-#### Điều 80. Thẩm quyền của Thủ trưởng, người đứng đầu cơ quan, tổ chức, đơn vị có tư cách pháp nhân thuộc Bộ, ban, ngành, tỉnh,[^fn86] Ủy ban nhân dân cấp xã và các cơ quan, tổ chức, đơn vị khác
+#### Điều 80. Thẩm quyền của Thủ trưởng, người đứng đầu cơ quan, tổ chức, đơn vị có tư cách pháp nhân thuộc Bộ, ban, ngành, tỉnh, Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã và các cơ quan, tổ chức, đơn vị khác
 
-1.[^fn87] Thủ trưởng cơ quan, tổ chức, đơn vị có tư cách pháp nhân thuộc Bộ, ban, ngành, Thủ trưởng cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh và tương đương quyết định tặng danh hiệu “Tập thể lao động tiên tiến”, “Chiến sĩ thi đua cơ sở”, “Lao động tiên tiến” và giấy khen. Thủ trưởng cơ quan, đơn vị có tư cách pháp nhân thuộc cơ quan, đơn vị có tư cách pháp nhân thuộc Bộ, ban, ngành tặng giấy khen.
+1\. Thủ trưởng cơ quan, tổ chức, đơn vị có tư cách pháp nhân thuộc Bộ, ban, ngành, Thủ trưởng cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh và tương đương quyết định tặng danh hiệu “Tập thể lao động tiên tiến”, “Chiến sĩ thi đua cơ sở”, “Lao động tiên tiến” và giấy khen.
 
-2.[^fn88] (được bãi bỏ)
+2\. Chủ tịch Ủy ban nhân dân cấp huyện quyết định tặng danh hiệu thôn, tổ dân phố văn hóa, “Tập thể lao động tiên tiến”, “Chiến sĩ thi đua cơ sở”, “Lao động tiên tiến” và giấy khen.
 
-3.[^fn89] Chủ tịch Ủy ban nhân dân cấp xã quyết định tặng danh hiệu thôn, tổ dân phố văn hóa, “Gia đình văn hóa”, “Tập thể lao động tiên tiến”, “Chiến sĩ thi đua cơ sở”, “Lao động tiên tiến” và giấy khen.
+3\. HYPERLINK "http://thuvienphapluat.vn/archive/Van-ban-hop-nhat-16-VBHN-VPQH-nam-2013-hop-nhat-Luat-thi-dua-khen-thuong-vb219918.aspx" \l "_ftn66" Chủ tịch Ủy ban nhân dân cấp xã quyết định tặng danh hiệu “Lao động tiên tiến”, giấy khen và danh hiệu “Gia đình văn hóa”.
 
 4\. Tổng giám đốc, Giám đốc doanh nghiệp, hợp tác xã quyết định tặng danh hiệu “Tập thể lao động tiên tiến”, “Chiến sĩ thi đua cơ sở”, “Lao động tiên tiến” và giấy khen; Chủ tịch Hội đồng quản trị, Chủ tịch Hội đồng thành viên quyết định tặng giấy khen.
 
 5\. Thẩm quyền quyết định tặng danh hiệu “Đơn vị tiên tiến”, “Tập thể lao động tiên tiến”, “Chiến sĩ thi đua cơ sở”, “Lao động tiên tiến”, “Chiến sĩ tiên tiến” trong Quân đội nhân dân, Công an nhân dân và dân quân thường trực, dân quân tự vệ cơ động do Bộ Quốc phòng, Bộ Công an quy định.
-
-6.[^fn90] Chính phủ quy định thẩm quyền tặng giấy khen của cơ quan, đơn vị có tư cách pháp nhân thuộc cơ quan, đơn vị có tư cách pháp nhân thuộc Bộ, ban, ngành.
 
 #### Điều 81. Thẩm quyền của cơ quan, tổ chức, cá nhân đối với các hình thức khen thưởng khác
 
@@ -1410,9 +1384,9 @@ Chủ tịch nước quyết định tặng huân chương, huy chương, “Gi�
 
 a) Việc xét tặng và công bố các danh hiệu, giải thưởng phải được tổ chức công khai, khách quan, công bằng, bình đẳng, trên cơ sở tự nguyện của doanh nhân, doanh nghiệp, tổ chức kinh tế khác, bảo đảm không trái với các quy định của Luật này và quy định khác của pháp luật có liên quan;
 
-b)[^fn91] Mỗi cơ quan, tổ chức chỉ được tổ chức tối đa 03 giải thưởng hoặc danh hiệu có phạm vi toàn quốc. Tên gọi, nội dung của danh hiệu, giải thưởng phải phù hợp với chức năng, nhiệm vụ, lĩnh vực quản lý, hoạt động của cơ quan, tổ chức theo quy định của pháp luật.
+b) Mỗi cơ quan, tổ chức chỉ được tổ chức tối đa 02 giải thưởng hoặc danh hiệu có phạm vi toàn quốc. Tên gọi, nội dung của danh hiệu, giải thưởng phải phù hợp với chức năng, nhiệm vụ, lĩnh vực quản lý, hoạt động của cơ quan, tổ chức theo quy định của pháp luật.
 
-3.[^fn92] Thủ tướng Chính phủ quy định việc xét tôn vinh và trao tặng danh hiệu, giải thưởng cho doanh nhân, doanh nghiệp và tổ chức kinh tế khác.
+3\. Chính phủ quy định chi tiết khoản 2 Điều này.
 
 #### Điều 82. Thẩm quyền trao tặng
 
@@ -1428,19 +1402,19 @@ b)[^fn91] Mỗi cơ quan, tổ chức chỉ được tổ chức tối đa 03 gi
 
 1\. Danh hiệu thi đua được bình xét và đề nghị từ đơn vị cơ sở thuộc cơ quan, tổ chức, đơn vị, doanh nghiệp và tổ chức kinh tế khác. Cấp quản lý về tổ chức, cán bộ, công chức, viên chức, người lao động, quỹ lương hoặc người đứng đầu doanh nghiệp, tổ chức kinh tế khác, Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm xét tặng danh hiệu thi đua, hình thức khen thưởng hoặc trình cấp có thẩm quyền xét tặng danh hiệu thi đua, hình thức khen thưởng cho các đối tượng thuộc phạm vi quản lý.
 
-2.[^fn93] Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Chánh Văn phòng Trung ương Đảng, Trưởng các ban của Đảng và tương đương ở trung ương, Chủ nhiệm Văn phòng Quốc hội, Chủ nhiệm Văn phòng Chủ tịch nước, Tổng Kiểm toán nhà nước, Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, người đứng đầu các tổ chức chính trị - xã hội ở trung ương, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, công nhận thành tích, đề nghị Thủ tướng Chính phủ trình Chủ tịch nước tặng huân chương, huy chương, “Giải thưởng Hồ Chí Minh”, “Giải thưởng Nhà nước”, danh hiệu vinh dự nhà nước.
+2\. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Chánh Văn phòng Trung ương Đảng, Trưởng các ban của Đảng và tương đương ở trung ương, Chủ nhiệm Văn phòng Quốc hội, Chủ nhiệm Văn phòng Chủ tịch nước, Tổng Kiểm toán nhà nước, người đứng đầu cơ quan trung ương của Mặt trận Tổ quốc Việt Nam và tổ chức chính trị - xã hội ở trung ương, tổ chức chính trị xã hội - nghề nghiệp có tổ chức đảng đoàn hoặc có tổ chức đảng thuộc Đảng bộ khối các cơ quan trung ương, Giám đốc đại học quốc gia, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, công nhận thành tích, đề nghị Thủ tướng Chính phủ trình Chủ tịch nước tặng huân chương, huy chương, “Giải thưởng Hồ Chí Minh”, “Giải thưởng Nhà nước”, danh hiệu vinh dự nhà nước.
 
-3.[^fn94] Người đứng đầu cơ quan được Ủy ban Thường vụ Quốc hội phân công tham mưu, giúp về công tác thi đua, khen thưởng đề nghị Thủ tướng Chính phủ trình Chủ tịch nước xét tặng huân chương, huy chương, “Giải thưởng Hồ Chí Minh”, “Giải thưởng Nhà nước”, danh hiệu vinh dự nhà nước đối với đại biểu Quốc hội hoạt động chuyên trách ở trung ương, các cơ quan của Quốc hội, công chức chuyên trách và các cơ quan tham mưu, giúp việc của Đảng ủy Quốc hội; công chức và các Vụ chuyên môn trực thuộc Hội đồng Dân tộc, các Ủy ban của Quốc hội.
+3\. Người đứng đầu cơ quan được Ủy ban Thường vụ Quốc hội phân công tham mưu, giúp về công tác thi đua, khen thưởng đề nghị Thủ tướng Chính phủ trình Chủ tịch nước xét tặng huân chương, huy chương, “Giải thưởng Hồ Chí Minh”, “Giải thưởng Nhà nước”, danh hiệu vinh dự nhà nước đối với đại biểu Quốc hội hoạt động chuyên trách ở trung ương, các cơ quan của Quốc hội, cơ quan thuộc Ủy ban Thường vụ Quốc hội.
 
 Đại biểu Quốc hội hoạt động chuyên trách ở địa phương do người có thẩm quyền của địa phương đề nghị khen thưởng theo phân cấp về thẩm quyền quản lý đối với cán bộ ở địa phương.
 
-4.[^fn95] Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Chánh Văn phòng Trung ương Đảng, Trưởng các ban của Đảng và tương đương ở trung ương, Chủ nhiệm Văn phòng Quốc hội, Chủ nhiệm Văn phòng Chủ tịch nước, Tổng Kiểm toán nhà nước, Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, người đứng đầu các tổ chức chính trị - xã hội ở trung ương, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, công nhận thành tích, đề nghị Chính phủ xét tặng “Cờ thi đua của Chính phủ”; đề nghị Thủ tướng Chính phủ xét tặng “Bằng khen của Thủ tướng Chính phủ”, danh hiệu “Chiến sĩ thi đua toàn quốc”.
+4\. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Chánh Văn phòng Trung ương Đảng, Trưởng các ban của Đảng và tương đương ở trung ương, Chủ nhiệm Văn phòng Quốc hội, Chủ nhiệm Văn phòng Chủ tịch nước, Tổng Kiểm toán nhà nước, người đứng đầu cơ quan trung ương của Mặt trận Tổ quốc Việt Nam và tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp có tổ chức đảng đoàn hoặc có tổ chức đảng thuộc Đảng bộ khối các cơ quan trung ương, Giám đốc đại học quốc gia, Chủ tịch Ủy ban nhân dân cấp tỉnh đề nghị Chính phủ xét tặng “Cờ thi đua của Chính phủ”; đề nghị Thủ tướng Chính phủ xét tặng “Bằng khen của Thủ tướng Chính phủ”, danh hiệu “Chiến sĩ thi đua toàn quốc”.
 
-5.[^fn96] Người đứng đầu cơ quan được Ủy ban Thường vụ Quốc hội phân công tham mưu, giúp về công tác thi đua, khen thưởng đề nghị Chính phủ xét tặng “Cờ thi đua của Chính phủ”; đề nghị Thủ tướng Chính phủ xét tặng “Bằng khen của Thủ tướng Chính phủ”, danh hiệu “Chiến sĩ thi đua toàn quốc” đối với đại biểu Quốc hội hoạt động chuyên trách ở trung ương, các cơ quan của Quốc hội, công chức chuyên trách và các cơ quan tham mưu, giúp việc của Đảng ủy Quốc hội; công chức và các Vụ chuyên môn trực thuộc Hội đồng Dân tộc, các Ủy ban của Quốc hội; đề nghị Ủy ban Thường vụ Quốc hội tặng kỷ niệm chương cho cá nhân có đóng góp vào quá trình phát triển của Quốc hội.
+5\. Người đứng đầu cơ quan được Ủy ban Thường vụ Quốc hội phân công tham mưu, giúp về công tác thi đua, khen thưởng đề nghị Ủy ban Thường vụ Quốc hội tặng kỷ niệm chương cho cá nhân có đóng góp vào quá trình phát triển của Quốc hội.
 
 6\. Người đứng đầu cơ quan, tổ chức tham mưu, giúp việc về công tác thi đua, khen thưởng có trách nhiệm phát hiện cá nhân, tập thể có thành tích xuất sắc, tiêu biểu để đề nghị cấp có thẩm quyền khen thưởng.
 
-7.[^fn97] Thủ tướng Chính phủ quy định về thẩm quyền khen thưởng và đề nghị khen thưởng đối với doanh nghiệp, tổ chức kinh tế khác; thẩm quyền khen thưởng và đề nghị khen thưởng đối với các hội ở trung ương và địa phương; thẩm quyền khen thưởng và đề nghị khen thưởng đối với các cơ sở giáo dục nghề nghiệp tư thục, cơ sở giáo dục đại học tư thục.
+7\. Chính phủ quy định chi tiết về thẩm quyền đề nghị, trình khen thưởng đối với doanh nghiệp, tổ chức kinh tế khác.
 
 #### Điều 84. Hồ sơ đề nghị xét tặng danh hiệu thi đua và hình thức khen thưởng
 
@@ -1452,7 +1426,7 @@ b) Báo cáo thành tích của cá nhân, tập thể;
 
 c) Biên bản bình xét thi đua;
 
-d)[^fn98] (được bãi bỏ)
+d) Chứng nhận hoặc xác nhận của cơ quan, tổ chức có thẩm quyền đối với sáng kiến, đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ trong trường hợp đề nghị danh hiệu “Chiến sĩ thi đua cơ sở”, Chiến sĩ thi đua Bộ, ban, ngành, tỉnh, “Chiến sĩ thi đua toàn quốc”.
 
 2\. Hồ sơ đề nghị xét tặng hình thức khen thưởng gồm:
 
@@ -1462,41 +1436,23 @@ b) Báo cáo thành tích của cá nhân, tập thể;
 
 c) Biên bản xét khen thưởng;
 
-d)[^fn99] (được bãi bỏ)
+d) Chứng nhận hoặc xác nhận của cơ quan, tổ chức có thẩm quyền đối với thành tích đặc biệt xuất sắc đột xuất trong lao động, công tác, sản xuất, kinh doanh, học tập và nghiên cứu khoa học hoặc lĩnh vực khác; đóng góp lớn vào sự phát triển kinh tế - xã hội, bảo đảm an sinh xã hội, từ thiện nhân đạo; phát minh, sáng chế, sáng kiến, ứng dụng tiến bộ khoa học, công nghệ hoặc tác phẩm, công trình khoa học và công nghệ.
 
-3.[^fn100] Trường hợp đề nghị tặng huân chương, danh hiệu vinh dự nhà nước, “Giải thưởng Hồ Chí Minh”, “Giải thưởng Nhà nước”, “Cờ thi đua của Chính phủ”, “Chiến sĩ thi đua toàn quốc”, “Bằng khen của Thủ tướng Chính phủ” thì trong hồ sơ phải có ý kiến của cơ quan, tổ chức ở trung ương có liên quan hoặc Ủy ban nhân dân cấp tỉnh.
+3\. Trường hợp đề nghị tặng huân chương, huy chương, danh hiệu vinh dự nhà nước, “Giải thưởng Hồ Chí Minh”, “Giải thưởng Nhà nước”, “Cờ thi đua của Chính phủ”, “Bằng khen của Thủ tướng Chính phủ” thì trong hồ sơ phải có ý kiến của cơ quan, tổ chức ở trung ương có liên quan hoặc Ủy ban nhân dân cấp tỉnh.
 
-4.[^fn101] Trường hợp trình Chính phủ, Thủ tướng Chính phủ xét tặng danh hiệu thi đua, hình thức khen thưởng hoặc đề nghị Thủ tướng Chính phủ trình Chủ tịch nước xét khen thưởng thì người có thẩm quyền đề nghị xét tặng danh hiệu thi đua, hình thức khen thưởng quy định tại các khoản 2, 3 và 4 Điều 83 của Luật này gửi đến cơ quan chuyên trách làm công tác thi đua, khen thưởng ở trung ương 01 bộ hồ sơ bản chính kèm theo các tệp tin điện tử của hồ sơ, trừ văn bản có nội dung bí mật nhà nước.
-
-Cơ quan quản lý nhà nước về thi đua, khen thưởng ở trung ương có trách nhiệm xây dựng, quản lý và vận hành Hệ thống thông tin và cơ sở dữ liệu về thi đua, khen thưởng tập trung, thống nhất. Các Bộ, ban, ngành, tỉnh có trách nhiệm thực hiện quy trình nghiệp vụ, tiếp nhận, giải quyết hồ sơ qua hệ thống điện tử và kết nối dữ liệu về trung ương.
+4\. Trường hợp trình Chính phủ, Thủ tướng Chính phủ xét tặng danh hiệu thi đua, hình thức khen thưởng hoặc đề nghị Thủ tướng Chính phủ trình Chủ tịch nước xét khen thưởng thì người có thẩm quyền đề nghị xét tặng danh hiệu thi đua, hình thức khen thưởng quy định tại các khoản 2, 3 và 4 Điều 83 của Luật này gửi đến cơ quan chuyên trách làm công tác thi đua, khen thưởng ở trung ương 01 bộ hồ sơ bản chính kèm theo các tệp tin điện tử của hồ sơ, trừ văn bản có nội dung bí mật nhà nước.
 
 5\. Người có thẩm quyền đề nghị xét tặng hình thức khen thưởng huân chương, “Giải thưởng Hồ Chí Minh”, “Giải thưởng Nhà nước” và danh hiệu vinh dự nhà nước quy định tại khoản 2 và khoản 3 Điều 83 của Luật này có trách nhiệm công khai danh sách cá nhân, tập thể trước khi đề nghị khen thưởng.
 
 6\. Số lượng hồ sơ đề nghị xét tặng danh hiệu thi đua và hình thức khen thưởng thuộc thẩm quyền xem xét, quyết định của Bộ, ban, ngành, tỉnh do Bộ, ban, ngành, tỉnh quy định. Hồ sơ đề nghị xét tặng danh hiệu thi đua và hình thức khen thưởng được lưu trữ theo quy định của pháp luật.
 
-7.[^fn102] Chính phủ trong nhiệm vụ, quyền hạn của mình:
-
-a) Quy định chi tiết hồ sơ, thủ tục xét tặng đối với các danh hiệu thi đua và hình thức khen thưởng thuộc thẩm quyền của Chủ tịch nước, Chính phủ, Thủ tướng Chính phủ;
-
-b) Quy định việc công khai danh sách cá nhân, tập thể trước khi đề nghị khen thưởng theo quy định tại khoản 5 Điều này;
-
-c) Quy định thủ tục điều chỉnh thông tin quyết định khen thưởng thuộc thẩm quyền của Chủ tịch nước, Chính phủ, Thủ tướng Chính phủ.
-
-8.[^fn103] Bộ, ban, ngành, tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình:
-
-a) Quy định chi tiết, hướng dẫn cụ thể hồ sơ, thủ tục đề nghị xét tặng danh hiệu thi đua, hình thức khen thưởng thuộc thẩm quyền của Bộ, ban, ngành, tỉnh và của cơ quan, tổ chức, đơn vị thuộc thẩm quyền quản lý của Bộ, ban, ngành, tỉnh;
-
-b) Quy định chi tiết, hướng dẫn thủ tục điều chỉnh thông tin quyết định khen thưởng thuộc thẩm quyền của Bộ, ban, ngành, tỉnh và của cơ quan, tổ chức, đơn vị thuộc Bộ, ban, ngành, tỉnh;
-
-c) Quy định việc công nhận mức độ hoàn thành nhiệm vụ của cá nhân, tập thể thuộc thẩm quyền quản lý;
-
-d) Quy định việc công nhận hiệu quả áp dụng, khả năng nhân rộng của sáng kiến, phạm vi ảnh hưởng của nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo.
+7\. Chính phủ quy định chi tiết hồ sơ, thủ tục xét tặng đối với các danh hiệu thi đua và hình thức khen thưởng; việc công nhận mức độ hoàn thành nhiệm vụ của cá nhân, tập thể; việc công khai quy định tại khoản 5 Điều này.
 
 #### Điều 85. Khen thưởng theo thủ tục đơn giản
 
 1\. Việc đề nghị xét tặng hình thức khen thưởng theo thủ tục đơn giản được áp dụng đối với các trường hợp sau đây:
 
-a)[^fn104] Việc khen thưởng phục vụ nhiệm vụ chính trị của Đảng, Nhà nước; khen thưởng theo chỉ đạo của cấp có thẩm quyền nhằm kịp thời động viên tập thể, cá nhân, hộ gia đình có thành tích xuất sắc tiêu biểu;
+a) Việc khen thưởng phục vụ nhiệm vụ chính trị của Đảng, Nhà nước nhằm kịp thời động viên, khích lệ quần chúng;
 
 b) Cá nhân, tập thể lập được thành tích xuất sắc đột xuất trong chiến đấu, phục vụ chiến đấu, trong lao động, công tác, sản xuất, kinh doanh, học tập và nghiên cứu khoa học hoặc lĩnh vực khác hoặc có hành động dũng cảm cứu người, cứu tài sản của Nhà nước, của Nhân dân hoặc được giải thưởng quốc tế của khu vực hoặc thế giới;
 
@@ -1524,13 +1480,15 @@ d) Khen thưởng cống hiến, khen thưởng niên hạn, khen thưởng đ�
 
 ## Chương VI. TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC VỀ THI ĐUA, KHEN THƯỞNG
 
-#### Điều 88. Trách nhiệm của Ủy ban Thường vụ Quốc hội[^fn105]
+#### Điều 88. Trách nhiệm của Ủy ban Thường vụ Quốc hội
 
-Ủy ban Thường vụ Quốc hội quy định việc thi đua, khen thưởng đối với đại biểu Quốc hội, các cơ quan của Quốc hội; công chức chuyên trách và các cơ quan tham mưu, giúp việc của Đảng ủy Quốc hội; công chức và các Vụ chuyên môn trực thuộc Hội đồng Dân tộc, các Ủy ban của Quốc hội.
+Ủy ban Thường vụ Quốc hội quy định việc thi đua, khen thưởng đối với đại biểu Quốc hội, các cơ quan của Quốc hội, các cơ quan thuộc Ủy ban Thường vụ Quốc hội và cán bộ, công chức thuộc thẩm quyền quản lý của Ủy ban Thường vụ Quốc hội.
 
-#### Điều 89. Quản lý nhà nước về thi đua, khen thưởng[^fn106]
+#### Điều 89. Quản lý nhà nước về thi đua, khen thưởng
 
-1\. Nội dung quản lý nhà nước về thi đua, khen thưởng gồm:
+1\. Chính phủ thống nhất quản lý nhà nước về thi đua, khen thưởng.
+
+2\. Nội dung quản lý nhà nước về thi đua, khen thưởng gồm:
 
 a) Ban hành theo thẩm quyền hoặc trình cấp có thẩm quyền ban hành văn bản quy phạm pháp luật về thi đua, khen thưởng;
 
@@ -1542,7 +1500,7 @@ d) Đào tạo, bồi dưỡng người làm công tác thi đua, khen thưởng
 
 đ) Thẩm định hồ sơ trình xét tặng danh hiệu thi đua, hình thức khen thưởng;
 
-e) Ứng dụng công nghệ thông tin trong quản lý nhà nước về thi đua, khen thưởng và trong hệ thống thi đua, khen thưởng, xây dựng cơ sở dữ liệu về thi đua, khen thưởng; thực hiện chuyển đổi số trong công tác thi đua, khen thưởng;
+e) Ứng dụng công nghệ thông tin trong quản lý nhà nước về thi đua, khen thưởng và trong hệ thống thi đua, khen thưởng, xây dựng cơ sở dữ liệu về thi đua, khen thưởng;
 
 g) Phát động, sơ kết, tổng kết phong trào thi đua, xét tặng danh hiệu thi đua, hình thức khen thưởng; đánh giá hiệu quả công tác thi đua, khen thưởng;
 
@@ -1551,16 +1509,6 @@ h) Thanh tra, kiểm tra việc thực hiện các quy định của pháp luậ
 i) Giải quyết khiếu nại, tố cáo, xử lý vi phạm pháp luật về thi đua, khen thưởng;
 
 k) Hợp tác quốc tế về thi đua, khen thưởng.
-
-2\. Trách nhiệm của Chính phủ:
-
-a) Thống nhất quản lý nhà nước về thi đua, khen thưởng;
-
-b) Quy định tỷ lệ số năm được đánh giá hoàn thành xuất sắc nhiệm vụ của tổ chức đảng đối với các hình thức khen thưởng cho tập thể có quy định tiêu chuẩn tổ chức đảng được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng;
-
-c) Quy định việc xác định tương đương hình thức khen thưởng của Đảng đối với tổ chức đảng, đảng viên với danh hiệu thi đua, hình thức khen thưởng tương ứng theo quy định của Luật này sau khi thống nhất với các cơ quan Đảng ở trung ương;
-
-d) Quy định việc thi đua, khen thưởng của các hội quần chúng có Đảng bộ thuộc Đảng bộ Mặt trận Tổ quốc, các đoàn thể trung ương sau khi thống nhất với Ban Thường trực Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam.
 
 #### Điều 90. Hội đồng Thi đua - Khen thưởng
 
@@ -1580,17 +1528,15 @@ c) Định kỳ đánh giá phong trào thi đua và công tác khen thưởng; 
 
 4\. Hội đồng Thi đua - Khen thưởng các cấp và Hội đồng Thi đua - Khen thưởng tại cơ quan, tổ chức có trách nhiệm tham mưu, tư vấn cho cấp ủy đảng, chính quyền, người đứng đầu cơ quan, tổ chức, đơn vị có thẩm quyền về công tác thi đua, khen thưởng.
 
-5.[^fn107] Chính phủ quy định chi tiết tổ chức và hoạt động của Hội đồng Thi đua - Khen thưởng Trung ương.
-
-6.[^fn108] Bộ, ban, ngành, tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, quy định chi tiết, hướng dẫn tổ chức và hoạt động của Hội đồng Thi đua - Khen thưởng Bộ, ban, ngành, tỉnh và Hội đồng Thi đua - Khen thưởng cơ quan, tổ chức, đơn vị thuộc thẩm quyền quản lý của Bộ, ban, ngành, tỉnh.
+5\. Chính phủ quy định chi tiết tổ chức và hoạt động của Hội đồng Thi đua - Khen thưởng các cấp và Hội đồng Thi đua - Khen thưởng tại cơ quan, tổ chức, đơn vị.
 
 #### Điều 91. Trách nhiệm của Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước
 
 Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước căn cứ vào quy định của Luật này và các quy định khác của pháp luật có liên quan thực hiện quản lý công tác thi đua, khen thưởng trong phạm vi ngành.
 
-#### Điều 92. Trách nhiệm của tổ chức chính trị, tổ chức chính trị - xã hội, các hội khác[^fn109]
+#### Điều 92. Trách nhiệm của tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp
 
-Tổ chức chính trị, tổ chức chính trị - xã hội, các hội khác[^fn110] căn cứ vào quy định của Luật này và các quy định khác của pháp luật có liên quan thực hiện quản lý công tác thi đua, khen thưởng trong phạm vi tổ chức.
+Tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp căn cứ vào quy định của Luật này và các quy định khác của pháp luật có liên quan thực hiện quản lý công tác thi đua, khen thưởng trong phạm vi tổ chức.
 
 ## Chương VII. XỬ LÝ VI PHẠM
 
@@ -1620,11 +1566,9 @@ d) Có kết luận, quyết định, bản án của cơ quan có thẩm quyề
 
 8\. Người có thẩm quyền quyết định tặng danh hiệu thi đua, hình thức khen thưởng thì có thẩm quyền hủy bỏ quyết định tặng danh hiệu thi đua, hình thức khen thưởng đã được xét tặng.
 
-9.[^fn111] Chính phủ quy định chi tiết thủ tục hủy bỏ quyết định tặng danh hiệu thi đua hoặc hình thức khen thưởng thuộc thẩm quyền của Chủ tịch nước, Chính phủ, Thủ tướng Chính phủ, thu hồi hiện vật khen thưởng và tiền thưởng; thủ tục tước, phục hồi và trao lại danh hiệu vinh dự nhà nước.
+9\. Chính phủ quy định chi tiết thủ tục hủy bỏ quyết định tặng danh hiệu thi đua hoặc hình thức khen thưởng, thu hồi hiện vật khen thưởng và tiền thưởng; thủ tục tước, phục hồi và trao lại danh hiệu vinh dự nhà nước.
 
-10.[^fn112] Bộ, ban, ngành, tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, quy định chi tiết, hướng dẫn thủ tục hủy bỏ quyết định tặng danh hiệu thi đua hoặc hình thức khen thưởng, thu hồi hiện vật khen thưởng và tiền thưởng đối với các danh hiệu thi đua, hình thức khen thưởng thuộc thẩm quyền của Bộ, ban, ngành, tỉnh và của cơ quan, tổ chức, đơn vị thuộc thẩm quyền quản lý của Bộ, ban, ngành, tỉnh.
-
-## Chương VIII. ĐIỀU KHOẢN THI HÀNH[^fn113]
+## Chương VIII. ĐIỀU KHOẢN THI HÀNH
 
 #### Điều 94. Hiệu lực thi hành
 
@@ -1644,245 +1588,10 @@ Kể từ ngày Luật này có hiệu lực thi hành, việc khen thưởng t�
 
 2\. Thực hiện tặng và truy tặng “Huy chương Thanh niên xung phong vẻ vang” đối với Thanh niên xung phong có thành tích trong các cuộc kháng chiến, bảo vệ Tổ quốc, hoàn thành nhiệm vụ, trung thành với cách mạng, có thời gian tại ngũ từ 02 năm trở lên. Thanh niên xung phong hy sinh trong khi làm nhiệm vụ trong các cuộc kháng chiến, bảo vệ Tổ quốc đã được công nhận liệt sĩ thì được truy tặng “Huy chương Thanh niên xung phong vẻ vang”;
 
-3.[^fn114] Thủ tướng Chính phủ quy định trình tự, thủ tục xét tặng, truy tặng “Huy chương Thanh niên xung phong vẻ vang”; hướng dẫn việc thực hiện khoản 1 và khoản 2 Điều này.
+3\. Chính phủ quy định chi tiết trình tự, thủ tục xét tặng, truy tặng “Huy chương Thanh niên xung phong vẻ vang”; hướng dẫn việc thực hiện khoản 1 và khoản 2 Điều này.
 
-| VĂN PHÒNG QUỐC HỘI<br>Số: 115/VBHN-VPQH | XÁC THỰC VĂN BẢN HỢP NHẤT<br>Hà Nội, ngày 22 tháng 5 năm 2026<br>CHỦ NHIỆM<br>Lê Quang Mạnh |
-|---|---|
+Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 3 thông qua ngày 15 tháng 6 năm 2022. /.
 
-[^fn1]: Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng có căn cứ ban hành như sau:
-    “Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 203/2025/QH15;
-    Quốc hội ban hành Luật sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng số 06/2022/QH15.”.
+CHỦ TỊCH QUỐC HỘI
 
-[^fn2]: Cụm từ “, cơ quan thuộc Chính phủ” được bỏ theo quy định tại điểm b khoản 2 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn3]: Cụm từ “, tổ chức chính trị xã hội - nghề nghiệp có tổ chức đảng đoàn hoặc có tổ chức đảng thuộc Đảng bộ khối các cơ quan trung ương” được bỏ theo quy định tại điểm a khoản 2 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn4]: Cụm từ “trực thuộc trung ương” được bỏ theo quy định tại điểm đ khoản 2 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn5]: Điểm này được sửa đổi, bổ sung theo quy định tại khoản 1 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn6]: Điểm này được sửa đổi, bổ sung theo quy định tại khoản 1 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn7]: Khoản này được sửa đổi, bổ sung theo quy định tại điểm a khoản 2 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn8]: Khoản này được sửa đổi, bổ sung theo quy định tại điểm b khoản 2 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn9]: Cụm từ “tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp được Đảng, Nhà nước giao nhiệm vụ” được thay thế bằng cụm từ “các hội quần chúng được Đảng, Nhà nước giao nhiệm vụ” theo quy định tại điểm a khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn10]: Điều này được sửa đổi, bổ sung theo quy định tại khoản 3 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn11]: Điểm này được sửa đổi, bổ sung theo quy định tại khoản 4 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn12]: Cụm từ “, cơ quan thuộc Chính phủ” được bỏ theo quy định tại điểm b khoản 2 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn13]: Từ “thị trấn” được thay thế bằng từ “đặc khu” theo quy định tại điểm c khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn14]: Điều này được sửa đổi, bổ sung theo quy định tại khoản 5 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn15]: Điều này được sửa đổi, bổ sung theo quy định tại khoản 6 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn16]: Điều này được sửa đổi, bổ sung theo quy định tại khoản 7 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn17]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh” được thay thế bằng cụm từ “tổ chức đảng được đánh giá hoàn thành tốt nhiệm vụ trở lên” theo quy định tại điểm b khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn18]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh” được thay thế bằng cụm từ “tổ chức đảng được đánh giá hoàn thành tốt nhiệm vụ trở lên” theo quy định tại điểm b khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn19]: Từ “thị trấn” được thay thế bằng từ “đặc khu” theo quy định tại điểm c khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn20]: Khoản này được sửa đổi, bổ sung theo quy định tại khoản 8 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn21]: Từ “thị trấn” được thay thế bằng từ “đặc khu” theo quy định tại điểm c khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn22]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh” được thay thế bằng cụm từ “tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng” theo quy định tại điểm đ khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn23]: Cụm từ “, tổng cục và tương đương thuộc Bộ, ban, ngành” được bỏ theo quy định tại điểm c khoản 2 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn24]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh” được thay thế bằng cụm từ “tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng” theo quy định tại điểm đ khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn25]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh” được thay thế bằng cụm từ “tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng” theo quy định tại điểm đ khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn26]: Cụm từ “, tổng cục và tương đương thuộc Bộ, ban, ngành” được bỏ theo quy định tại điểm c khoản 2 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn27]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh” được thay thế bằng cụm từ “tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng” theo quy định tại điểm đ khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn28]: Khoản này được sửa đổi, bổ sung theo quy định tại khoản 9 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn29]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh” được thay thế bằng cụm từ “tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng” theo quy định tại điểm đ khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn30]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh” được thay thế bằng cụm từ “tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng” theo quy định tại điểm đ khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn31]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh” được thay thế bằng cụm từ “tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng” theo quy định tại điểm đ khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn32]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh” được thay thế bằng cụm từ “tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng” theo quy định tại điểm đ khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn33]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh” được thay thế bằng cụm từ “tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng” theo quy định tại điểm đ khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn34]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh” được thay thế bằng cụm từ “tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng” theo quy định tại điểm đ khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn35]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh” được thay thế bằng cụm từ “tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng” theo quy định tại điểm đ khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn36]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh” được thay thế bằng cụm từ “tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng” theo quy định tại điểm đ khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn37]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh” được thay thế bằng cụm từ “tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng” theo quy định tại điểm đ khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn38]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh” được thay thế bằng cụm từ “tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng” theo quy định tại điểm đ khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn39]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh” được thay thế bằng cụm từ “tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng” theo quy định tại điểm đ khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn40]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh” được thay thế bằng cụm từ “tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng” theo quy định tại điểm đ khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn41]: Cụm từ “công trình khoa học và công nghệ” được thay thế bằng cụm từ “công trình khoa học, công nghệ và đổi mới sáng tạo” theo quy định tại điểm d khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn42]: Điểm này được sửa đổi, bổ sung theo quy định tại điểm a khoản 10 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn43]: Điểm này được sửa đổi, bổ sung theo quy định tại điểm b khoản 10 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn44]: Cụm từ “công trình khoa học và công nghệ” được thay thế bằng cụm từ “công trình khoa học, công nghệ và đổi mới sáng tạo” theo quy định tại điểm d khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn45]: Điểm này được sửa đổi, bổ sung theo quy định tại điểm a khoản 11 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn46]: Điểm này được sửa đổi, bổ sung theo quy định tại điểm b khoản 11 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn47]: Điểm này được sửa đổi, bổ sung theo quy định tại điểm a khoản 12 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn48]: Cụm từ “công trình khoa học và công nghệ” được thay thế bằng cụm từ “công trình khoa học, công nghệ và đổi mới sáng tạo” theo quy định tại điểm d khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn49]: Điểm này được sửa đổi, bổ sung theo quy định tại điểm b khoản 12 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn50]: Điểm này được sửa đổi, bổ sung theo quy định tại điểm c khoản 12 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn51]: Cụm từ “công trình khoa học và công nghệ” được thay thế bằng cụm từ “công trình khoa học, công nghệ và đổi mới sáng tạo” theo quy định tại điểm d khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn52]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh” được thay thế bằng cụm từ “tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng” theo quy định tại điểm đ khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn53]: Điểm này được bổ sung theo quy định tại khoản 13 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn54]: Cụm từ “công trình khoa học và công nghệ” được thay thế bằng cụm từ “công trình khoa học, công nghệ và đổi mới sáng tạo” theo quy định tại điểm d khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn55]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh” được thay thế bằng cụm từ “tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng” theo quy định tại điểm đ khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn56]: Điểm này được bổ sung theo quy định tại khoản 14 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn57]: Cụm từ “công trình khoa học và công nghệ” được thay thế bằng cụm từ “công trình khoa học, công nghệ và đổi mới sáng tạo” theo quy định tại điểm d khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn58]: Điểm này được bổ sung theo quy định tại điểm a khoản 15 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn59]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh” được thay thế bằng cụm từ “tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng” theo quy định tại điểm đ khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn60]: Điểm này được bổ sung theo quy định tại điểm b khoản 15 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn61]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh; hoàn thành xuất sắc nhiệm vụ được giao;” được bỏ theo quy định tại điểm d khoản 2 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn62]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh; hoàn thành xuất sắc nhiệm vụ được giao;” được bỏ theo quy định tại điểm d khoản 2 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn63]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh; hoàn thành xuất sắc nhiệm vụ được giao;” được bỏ theo quy định tại điểm d khoản 2 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn64]: Cụm từ “trực thuộc trung ương” được bỏ theo quy định tại điểm đ khoản 2 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn65]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh” được thay thế bằng cụm từ “tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng” theo quy định tại điểm đ khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn66]: Cụm từ “tổ chức đảng, đoàn thể trong sạch, vững mạnh” được thay thế bằng cụm từ “tổ chức đảng liên tục được đánh giá hoàn thành tốt nhiệm vụ trở lên trong thời gian tính thành tích khen thưởng” theo quy định tại điểm đ khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn67]: Cụm từ “công trình khoa học và công nghệ” được thay thế bằng cụm từ “công trình khoa học, công nghệ và đổi mới sáng tạo” theo quy định tại điểm d khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn68]: Khoản này được sửa đổi, bổ sung theo quy định tại khoản 16 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn69]: Điểm này được sửa đổi, bổ sung theo quy định tại điểm a khoản 17 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn70]: Điểm này được sửa đổi, bổ sung theo quy định tại điểm b khoản 17 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn71]: Điểm này được sửa đổi, bổ sung theo quy định tại điểm c khoản 17 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn72]: Điểm này được sửa đổi, bổ sung theo quy định tại điểm d khoản 17 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn73]: Điểm này được sửa đổi, bổ sung theo quy định tại điểm đ khoản 17 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn74]: Điểm này được sửa đổi, bổ sung theo quy định tại điểm e khoản 17 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn75]: Điểm này được sửa đổi, bổ sung theo quy định tại điểm a khoản 18 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn76]: Điểm này được sửa đổi, bổ sung theo quy định tại điểm b khoản 18 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn77]: Điểm này được sửa đổi, bổ sung theo quy định tại điểm c khoản 18 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn78]: Điểm này được sửa đổi, bổ sung theo quy định tại điểm d khoản 18 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn79]: Khoản này được sửa đổi, bổ sung theo quy định tại điểm đ khoản 18 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn80]: Điểm này được sửa đổi, bổ sung theo quy định tại điểm a khoản 19 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn81]: Điểm này được bãi bỏ theo quy định tại khoản 3 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn82]: Khoản này được sửa đổi, bổ sung theo quy định tại điểm b khoản 19 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn83]: Khoản này được sửa đổi, bổ sung theo quy định tại điểm a khoản 20 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn84]: Khoản này được sửa đổi, bổ sung theo quy định tại điểm b khoản 20 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn85]: Khoản này được sửa đổi, bổ sung theo quy định tại điểm c khoản 20 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn86]: Cụm từ “Ủy ban nhân dân cấp huyện,” được bỏ theo quy định tại điểm e khoản 2 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn87]: Khoản này được sửa đổi, bổ sung theo quy định tại điểm a khoản 21 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn88]: Khoản này được bãi bỏ theo quy định tại khoản 3 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn89]: Khoản này được sửa đổi, bổ sung theo quy định tại điểm b khoản 21 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn90]: Khoản này được bổ sung theo quy định tại điểm c khoản 21 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn91]: Điểm này được sửa đổi, bổ sung theo quy định tại điểm a khoản 22 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn92]: Khoản này được sửa đổi, bổ sung theo quy định tại điểm b khoản 22 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn93]: Khoản này được sửa đổi, bổ sung theo quy định tại điểm a khoản 23 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn94]: Khoản này được sửa đổi, bổ sung theo quy định tại điểm b khoản 23 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn95]: Khoản này được sửa đổi, bổ sung theo quy định tại điểm c khoản 23 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn96]: Khoản này được sửa đổi, bổ sung theo quy định tại điểm d khoản 23 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn97]: Khoản này được sửa đổi, bổ sung theo quy định tại điểm đ khoản 23 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn98]: Điểm này được bãi bỏ theo quy định tại khoản 3 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn99]: Điểm này được bãi bỏ theo quy định tại khoản 3 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn100]: Khoản này được sửa đổi, bổ sung theo quy định tại điểm a khoản 24 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn101]: Khoản này được sửa đổi, bổ sung theo quy định tại điểm b khoản 24 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn102]: Khoản này được sửa đổi, bổ sung theo quy định tại điểm c khoản 24 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn103]: Khoản này được bổ sung theo quy định tại điểm d khoản 24 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn104]: Điểm này được sửa đổi, bổ sung theo quy định tại khoản 25 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn105]: Điều này được sửa đổi, bổ sung theo quy định tại khoản 26 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn106]: Điều này được sửa đổi, bổ sung theo quy định tại khoản 27 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn107]: Khoản này được sửa đổi, bổ sung theo quy định tại điểm a khoản 28 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn108]: Khoản này được bổ sung theo quy định tại điểm b khoản 28 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn109]: Cụm từ “tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp” được thay thế bằng cụm từ “các hội khác” theo quy định tại điểm e khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn110]: Cụm từ “tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp” được thay thế bằng cụm từ “các hội khác” theo quy định tại điểm e khoản 1 Điều 2 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn111]: Khoản này được sửa đổi, bổ sung theo quy định tại điểm a khoản 29 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn112]: Khoản này được bổ sung theo quy định tại điểm b khoản 29 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
-
-[^fn113]: Điều 3 và Điều 4 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026 quy định như sau:
-    “Điều 3. Điều khoản thi hành
-    1. Luật này có hiệu lực thi hành từ ngày 01 tháng 10 năm 2026.
-    2. Trường hợp quy định về mức độ đánh giá, xếp loại chất lượng tổ chức đảng, đảng viên có sự thay đổi, Chính phủ quy định việc áp dụng các tiêu chuẩn này nhằm đảm bảo tính đồng bộ, thống nhất, phù hợp với các danh hiệu thi đua và hình thức khen thưởng quy định tại Luật Thi đua, khen thưởng sau khi thống nhất với các cơ quan Đảng ở trung ương.
-    Điều 4. Quy định chuyển tiếp
-    1. Đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ đã được nghiệm thu hoặc đang thực hiện theo quy định của Luật Khoa học và Công nghệ số 29/2013/QH13; nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo được đánh giá hiệu quả theo quy định của Luật Khoa học, công nghệ và đổi mới sáng tạo số 93/2025/QH15 trước ngày 01 tháng 10 năm 2026 thì cấp có thẩm quyền tiếp tục công nhận hiệu quả áp dụng, phạm vi ảnh hưởng để làm căn cứ xét tặng danh hiệu Chiến sĩ thi đua và các hình thức khen thưởng theo quy định tại Luật Thi đua, khen thưởng số 06/2022/QH15.
-    2. Các cụm, khối thi đua đã được Hội đồng Thi đua - Khen thưởng Bộ, ban, ngành, tỉnh hoặc Hội đồng Thi đua - Khen thưởng cơ quan, tổ chức, đơn vị thuộc Bộ, ban, ngành, tỉnh tổ chức hoạt động trong năm 2026 được tiếp tục thực hiện đến khi tổng kết.
-    3. Các danh hiệu thi đua, hình thức khen thưởng đã được quyết định tặng hoặc truy tặng trước ngày Luật này có hiệu lực thi hành vẫn giữ nguyên giá trị pháp lý và không thực hiện việc xem xét, cấp đổi lại văn bằng, hiện vật khen thưởng trừ trường hợp có quy định khác về đính chính thông tin.
-    4. Đối với hồ sơ đề nghị xét tặng danh hiệu thi đua, hình thức khen thưởng đã được cơ quan có thẩm quyền thẩm định hồ sơ tiếp nhận trước ngày Luật này có hiệu lực thi hành thì thực hiện thẩm định, xét duyệt theo quy định tại Luật Thi đua, khen thưởng số 06/2022/QH15; trường hợp hồ sơ được thẩm định mà việc áp dụng quy định tại Luật này có lợi hơn cho tập thể, cá nhân, hộ gia đình thì áp dụng quy định của Luật này.”.
-
-[^fn114]: Khoản này được sửa đổi, bổ sung theo quy định tại khoản 30 Điều 1 của Luật số 06/2026/QH16 sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng, có hiệu lực kể từ ngày 01 tháng 10 năm 2026.
+Vương Đình Huệ

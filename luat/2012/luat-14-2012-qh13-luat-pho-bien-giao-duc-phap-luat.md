@@ -22,21 +22,23 @@ retrieved: '2026-10-12'
 
 QUỐC HỘI
 
-3
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc
+Độc lập - Tự do - Hạnh phúc
 
 Luật số: 14/2012/QH13
 
-LUẬT Phổ biến, giáo dục pháp luật Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 51/2001/QH10;
+LUẬT
 
-Quốc hội ban hành Luật Phổ biến, giáo dục pháp luật.
+Phổ biến, giáo dục pháp luật
 
-## Chương I NHỮNG QUY ĐỊNH CHUNG
+Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 51/2001/QH10; Quốc hội ban hành Luật Phổ biến, giáo dục pháp luật.
 
-#### Điều 1. Phạm vi điều chỉnh Luật này quy định quyền được thông tin về pháp luật và trách nhiệm tìm hiểu, học tập pháp luật của công dân; nội dung, hình thức phổ biến, giáo dục pháp luật;
+## Chương I. NHỮNG QUY ĐỊNH CHUNG
 
-trách nhiệm của cơ quan, tổ chức, cá nhân có thẩm quyền và các điều kiện bảo đảm cho công tác phổ biến, giáo dục pháp luật.
+#### Điều 1. Phạm vi điều chỉnh
+
+Luật này quy định quyền được thông tin về pháp luật và trách nhiệm tìm hiểu, học tập pháp luật của công dân; nội dung, hình thức phổ biến, giáo dục pháp luật; trách nhiệm của cơ quan, tổ chức, cá nhân có thẩm quyền và các điều kiện bảo đảm cho công tác phổ biến, giáo dục pháp luật.
 
 #### Điều 2. Quyền được thông tin về pháp luật và trách nhiệm tìm hiểu, học tập pháp luật của công dân
 
@@ -54,7 +56,9 @@ trách nhiệm của cơ quan, tổ chức, cá nhân có thẩm quyền và cá
 
 4\. Giáo dục pháp luật trong các cơ sở giáo dục của hệ thống giáo dục quốc dân được lồng ghép trong chương trình giáo dục của các cấp học và trình độ đào tạo; là một nội dung trong chương trình giáo dục trung học cơ sở, trung học phổ thông, giáo dục nghề nghiệp, giáo dục đại học.
 
-#### Điều 4. Xã hội hóa công tác phổ biến, giáo dục pháp luật Nhà nước khuyến khích và có chính sách hỗ trợ, tạo điều kiện đối với cơ quan, tổ chức, doanh nghiệp, cá nhân tham gia thực hiện phổ biến, giáo dục pháp luật; huy động các nguồn lực xã hội đóng góp cho công tác phổ biến, giáo dục pháp luật.
+#### Điều 4. Xã hội hóa công tác phổ biến, giáo dục pháp luật
+
+Nhà nước khuyến khích và có chính sách hỗ trợ, tạo điều kiện đối với cơ quan, tổ chức, doanh nghiệp, cá nhân tham gia thực hiện phổ biến, giáo dục pháp luật; huy động các nguồn lực xã hội đóng góp cho công tác phổ biến, giáo dục pháp luật.
 
 Căn cứ tình hình kinh tế - xã hội của từng thời kỳ, Chính phủ quy định cụ thể chính sách hỗ trợ đối với cơ quan, tổ chức, doanh nghiệp, cá nhân tham gia thực hiện phổ biến, giáo dục pháp luật.
 
@@ -92,9 +96,7 @@ g) Hợp tác quốc tế về phổ biến, giáo dục pháp luật.
 
 a) Chính phủ thống nhất quản lý nhà nước về phổ biến, giáo dục pháp luật;
 
-b) Bộ Tư pháp chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về phổ biến, giáo dục pháp luật; chủ trì xây dựng, trình Thủ tướng Chính phủ ban hành chương trình, kế hoạch dài hạn, trung hạn về phổ biến, giáo dục pháp luật;
-
-chủ trì xây dựng cơ sở dữ liệu quốc gia về pháp luật;
+b) Bộ Tư pháp chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về phổ biến, giáo dục pháp luật; chủ trì xây dựng, trình Thủ tướng Chính phủ ban hành chương trình, kế hoạch dài hạn, trung hạn về phổ biến, giáo dục pháp luật; chủ trì xây dựng cơ sở dữ liệu quốc gia về pháp luật;
 
 c) Bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Tư pháp thực hiện quản lý nhà nước về phổ biến, giáo dục pháp luật;
 
@@ -108,9 +110,9 @@ d) Ủy ban nhân dân các cấp có trách nhiệm thực hiện quản lý nh
 
 3\. Thủ tướng Chính phủ quy định chi tiết về thành phần và nhiệm vụ, quyền hạn của Hội đồng phối hợp phổ biến, giáo dục pháp luật.
 
-#### Điều 8. Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam Ngày 09 tháng 11 hàng năm là Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam. Ngày Pháp luật được tổ chức nhằm tôn vinh Hiến pháp, pháp luật, giáo dục ý thức thượng tôn pháp luật cho mọi người trong xã hội.
+#### Điều 8. Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam
 
-Chính phủ quy định chi tiết Điều này.
+Ngày 09 tháng 11 hàng năm là Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam. Ngày Pháp luật được tổ chức nhằm tôn vinh Hiến pháp, pháp luật, giáo dục ý thức thượng tôn pháp luật cho mọi người trong xã hội. Chính phủ quy định chi tiết Điều này.
 
 #### Điều 9. Các hành vi bị cấm
 
@@ -122,9 +124,9 @@ Chính phủ quy định chi tiết Điều này.
 
 4\. Lợi dụng việc thực hiện quyền được thông tin, tìm hiểu, học tập pháp luật để gây cản trở đến hoạt động bình thường của cơ quan, tổ chức, cá nhân, gây mất trật tự, an toàn xã hội.
 
-## Chương II NỘI DUNG, HÌNH THỨC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT
+## Chương II. NỘI DUNG, HÌNH THỨC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT
 
-### Mục 1 NỘI DUNG, HÌNH THỨC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CHUNG CHO CÔNG DÂN
+### Mục 1. NỘI DUNG, HÌNH THỨC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CHUNG CHO CÔNG DÂN
 
 #### Điều 10. Nội dung phổ biến, giáo dục pháp luật
 
@@ -190,13 +192,11 @@ d) Dự thảo văn bản quy phạm pháp luật được công bố để lấ
 
 2\. Cơ quan nhà nước có thẩm quyền thông qua việc xử lý vi phạm hành chính, hoạt động tiếp công dân, giải quyết khiếu nại, tố cáo, tổ chức đối thoại với người dân để kết hợp phổ biến, giáo dục pháp luật.
 
-### Mục 2 NỘI DUNG, HÌNH THỨC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CHO MỘT SỐ ĐỐI TƯỢNG ĐẶC THÙ
+### Mục 2. NỘI DUNG, HÌNH THỨC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CHO MỘT SỐ ĐỐI TƯỢNG ĐẶC THÙ
 
 #### Điều 17. Phổ biến, giáo dục pháp luật cho người dân ở vùng dân tộc thiểu số, miền núi, vùng sâu, vùng xa, biên giới, ven biển, hải đảo, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và ngư dân
 
-1\. Việc phổ biến, giáo dục pháp luật cho người dân ở vùng dân tộc thiểu số, miền núi, vùng sâu, vùng xa, biên giới, ven biển, hải đảo, vùng có điều kiện kinh tế xã hội đặc biệt khó khăn và ngư dân căn cứ vào đặc điểm của từng đối tượng mà tập trung vào các quy định pháp luật về dân tộc, tôn giáo, trách nhiệm tham gia bảo
-
-vệ, giữ gìn an ninh, quốc phòng, biên giới, chủ quyền quốc gia, biển, đảo, tài nguyên, khoáng sản và các lĩnh vực pháp luật khác gắn liền với đời sống, sản xuất của người dân.
+1\. Việc phổ biến, giáo dục pháp luật cho người dân ở vùng dân tộc thiểu số, miền núi, vùng sâu, vùng xa, biên giới, ven biển, hải đảo, vùng có điều kiện kinh tế xã hội đặc biệt khó khăn và ngư dân căn cứ vào đặc điểm của từng đối tượng mà tập trung vào các quy định pháp luật về dân tộc, tôn giáo, trách nhiệm tham gia bảo vệ, giữ gìn an ninh, quốc phòng, biên giới, chủ quyền quốc gia, biển, đảo, tài nguyên, khoáng sản và các lĩnh vực pháp luật khác gắn liền với đời sống, sản xuất của người dân.
 
 2\. Hoạt động phổ biến, giáo dục pháp luật cho người dân ở vùng dân tộc thiểu số, miền núi, vùng sâu, vùng xa, biên giới, ven biển, hải đảo, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và ngư dân được chú trọng thực hiện thông qua hòa giải ở cơ sở, trợ giúp pháp lý lưu động; tư vấn pháp luật, cung cấp miễn phí thông tin, tài liệu pháp luật bằng tiếng dân tộc cho đồng bào dân tộc thiểu số; lồng ghép phổ biến, giáo dục pháp luật trong các hoạt động văn hóa truyền thống.
 
@@ -236,9 +236,7 @@ vệ, giữ gìn an ninh, quốc phòng, biên giới, chủ quyền quốc gia,
 
 #### Điều 21. Phổ biến, giáo dục pháp luật cho người đang chấp hành hình phạt tù, người đang bị áp dụng biện pháp đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc
 
-1\. Việc phổ biến, giáo dục pháp luật cho người đang chấp hành hình phạt tù, người đang bị áp dụng biện pháp đưa vào trường giáo dưỡng, cơ sở giáo dục bắt
-
-buộc, cơ sở cai nghiện bắt buộc, tùy theo từng đối tượng mà tập trung vào các quy định pháp luật về quyền và nghĩa vụ của công dân, pháp luật về hình sự, thi hành án hình sự, xử lý vi phạm hành chính; pháp luật về phòng, chống ma túy và các tệ nạn xã hội.
+1\. Việc phổ biến, giáo dục pháp luật cho người đang chấp hành hình phạt tù, người đang bị áp dụng biện pháp đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc, tùy theo từng đối tượng mà tập trung vào các quy định pháp luật về quyền và nghĩa vụ của công dân, pháp luật về hình sự, thi hành án hình sự, xử lý vi phạm hành chính; pháp luật về phòng, chống ma túy và các tệ nạn xã hội.
 
 2\. Phổ biến, giáo dục pháp luật cho người đang chấp hành hình phạt tù, người đang bị áp dụng biện pháp đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc được chú trọng thực hiện thông qua chương trình học pháp luật, giáo dục công dân và lồng ghép trong chương trình học văn hóa, học nghề, giáo dục tái hòa nhập cộng đồng; phổ biến thông tin thời sự, chính sách; sinh hoạt câu lạc bộ, nhóm đồng đẳng và các hình thức phù hợp khác.
 
@@ -252,13 +250,11 @@ buộc, cơ sở cai nghiện bắt buộc, tùy theo từng đối tượng mà
 
 3\. Ủy ban nhân dân cấp xã có trách nhiệm phối hợp với các cơ quan, tổ chức hữu quan, cộng đồng dân cư và gia đình người đang bị áp dụng biện pháp giáo dục tại xã, phường, thị trấn, người bị phạt tù được hưởng án treo tổ chức phổ biến, giáo dục pháp luật cho các đối tượng này.
 
-### Mục 3 GIÁO DỤC PHÁP LUẬT TRONG CÁC CƠ SỞ GIÁO DỤC CỦA HỆ THỐNG GIÁO DỤC QUỐC DÂN
+### Mục 3. GIÁO DỤC PHÁP LUẬT TRONG CÁC CƠ SỞ GIÁO DỤC CỦA HỆ THỐNG GIÁO DỤC QUỐC DÂN
 
 #### Điều 23. Nội dung giáo dục pháp luật trong các cơ sở giáo dục của hệ thống giáo dục quốc dân
 
-1\. Nội dung giáo dục pháp luật trong các cơ sở giáo dục của hệ thống giáo dục quốc dân được xây dựng phù hợp với từng cấp học và trình độ đào tạo, phù hợp
-
-với mục tiêu giáo dục, ngành nghề đào tạo, bảo đảm tính thống nhất, đồng bộ, phổ thông, cơ bản, thiết thực và có hệ thống.
+1\. Nội dung giáo dục pháp luật trong các cơ sở giáo dục của hệ thống giáo dục quốc dân được xây dựng phù hợp với từng cấp học và trình độ đào tạo, phù hợp với mục tiêu giáo dục, ngành nghề đào tạo, bảo đảm tính thống nhất, đồng bộ, phổ thông, cơ bản, thiết thực và có hệ thống.
 
 2\. Nội dung giáo dục pháp luật đối với từng cấp học và trình độ đào tạo của hệ thống giáo dục quốc dân được quy định như sau:
 
@@ -274,9 +270,9 @@ c) Nội dung giáo dục pháp luật trong chương trình giáo dục nghề 
 
 2\. Giáo dục ngoại khóa và các hoạt động giáo dục ngoài giờ lên lớp.
 
-## Chương III TRÁCH NHIỆM PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN
+## Chương III. TRÁCH NHIỆM PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN
 
-### Mục 1 TRÁCH NHIỆM PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CỦA CƠ QUAN, TỔ CHỨC
+### Mục 1. TRÁCH NHIỆM PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CỦA CƠ QUAN, TỔ CHỨC
 
 #### Điều 25. Trách nhiệm của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
 
@@ -296,7 +292,9 @@ d) Xây dựng, tập huấn, bồi dưỡng đội ngũ báo cáo viên pháp l
 
 3\. Bộ Lao động - Thương binh và Xã hội ban hành chương trình giáo dục pháp luật trong các cơ sở dạy nghề.
 
-#### Điều 26. Trách nhiệm của Tòa án nhân dân, Viện kiểm sát nhân dân và Kiểm toán Nhà nước
+#### Điều 26. Trách nhiệm của Tòa án nhân dân, Viện kiểm sát nhân dân và
+
+Kiểm toán Nhà nước
 
 1\. Xây dựng, tập huấn, bồi dưỡng đội ngũ báo cáo viên pháp luật của ngành.
 
@@ -354,13 +352,15 @@ d) Tạo điều kiện để các tổ chức, cá nhân, doanh nghiệp hỗ t
 
 2\. Phối hợp với gia đình và xã hội thực hiện mục tiêu giáo dục pháp luật trong các cơ sở giáo dục của hệ thống giáo dục quốc dân.
 
-#### Điều 32. Trách nhiệm của gia đình Các thành viên trong gia đình có trách nhiệm gương mẫu chấp hành pháp luật;
+#### Điều 32. Trách nhiệm của gia đình
 
-ông, bà, cha, mẹ có trách nhiệm giáo dục và tạo điều kiện cho con, cháu tìm hiểu, học tập pháp luật, rèn luyện ý thức tôn trọng, chấp hành pháp luật.
+Các thành viên trong gia đình có trách nhiệm gương mẫu chấp hành pháp luật; ông, bà, cha, mẹ có trách nhiệm giáo dục và tạo điều kiện cho con, cháu tìm hiểu, học tập pháp luật, rèn luyện ý thức tôn trọng, chấp hành pháp luật.
 
-### Mục 2 TRÁCH NHIỆM PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CỦA CÁ NHÂN
+### Mục 2. TRÁCH NHIỆM PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CỦA CÁ NHÂN
 
-#### Điều 33. Trách nhiệm của đại biểu Quốc hội, đại biểu Hội đồng nhân dân các cấp Trong phạm vi nhiệm vụ, quyền hạn của mình, đại biểu Quốc hội, đại biểu Hội đồng nhân dân các cấp thực hiện phổ biến, giáo dục pháp luật cho nhân dân thông qua hoạt động tiếp xúc cử tri; giám sát việc thực hiện pháp luật.
+#### Điều 33. Trách nhiệm của đại biểu Quốc hội, đại biểu Hội đồng nhân dân các cấp
+
+Trong phạm vi nhiệm vụ, quyền hạn của mình, đại biểu Quốc hội, đại biểu Hội đồng nhân dân các cấp thực hiện phổ biến, giáo dục pháp luật cho nhân dân thông qua hoạt động tiếp xúc cử tri; giám sát việc thực hiện pháp luật.
 
 #### Điều 34. Trách nhiệm của cán bộ, công chức, viên chức và cán bộ, chiến sỹ trong lực lượng vũ trang nhân dân
 
@@ -420,7 +420,7 @@ c) Hằng năm, báo cáo về hoạt động phổ biến, giáo dục pháp lu
 
 3\. Tuyên truyền viên pháp luật và những người được mời tham gia phổ biến, giáo dục pháp luật được cung cấp văn bản pháp luật; được tập huấn, bồi dưỡng kiến thức pháp luật, nghiệp vụ phổ biến, giáo dục pháp luật; hưởng thù lao, chế độ theo quy định của pháp luật.
 
-## Chương IV CÁC ĐIỀU KIỆN BẢO ĐẢM CHO CÔNG TÁC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT
+## Chương IV. CÁC ĐIỀU KIỆN BẢO ĐẢM CHO CÔNG TÁC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT
 
 #### Điều 38. Bảo đảm về tổ chức, cán bộ, cơ sở vật chất và phương tiện cho công tác phổ biến, giáo dục pháp luật
 
@@ -434,11 +434,15 @@ Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan th
 
 3\. Nhà nước khuyến khích, tạo điều kiện cho tổ chức, cá nhân trong nước và nước ngoài tài trợ, hỗ trợ kinh phí cho hoạt động phổ biến, giáo dục pháp luật theo quy định của pháp luật.
 
-## Chương V ĐIỀU KHOẢN THI HÀNH
+## Chương V. ĐIỀU KHOẢN THI HÀNH
 
-#### Điều 40. Hiệu lực thi hành Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2013.
+#### Điều 40. Hiệu lực thi hành
 
-#### Điều 41. Quy định chi tiết và hướng dẫn thi hành Chính phủ, cơ quan có thẩm quyền quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật.
+Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2013.
+
+#### Điều 41. Quy định chi tiết và hướng dẫn thi hành
+
+Chính phủ, cơ quan có thẩm quyền quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật.
 
 Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 3 thông qua ngày 20 tháng 6 năm 2012./.
 

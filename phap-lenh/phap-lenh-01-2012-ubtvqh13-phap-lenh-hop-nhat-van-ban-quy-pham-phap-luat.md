@@ -20,21 +20,31 @@ retrieved: '2026-10-12'
 
 # Pháp lệnh số 01/2012/UBTVQH13 Hợp nhất văn bản quy phạm pháp luật
 
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc
+ỦY BAN THƯỜNG VỤ
+
+QUỐC HỘI
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
 
 Pháp lệnh số: 01/2012/UBTVQH13
 
-PHÁP LỆNH Hợp nhất văn bản quy phạm pháp luật Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 51/2001/QH10;
+PHÁP LỆNH
 
-Căn cứ Điều 92 của Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12;
+Hợp nhất văn bản quy phạm pháp luật
 
-Ủy ban thường vụ Quốc hội ban hành Pháp lệnh hợp nhất văn bản quy phạm pháp luật.
+Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 51/2001/QH10; Căn cứ Điều 92 của Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12; Ủy ban thường vụ Quốc hội ban hành Pháp lệnh hợp nhất văn bản quy phạm pháp luật.
 
-## Chương I NHỮNG QUY ĐỊNH CHUNG
+## Chương I. NHỮNG QUY ĐỊNH CHUNG
 
-#### Điều 1. Phạm vi điều chỉnh Pháp lệnh này quy định về việc hợp nhất văn bản quy phạm pháp luật (sau đây gọi tắt là văn bản) do các cơ quan nhà nước ở Trung ương ban hành, thẩm quyền, trách nhiệm của các cơ quan trong việc hợp nhất văn bản, trình tự, kỹ thuật hợp nhất văn bản nhằm góp phần bảo đảm cho hệ thống pháp luật đơn giản, rõ ràng, dễ sử dụng, nâng cao hiệu quả thi hành pháp luật.
+#### Điều 1. Phạm vi điều chỉnh
 
-#### Điều 2. Giải thích từ ngữ Trong Pháp lệnh này, các từ ngữ dưới đây được hiểu như sau:
+Pháp lệnh này quy định về việc hợp nhất văn bản quy phạm pháp luật (sau đây gọi tắt là văn bản) do các cơ quan nhà nước ở Trung ương ban hành, thẩm quyền, trách nhiệm của các cơ quan trong việc hợp nhất văn bản, trình tự, kỹ thuật hợp nhất văn bản nhằm góp phần bảo đảm cho hệ thống pháp luật đơn giản, rõ ràng, dễ sử dụng, nâng cao hiệu quả thi hành pháp luật.
+
+#### Điều 2. Giải thích từ ngữ
+
+Trong Pháp lệnh này, các từ ngữ dưới đây được hiểu như sau:
 
 1\. Hợp nhất văn bản là việc đưa nội dung sửa đổi, bổ sung trong văn bản sửa đổi, bổ sung một số điều của văn bản đã được ban hành trước đó (sau đây gọi tắt là văn bản sửa đổi, bổ sung) vào văn bản được sửa đổi, bổ sung theo quy trình, kỹ thuật quy định tại Pháp lệnh này.
 
@@ -52,9 +62,11 @@ Căn cứ Điều 92 của Luật Ban hành văn bản quy phạm pháp luật s
 
 3\. Tuân thủ trình tự, kỹ thuật hợp nhất văn bản.
 
-#### Điều 4. Sử dụng văn bản hợp nhất Văn bản hợp nhất được sử dụng chính thức trong việc áp dụng và thi hành pháp luật.
+#### Điều 4. Sử dụng văn bản hợp nhất
 
-## Chương II THẨM QUYỀN VÀ VIỆC TỔ CHỨC HỢP NHẤT VĂN BẢN
+Văn bản hợp nhất được sử dụng chính thức trong việc áp dụng và thi hành pháp luật.
+
+## Chương II. THẨM QUYỀN VÀ VIỆC TỔ CHỨC HỢP NHẤT VĂN BẢN
 
 #### Điều 5. Thẩm quyền và thời hạn hợp nhất văn bản của Quốc hội, Ủy ban thường vụ Quốc hội, văn bản liên tịch giữa Ủy ban thường vụ Quốc hội với cơ quan trung ương của tổ chức chính trị - xã hội
 
@@ -62,7 +74,9 @@ Căn cứ Điều 92 của Luật Ban hành văn bản quy phạm pháp luật s
 
 2\. Chậm nhất là 05 ngày làm việc, kể từ ngày văn bản sửa đổi, bổ sung được công bố, Chủ nhiệm Văn phòng Quốc hội hoàn thành việc hợp nhất văn bản và ký xác thực văn bản hợp nhất.
 
-#### Điều 6. Thẩm quyền và thời hạn hợp nhất văn bản của Chủ tịch nước, Chính phủ, Thủ tướng Chính phủ, văn bản liên tịch giữa Chính phủ với cơ quan trung ương của tổ chức chính trị - xã hội
+#### Điều 6. Thẩm quyền và thời hạn hợp nhất văn bản của Chủ tịch nước,
+
+Chính phủ, Thủ tướng Chính phủ, văn bản liên tịch giữa Chính phủ với cơ quan trung ương của tổ chức chính trị - xã hội
 
 1\. Người đứng đầu cơ quan chủ trì soạn thảo văn bản được sửa đổi, bổ sung của Chủ tịch nước, Chính phủ, Thủ tướng Chính phủ tổ chức thực hiện việc hợp nhất và ký xác thực văn bản hợp nhất đối với văn bản của Chủ tịch nước, Chính phủ, Thủ tướng Chính phủ, văn bản liên tịch giữa Chính phủ với cơ quan trung ương của tổ chức chính trị - xã hội.
 
@@ -128,13 +142,11 @@ b) Theo dõi, đôn đốc việc hợp nhất văn bản;
 
 c) Kiến nghị cơ quan thực hiện hợp nhất văn bản xử lý sai sót trong văn bản hợp nhất.
 
-## Chương III KỸ THUẬT HỢP NHẤT VĂN BẢN
+## Chương III. KỸ THUẬT HỢP NHẤT VĂN BẢN
 
 #### Điều 11. Thể thức và kỹ thuật trình bày văn bản hợp nhất
 
-1\. Thể thức văn bản hợp nhất bao gồm phần quốc hiệu, tiêu ngữ, tên văn bản hợp nhất, lời nói đầu, căn cứ ban hành, phần, chương, mục, điều, khoản, điểm của
-
-văn bản được sửa đổi, bổ sung và các nội dung được hợp nhất theo kỹ thuật quy định tại Chương này, phần quy định về việc thi hành, phần ký xác thực.
+1\. Thể thức văn bản hợp nhất bao gồm phần quốc hiệu, tiêu ngữ, tên văn bản hợp nhất, lời nói đầu, căn cứ ban hành, phần, chương, mục, điều, khoản, điểm của văn bản được sửa đổi, bổ sung và các nội dung được hợp nhất theo kỹ thuật quy định tại Chương này, phần quy định về việc thi hành, phần ký xác thực.
 
 2\. Kỹ thuật trình bày văn bản hợp nhất được thực hiện theo quy định tại Pháp lệnh này và các quy định khác của pháp luật có liên quan.
 
@@ -182,9 +194,11 @@ văn bản được sửa đổi, bổ sung và các nội dung được hợp n
 
 2\. Trường hợp cơ quan ban hành văn bản được hợp nhất có ban hành văn bản quy định về việc thi hành văn bản được hợp nhất thì trong văn bản hợp nhất phải có ký hiệu chú thích ngay tại tên chương hoặc điều quy định về việc thi hành và tại cuối trang của văn bản hợp nhất phải ghi chú rõ tên, số, ký hiệu, ngày, tháng, năm thông qua hoặc ký ban hành của văn bản quy định về việc thi hành. Trường hợp văn bản được sửa đổi, bổ sung không có chương, điều về việc thi hành thì phải có ký hiệu chú thích tại phần quy định về việc thi hành trong văn bản hợp nhất và tại cuối trang của văn bản hợp nhất phải ghi chú rõ tên, số, ký hiệu, ngày, tháng, năm thông qua hoặc ký ban hành của văn bản quy định về việc thi hành.
 
-#### Điều 18. Mẫu trình bày văn bản hợp nhất Việc trình bày tên văn bản hợp nhất, lời nói đầu, căn cứ ban hành, nội dung được sửa đổi, bổ sung, bãi bỏ, phần quy định về việc thi hành và phần ký xác thực trong văn bản hợp nhất được thực hiện theo mẫu quy định tại Phụ lục ban hành kèm theo Pháp lệnh này.
+#### Điều 18. Mẫu trình bày văn bản hợp nhất
 
-## Chương IV ĐIỀU KHOẢN THI HÀNH
+Việc trình bày tên văn bản hợp nhất, lời nói đầu, căn cứ ban hành, nội dung được sửa đổi, bổ sung, bãi bỏ, phần quy định về việc thi hành và phần ký xác thực trong văn bản hợp nhất được thực hiện theo mẫu quy định tại Phụ lục ban hành kèm theo Pháp lệnh này.
+
+## Chương IV. ĐIỀU KHOẢN THI HÀNH
 
 #### Điều 19. Hợp nhất văn bản được ban hành trước ngày Pháp lệnh này có hiệu lực
 
@@ -198,43 +212,61 @@ văn bản được sửa đổi, bổ sung và các nội dung được hợp n
 
 1\. Pháp lệnh này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2012.
 
-2\. Chương VIII của Quy chế về kỹ thuật trình bày dự thảo văn bản quy phạm pháp luật của Quốc hội, Ủy ban thường vụ Quốc hội ban hành kèm theo Nghị quyết số 1139/2007/UBTVQH11 ngày 03 tháng 7 năm 2007 của Ủy ban thường vụ Quốc hội hết hiệu lực kể từ ngày Pháp lệnh này có hiệu lực./.
+2\. Chương VIII của Quy chế về kỹ thuật trình bày dự thảo văn bản quy phạm pháp luật của Quốc hội, Ủy ban thường vụ Quốc hội ban hành kèm theo Nghị quyết số 1139/2007/UBTVQH11 ngày 03 tháng 7 năm 2007 của Ủy ban thường vụ Quốc hội hết hiệu lực kể từ ngày Pháp lệnh này có hiệu lực./. Hà Nội, ngày 22 tháng 3 năm 2012
 
-Hà Nội, ngày 22 tháng 3 năm 2012 TM. ỦY BAN THƯỜNG VỤ QUỐC HỘI CHỦ TỊCH
+TM. ỦY BAN THƯỜNG VỤ QUỐC HỘI
+
+CHỦ TỊCH
 
 Nguyễn Sinh Hùng
 
-Phụ lục HƯỚNG DẪN KỸ THUẬT TRÌNH BÀY VĂN BẢN HỢP NHẤT (Ban hành kèm theo Pháp lệnh số 01/2012/UBTVQH13) I. THỂ THỨC VĂN BẢN HỢP NHẤT
+Phụ lục
 
-QUỐC HIỆU TIÊU NGỮ
+HƯỚNG DẪN KỸ THUẬT TRÌNH BÀY VĂN BẢN HỢP NHẤT
+
+(Ban hành kèm theo Pháp lệnh số 01/2012/UBTVQH13)
+
+I. THỂ THỨC VĂN BẢN HỢP NHẤT
+
+QUỐC HIỆU
+
+TIÊU NGỮ
 
 TÊN VĂN BẢN HỢP NHẤT
 
-LỜI NÓI ĐẦU (nếu có) CĂN CỨ BAN HÀNH
+LỜI NÓI ĐẦU (nếu có)
 
-CÁC PHẦN, CHƯƠNG, MỤC, ĐIỀU, KHOẢN, ĐIỂM CỦA VĂN BẢN ĐƯỢC SỬA ĐỔI, BỔ SUNG VÀ CÁC NỘI DUNG ĐƯỢC HỢP NHẤT
+CĂN CỨ BAN HÀNH
+
+CÁC PHẦN, CHƯƠNG, MỤC, ĐIỀU, KHOẢN, ĐIỂM CỦA
+
+VĂN BẢN ĐƯỢC SỬA ĐỔI, BỔ SUNG VÀ CÁC NỘI DUNG
+
+ĐƯỢC HỢP NHẤT
 
 PHẦN QUY ĐỊNH VỀ VIỆC THI HÀNH (Nếu có)
 
 PHẦN KÝ XÁC THỰC
 
-11
+II. TRÌNH BÀY TÊN VĂN BẢN HỢP NHẤT
 
-II. TRÌNH BÀY TÊN VĂN BẢN HỢP NHẤT TÊN VĂN BẢN ĐƯỢC SỬA ĐỔI, BỔ SUNG ... (Tên, số, ký hiệu của văn bản được sửa đổi, bổ sung) ngày... tháng...
+TÊN VĂN BẢN ĐƯỢC SỬA ĐỔI, BỔ SUNG
 
-năm... (thông qua/ký ban hành) của... (tên cơ quan ban hành), có hiệu lực kể từ ngày... tháng... năm..., được sửa đổi, bổ sung bởi:
+... (Tên, số, ký hiệu của văn bản được sửa đổi, bổ sung) ngày... tháng... năm... (thông qua/ký ban hành) của... (tên cơ quan ban hành), có hiệu lực kể từ ngày... tháng... năm..., được sửa đổi, bổ sung bởi:
 
-1.... (Tên, số, ký hiệu của văn bản sửa đổi, bổ sung lần thứ nhất) ngày...
+1.... (Tên, số, ký hiệu của văn bản sửa đổi, bổ sung lần thứ nhất) ngày... tháng... năm... (thông qua/ký ban hành) của... (tên cơ quan ban hành), có hiệu lực kể từ ngày... tháng... năm...;
 
-tháng... năm... (thông qua/ký ban hành) của... (tên cơ quan ban hành), có hiệu lực kể từ ngày... tháng... năm...;
-
-2.... (Tên, số, ký hiệu của văn bản sửa đổi, bổ sung lần thứ hai) ngày...
-
-tháng... năm... (thông qua/ký ban hành) của... (tên cơ quan ban hành), có hiệu lực kể từ ngày... tháng... năm...(nếu có).
+2.... (Tên, số, ký hiệu của văn bản sửa đổi, bổ sung lần thứ hai) ngày... tháng... năm... (thông qua/ký ban hành) của... (tên cơ quan ban hành), có hiệu lực kể từ ngày... tháng... năm...(nếu có).
 
 3....
 
-Ví dụ 1: Trình bày tên văn bản hợp nhất LUẬT NHÀ Ở Luật Nhà ở số 56/2005/QH11 ngày 29 tháng 11 năm 2005 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 7 năm 2006, được sửa đổi, bổ sung bởi:
+Ví dụ 1: Trình bày tên văn bản hợp nhất
+
+LUẬT
+
+NHÀ Ở
+
+Luật Nhà ở số 56/2005/QH11 ngày 29 tháng 11 năm 2005 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 7 năm 2006, được sửa đổi, bổ sung bởi:
 
 1\. Luật số 34/2009/QH12 ngày 18 tháng 6 năm 2009 của Quốc hội sửa đổi, bổ sung Điều 126 của Luật Nhà ở số 56/2005/QH11 và Điều 121 của Luật Đất đai số 13/2003/QH11, có hiệu lực kể từ ngày 01 tháng 9 năm 2009;
 
@@ -242,45 +274,53 @@ Ví dụ 1: Trình bày tên văn bản hợp nhất LUẬT NHÀ Ở Luật Nhà
 
 Ví dụ 2: Trình bày tên văn bản hợp nhất
 
-NGHỊ ĐỊNH Quy định về tuyển dụng, sử dụng và quản lý công chức Nghị định số 24/2010/NĐ-CP ngày 15 tháng 3 năm 2010 của Chính phủ quy định về tuyển dụng, sử dụng và quản lý công chức, có hiệu lực kể từ ngày 01 tháng 5 năm 2010, được sửa đổi, bổ sung bởi:
+NGHỊ ĐỊNH
+
+Quy định về tuyển dụng, sử dụng và quản lý công chức
+
+Nghị định số 24/2010/NĐ-CP ngày 15 tháng 3 năm 2010 của Chính phủ quy định về tuyển dụng, sử dụng và quản lý công chức, có hiệu lực kể từ ngày 01 tháng 5 năm 2010, được sửa đổi, bổ sung bởi:
 
 Nghị định số 93/2010/NĐ-CP ngày 31 tháng 8 năm 2010 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 24/2010/NĐ-CP ngày 15 tháng 3 năm 2010 của Chính phủ quy định về tuyển dụng, sử dụng và quản lý công chức, có hiệu lực kể từ ngày 22 tháng 10 năm 2010.
 
 Ví dụ 3: Trình bày tên văn bản hợp nhất
 
-THÔNG TƯ Hướng dẫn một số nội dung quy định tại Nghị định số 110/2005/NĐ-CP ngày 24 tháng 8 năm 2005 của Chính phủ về quản lý hoạt động bán hàng đa cấp Thông tư số 19/2005/TT-BTM ngày 08 tháng 11 năm 2005 của Bộ Thương mại hướng dẫn một số nội dung quy định tại Nghị định số 110/2005/NĐ-CP ngày 24 tháng 8 năm 2005 của Chính phủ về quản lý hoạt động bán hàng đa cấp, có hiệu lực kể từ ngày 30 tháng 11 năm 2005, được sửa đổi, bổ sung bởi:
+THÔNG TƯ
 
-Thông tư số 35/2011/TT-BCT ngày 23 tháng 9 năm 2011 của Bộ Công thương sửa đổi, bổ sung một số nội dung về thủ tục hành chính tại Thông tư số 19/2005/TT-BTM ngày 08 tháng 11 năm 2005 hướng dẫn một số nội dung quy định tại Nghị định số 110/2005/NĐ-CP ngày 24 tháng 8 năm 2005 của Chính phủ về quản lý hoạt động bán hàng đa cấp, có hiệu lực kể từ ngày 08 tháng 11 năm 2011.
+Hướng dẫn một số nội dung quy định tại Nghị định số 110/2005/NĐ-CP ngày 24 tháng 8 năm 2005 của Chính phủ về quản lý hoạt động bán hàng đa cấp
 
-III. TRÌNH BÀY LỜI NÓI ĐẦU, CĂN CỨ BAN HÀNH TRONG VĂN BẢN HỢP NHẤT LỜI NÓI ĐẦU1 .................................................................2 .............................3...................................
+Thông tư số 19/2005/TT-BTM ngày 08 tháng 11 năm 2005 của Bộ Thương mại hướng dẫn một số nội dung quy định tại Nghị định số 110/2005/NĐ-CP ngày 24 tháng 8 năm 2005 của Chính phủ về quản lý hoạt động bán hàng đa cấp, có hiệu lực kể từ ngày 30 tháng 11 năm 2005, được sửa đổi, bổ sung bởi: Thông tư số 35/2011/TT-BCT ngày 23 tháng 9 năm 2011 của Bộ Công thương sửa đổi, bổ sung một số nội dung về thủ tục hành chính tại Thông tư số 19/2005/TT-BTM ngày 08 tháng 11 năm 2005 hướng dẫn một số nội dung quy định tại Nghị định số 110/2005/NĐ-CP ngày 24 tháng 8 năm 2005 của Chính phủ về quản lý hoạt động bán hàng đa cấp, có hiệu lực kể từ ngày 08 tháng 11 năm 2011.
 
-................................................................4 Căn cứ.....................................................
+III. TRÌNH BÀY LỜI NÓI ĐẦU, CĂN CỨ BAN HÀNH TRONG VĂN
+
+BẢN HỢP NHẤT
+
+LỜI NÓI ĐẦU1
+
+.................................................................2 .............................3................................... ................................................................4 Căn cứ.....................................................
 
 ................................................................5
 
 1
 
-Lời nói đầu này được sửa đổi, bổ sung theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
+Lời nói đầu này được sửa đổi, bổ sung theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm... 2
 
-2 Đoạn/cụm từ “...” được sửa đổi bởi đoạn/cụm từ “...” theo quy định tại điểm/khoản...
+Đoạn/cụm từ “...” được sửa đổi bởi đoạn/cụm từ “...” theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
 
-Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng...
+3
 
-năm...
+Đoạn/cụm từ “...” được bổ sung theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm... 4
 
-3 Đoạn/cụm từ “...” được bổ sung theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
+Đoạn/cụm từ “...” được bãi bỏ theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm... 5.
 
-4 Đoạn/cụm từ “...” được bãi bỏ theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
+.. (Tên, số, ký hiệu của văn bản sửa đổi, bổ sung) có căn cứ ban hành như sau: “.....” (Trích phần căn cứ ban hành trong văn bản sửa đổi, bổ sung)
 
-5.
+Ví dụ 4: Trình bày Lời nói đầu được hợp nhất
 
-.. (Tên, số, ký hiệu của văn bản sửa đổi, bổ sung) có căn cứ ban hành như sau:
+Lời nói đầu trong văn bản hợp nhất của Bộ luật Lao động ngày 23 tháng 6 năm 1994 và Luật số 35/2002/QH10 sửa đổi, bổ sung một số điều của Bộ luật Lao động được trình bày như sau:
 
-“.....” (Trích phần căn cứ ban hành trong văn bản sửa đổi, bổ sung)
+LỜI NÓI ĐẦU
 
-Ví dụ 4: Trình bày Lời nói đầu được hợp nhất Lời nói đầu trong văn bản hợp nhất của Bộ luật Lao động ngày 23 tháng 6 năm 1994 và Luật số 35/2002/QH10 sửa đổi, bổ sung một số điều của Bộ luật Lao động được trình bày như sau:
-
-LỜI NÓI ĐẦU Lao động là hoạt động quan trọng nhất của con người, tạo ra của cải vật chất và các giá trị tinh thần của xã hội. Lao động có năng suất, chất lượng và hiệu quả cao là nhân tố quyết định sự phát triển của đất nước.
+Lao động là hoạt động quan trọng nhất của con người, tạo ra của cải vật chất và các giá trị tinh thần của xã hội. Lao động có năng suất, chất lượng và hiệu quả cao là nhân tố quyết định sự phát triển của đất nước.
 
 Pháp luật lao động quy định quyền và nghĩa vụ của người lao động và của người sử dụng lao động, các tiêu chuẩn lao động, các nguyên tắc sử dụng và quản lý lao động, góp phần thúc đẩy sản xuất, vì vậy có vị trí quan trọng trong đời sống xã hội và trong hệ thống pháp luật của quốc gia.
 
@@ -292,15 +332,15 @@ Bộ luật Lao động bảo vệ quyền làm việc, lợi ích và các quy�
 
 Đoạn này được sửa đổi, bổ sung theo quy định tại khoản 1 Điều 1 của Luật số 35/2002/QH10 sửa đổi, bổ sung một số điều của Bộ luật Lao động, có hiệu lực kể từ ngày 01 tháng 01 năm 2003.
 
-Ví dụ 5: Trình bày Căn cứ ban hành trong văn bản hợp nhất Căn cứ ban hành trong văn bản hợp nhất của Pháp lệnh Kiểm sát viên Viện kiểm sát nhân dân số 03/2002/PL-UBTVQH11 và Pháp lệnh số 15/2011/UBTVQH12 sửa đổi, bổ sung một số điều của Pháp lệnh Kiểm sát viên Viện kiểm sát nhân dân được trình bày như sau:
+Ví dụ 5: Trình bày Căn cứ ban hành trong văn bản hợp nhất
+
+Căn cứ ban hành trong văn bản hợp nhất của Pháp lệnh Kiểm sát viên Viện kiểm sát nhân dân số 03/2002/PL-UBTVQH11 và Pháp lệnh số 15/2011/UBTVQH12 sửa đổi, bổ sung một số điều của Pháp lệnh Kiểm sát viên Viện kiểm sát nhân dân được trình bày như sau:
 
 Căn cứ vào Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung theo Nghị quyết số 51/2001/QH10 ngày 25 tháng 12 năm 2001 của Quốc hội khóa X, kỳ họp thứ 10;
 
 Căn cứ vào Luật Tổ chức Viện kiểm sát nhân dân;
 
-Pháp lệnh này quy định về Kiểm sát viên Viện kiểm sát nhân dân1.
-
-1
+Pháp lệnh này quy định về Kiểm sát viên Viện kiểm sát nhân dân1. 1
 
 Pháp lệnh số 15/2011/UBTVQH12 sửa đổi, bổ sung một số điều của Pháp lệnh Kiểm sát viên Viện kiểm sát nhân dân có căn cứ ban hành như sau:
 
@@ -310,15 +350,13 @@ Căn cứ Luật Tổ chức Viện kiểm sát nhân dân số 34/2002/QH10;
 
 Căn cứ Nghị quyết số 27/2008/QH12 ngày 15 tháng 11 năm 2008 của Quốc hội về Chương trình xây dựng luật, pháp lệnh năm 2009 và bổ sung Chương trình xây dựng luật, pháp lệnh của Quốc hội nhiệm kỳ khóa XII (2007 - 2011);
 
-Ủy ban thường vụ Quốc hội ban hành Pháp lệnh Sửa đổi, bổ sung một số điều của Pháp lệnh Kiểm sát viên Viện kiểm sát nhân dân số 03/2002/PL-UBTVQH11.”
+Ủy ban thường vụ Quốc hội ban hành Pháp lệnh Sửa đổi, bổ sung một số điều của Pháp lệnh Kiểm sát viên Viện kiểm sát nhân dân số 03/2002/PL-UBTVQH11.” Ví dụ 6: Trình bày Căn cứ ban hành trong văn bản hợp nhất
 
-Ví dụ 6: Trình bày Căn cứ ban hành trong văn bản hợp nhất Căn cứ ban hành trong văn bản hợp nhất của Thông tư số 08/2009/TT-BTNMT ngày 15 tháng 7 năm 2009 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định quản lý và bảo vệ môi trường khu kinh tế, khu công nghệ cao, khu công nghiệp và cụm công nghiệp và Thông tư số 48/2011/TT-BTNMT ngày 28 tháng 12 năm 2011 sửa đổi, bổ sung một số điều của Thông tư số 08/2009/TT-BTNMT ngày 15 tháng 7 năm 2009 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định quản lý và bảo vệ môi trường khu kinh tế, khu công nghệ cao, khu công nghiệp và cụm công nghiệp được trình bày như sau:
+Căn cứ ban hành trong văn bản hợp nhất của Thông tư số 08/2009/TT-BTNMT ngày 15 tháng 7 năm 2009 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định quản lý và bảo vệ môi trường khu kinh tế, khu công nghệ cao, khu công nghiệp và cụm công nghiệp và Thông tư số 48/2011/TT-BTNMT ngày 28 tháng 12 năm 2011 sửa đổi, bổ sung một số điều của Thông tư số 08/2009/TT-BTNMT ngày 15 tháng 7 năm 2009 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định quản lý và bảo vệ môi trường khu kinh tế, khu công nghệ cao, khu công nghiệp và cụm công nghiệp được trình bày như sau:
 
 Căn cứ Luật Bảo vệ môi trường ngày 29 tháng 11 năm 2005;
 
-Căn cứ Nghị định số 29/2008/NĐ-CP ngày 14 tháng 3 năm 2008 của Chính phủ quy định về khu công nghiệp, khu chế xuất và khu kinh tế;
-
-Căn cứ Nghị định số 99/2003/NĐ-CP ngày 28 tháng 8 năm 2003 của Chính phủ về việc ban hành Quy chế Khu công nghệ cao;
+Căn cứ Nghị định số 29/2008/NĐ-CP ngày 14 tháng 3 năm 2008 của Chính phủ quy định về khu công nghiệp, khu chế xuất và khu kinh tế; Căn cứ Nghị định số 99/2003/NĐ-CP ngày 28 tháng 8 năm 2003 của Chính phủ về việc ban hành Quy chế Khu công nghệ cao;
 
 Căn cứ Nghị định số 80/2006/NĐ-CP ngày 09 tháng 8 năm 2006 của Chính phủ về việc quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo vệ môi trường;
 
@@ -338,57 +376,61 @@ Căn cứ Nghị định số 29/2008/NĐ-CP ngày 14 tháng 3 năm 2008 của C
 
 Căn cứ Nghị định số 99/2003/NĐ-CP ngày 28 tháng 8 năm 2003 của Chính phủ về việc ban hành Quy chế Khu công nghệ cao;
 
-Căn cứ Nghị định số 80/2006/NĐ-CP ngày 09 tháng 8 năm 2006 của Chính phủ về việc quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo vệ môi trường;
-
-Căn cứ Nghị định số 21/2008/NĐ-CP ngày 28 tháng 02 năm 2008 của Chính phủ về sửa đổi, bổ sung một số điều của Nghị định số 80/2006/NĐ-CP ngày 09 tháng 8 năm 2006 của Chính phủ về việc quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo vệ môi trường;
-
-Căn cứ Nghị định số 29/2011/NĐ-CP ngày 18 tháng 4 năm 2011 của Chính phủ quy định về đánh giá môi trường chiến lược, đánh giá tác động môi trường, cam kết bảo vệ môi trường;
-
-Căn cứ Nghị định số 25/2008/NĐ-CP ngày 04 tháng 3 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài nguyên và Môi trường, đã được sửa đổi, bổ sung tại Nghị định số 19/2010/NĐ-CP ngày 05 tháng 3 năm 2010 của Chính phủ và Nghị định số 89/2010/NĐ-CP ngày 16 tháng 8 năm 2010 của Chính phủ;
-
-Theo đề nghị của Tổng Cục trưởng Tổng cục Môi trường, Vụ trưởng Vụ Pháp chế,”
+Căn cứ Nghị định số 80/2006/NĐ-CP ngày 09 tháng 8 năm 2006 của Chính phủ về việc quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo vệ môi trường; Căn cứ Nghị định số 21/2008/NĐ-CP ngày 28 tháng 02 năm 2008 của Chính phủ về sửa đổi, bổ sung một số điều của Nghị định số 80/2006/NĐ-CP ngày 09 tháng 8 năm 2006 của Chính phủ về việc quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo vệ môi trường; Căn cứ Nghị định số 29/2011/NĐ-CP ngày 18 tháng 4 năm 2011 của Chính phủ quy định về đánh giá môi trường chiến lược, đánh giá tác động môi trường, cam kết bảo vệ môi trường; Căn cứ Nghị định số 25/2008/NĐ-CP ngày 04 tháng 3 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài nguyên và Môi trường, đã được sửa đổi, bổ sung tại Nghị định số 19/2010/NĐ-CP ngày 05 tháng 3 năm 2010 của Chính phủ và Nghị định số 89/2010/NĐ-CP ngày 16 tháng 8 năm 2010 của Chính phủ; Theo đề nghị của Tổng Cục trưởng Tổng cục Môi trường, Vụ trưởng Vụ Pháp chế,”
 
 IV. TRÌNH BÀY NỘI DUNG ĐƯỢC SỬA ĐỔI TRONG VĂN BẢN HỢP NHẤT
 
-1\. Trình bày phần, chương, mục được sửa đổi PHẦN (số thứ tự của phần) ..................(tên phần)......................... 1 .............................................................
+1\. Trình bày phần, chương, mục được sửa đổi
 
-PHẦN..................
+PHẦN (số thứ tự của phần)
+
+..................(tên phần)......................... 1
+
+............................................................. PHẦN..................
 
 .........................................................
 
-CHƯƠNG (số thứ tự của chương) ..................(tên chương)......................... 2 .............................................................
+CHƯƠNG (số thứ tự của chương)
 
-CHƯƠNG.....
+..................(tên chương)......................... 2
+
+............................................................. CHƯƠNG.....
 
 ...........................................
 
-MỤC (số thứ tự của mục) ..................(Tên mục)......................... 3 Điều...
+MỤC (số thứ tự của mục)
 
-.................................................................
+..................(Tên mục)......................... 3
 
 Điều...
 
-.................................................................
+................................................................. Điều...
 
-1
+................................................................. 1
 
-Phần này được sửa đổi theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
+Phần này được sửa đổi theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm... 2
 
-2 Chương này được sửa đổi theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
+Chương này được sửa đổi theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm... 3
 
-3 Mục này được sửa đổi theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
-
-Ví dụ 7: Trình bày phần/chương/mục được sửa đổi trong văn bản hợp nhất
+Mục này được sửa đổi theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm... Ví dụ 7: Trình bày phần/chương/mục được sửa đổi trong văn bản hợp nhất
 
 ## Chương XIV của Bộ luật Lao động ngày 23 tháng 6 năm 1994 được sửa đổi theo quy định tại Điều 1 của Luật số 74/2006/QH11 ngày 29 tháng 11 năm 2006 sửa đổi, bổ sung một số điều của Bộ luật Lao động. Trong văn bản hợp nhất trình bày như sau:
 
-## CHƯƠNG XIV GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG 1 Mục I QUY ĐỊNH CHUNG
+## CHƯƠNG XIV. GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG 1
 
-#### Điều 157 .................................................
+### Mục I. QUY ĐỊNH CHUNG
 
-#### Điều 158 .................................................
+#### Điều 157
 
-#### Điều 159 .................................................
+.................................................
+
+#### Điều 158
+
+.................................................
+
+#### Điều 159
+
+.................................................
 
 1
 
@@ -396,65 +438,49 @@ Chương này được sửa đổi theo quy định tại Điều 1 của Luậ
 
 2\. Trình bày điều, khoản, điểm, đoạn, cụm từ được sửa đổi
 
-Điều (số thứ tự điều). (Tên điều)1 .............................................................
+Điều (số thứ tự điều). (Tên điều)1
 
-Điều (số thứ tự điều). (Tên điều) 1.2.........................................................
+............................................................. Điều (số thứ tự điều). (Tên điều)
 
-2...........................................................
-
-a)3.........................................................
-
-b)..........................4...............................
-
-.............................................................
+1.2......................................................... 2........................................................... a)3......................................................... b)..........................4............................... .............................................................
 
 1
 
-Điều này được sửa đổi theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
+Điều này được sửa đổi theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm... 2
 
-2
+Khoản này được sửa đổi theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm... 3
 
-Khoản này được sửa đổi theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
+Điểm này được sửa đổi theo quy định tại điểm/khoản... Điều... của... (số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm... 4
 
-3
-
-Điểm này được sửa đổi theo quy định tại điểm/khoản... Điều... của... (số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
-
-4
-
-Đoạn/cụm từ “...” được sửa đổi bởi đoạn/cụm từ “...” theo quy định tại điểm/khoản...
-
-Điều...... của....... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày.......
-
-tháng...... năm.....
+Đoạn/cụm từ “...” được sửa đổi bởi đoạn/cụm từ “...” theo quy định tại điểm/khoản... Điều...... của....... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày....... tháng...... năm.....
 
 Ví dụ 8: Trình bày điều/khoản/điểm được sửa đổi trong văn bản hợp nhất Khoản 1 Điều 11 và Điều 13 của Luật Giáo dục số 38/2005/QH11 ngày 14 tháng 6 năm 2005 được sửa đổi theo quy định tại khoản 2 và khoản 3 Điều 1 của Luật số 44/2009/QH12 ngày 25 tháng 11 năm 2009 sửa đổi, bổ sung một số điều của Luật Giáo dục. Trong văn bản hợp nhất trình bày như sau:
 
-#### Điều 11. Phổ cập giáo dục 1.1 Phổ cập giáo dục mầm non cho trẻ em năm tuổi, phổ cập giáo dục tiểu học và phổ cập giáo dục trung học cơ sở. Nhà nước quyết định kế hoạch phổ cập giáo dục, bảo đảm các điều kiện để thực hiện phổ cập giáo dục trong cả nước.
+#### Điều 11. Phổ cập giáo dục
+
+1.1 Phổ cập giáo dục mầm non cho trẻ em năm tuổi, phổ cập giáo dục tiểu học và phổ cập giáo dục trung học cơ sở. Nhà nước quyết định kế hoạch phổ cập giáo dục, bảo đảm các điều kiện để thực hiện phổ cập giáo dục trong cả nước.
 
 2\. Mọi công dân trong độ tuổi quy định có nghĩa vụ học tập để đạt trình độ giáo dục phổ cập.
 
 3\. Gia đình có trách nhiệm tạo điều kiện cho các thành viên của gia đình trong độ tuổi quy định được học tập để đạt trình độ giáo dục phổ cập.
 
-#### Điều 13. Đầu tư cho giáo dục2 Đầu tư cho giáo dục là đầu tư phát triển. Đầu tư trong lĩnh vực giáo dục là hoạt động đầu tư đặc thù thuộc lĩnh vực đầu tư có điều kiện và được ưu đãi đầu tư.
+#### Điều 13. Đầu tư cho giáo dục2
 
-Nhà nước ưu tiên đầu tư cho giáo dục; khuyến khích và bảo hộ các quyền, lợi ích hợp pháp của tổ chức, cá nhân trong nước, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài đầu tư cho giáo dục.
+Đầu tư cho giáo dục là đầu tư phát triển. Đầu tư trong lĩnh vực giáo dục là hoạt động đầu tư đặc thù thuộc lĩnh vực đầu tư có điều kiện và được ưu đãi đầu tư.
 
-Ngân sách nhà nước phải giữ vai trò chủ yếu trong tổng nguồn lực đầu tư cho giáo dục.
+Nhà nước ưu tiên đầu tư cho giáo dục; khuyến khích và bảo hộ các quyền, lợi ích hợp pháp của tổ chức, cá nhân trong nước, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài đầu tư cho giáo dục. Ngân sách nhà nước phải giữ vai trò chủ yếu trong tổng nguồn lực đầu tư cho giáo dục.
 
 Điều 14......
 
 ...........................................
 
-___________________________________ 1
+___________________________________
 
-Khoản này được sửa đổi theo quy định tại khoản 2 Điều 1 của Luật số 44/2009/QH12 sửa đổi, bổ sung một số điều của Luật Giáo dục, có hiệu lực kể từ ngày 01 tháng 7 năm 2010.
+1
 
-2
+Khoản này được sửa đổi theo quy định tại khoản 2 Điều 1 của Luật số 44/2009/QH12 sửa đổi, bổ sung một số điều của Luật Giáo dục, có hiệu lực kể từ ngày 01 tháng 7 năm 2010. 2
 
-Điều này được sửa đổi theo quy định tại khoản 3 Điều 1 của Luật số 44/2009/QH12 sửa đổi, bổ sung một sô điều của Luật Giáo dục, có hiệu lực kể từ ngày 01 tháng 7 năm 2010.
-
-Ví dụ 9: Trình bày đoạn/cụm từ được sửa đổi trong văn bản hợp nhất Cụm từ “Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam” tại
+Điều này được sửa đổi theo quy định tại khoản 3 Điều 1 của Luật số 44/2009/QH12 sửa đổi, bổ sung một sô điều của Luật Giáo dục, có hiệu lực kể từ ngày 01 tháng 7 năm 2010. Ví dụ 9: Trình bày đoạn/cụm từ được sửa đổi trong văn bản hợp nhất Cụm từ “Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam” tại
 
 #### Điều 39 của Luật Bầu cử đại biểu Quốc hội ngày 15 tháng 4 năm 1997 được thay thế bởi cụm từ “Ủy ban trung ương Mặt trận Tổ quốc Việt Nam” theo quy định tại khoản 1 Điều 3 của Luật số 63/2010/QH12 ngày 24 tháng 11 năm 2010 sửa đổi, bổ sung một số điều của Luật Bầu cử đại biểu Quốc hội và Luật Bầu cử đại biểu Hội đồng nhân dân. Trong văn bản hợp nhất trình bày như sau:
 
@@ -474,17 +500,13 @@ Người ứng cử đại biểu Quốc hội, đại diện cơ quan, tổ ch�
 
 1
 
-Cụm từ “Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam” được thay thế bởi cụm từ “Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam” theo quy định tại khoản 1 Điều 3 của Luật số 63/2010/QH12 sửa đổi, bổ sung một số điều của Luật Bầu cử đại biểu Quốc hội và Luật Bầu cử đại biểu Hội đồng nhân dân, có hiệu lực kể từ ngày 01 tháng 01 năm 2011.
+Cụm từ “Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam” được thay thế bởi cụm từ “Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam” theo quy định tại khoản 1 Điều 3 của Luật số 63/2010/QH12 sửa đổi, bổ sung một số điều của Luật Bầu cử đại biểu Quốc hội và Luật Bầu cử đại biểu Hội đồng nhân dân, có hiệu lực kể từ ngày 01 tháng 01 năm 2011. V. TRÌNH BÀY NỘI DUNG ĐƯỢC BỔ SUNG TRONG VĂN BẢN HỢP NHẤT
 
-V. TRÌNH BÀY NỘI DUNG ĐƯỢC BỔ SUNG TRONG VĂN BẢN HỢP NHẤT
+1\. Trình bày phần, chương, mục được bổ sung
 
-1\. Trình bày phần, chương, mục được bổ sung PHẦN (số thứ tự của phần được bổ sung) ...............(tên phần)................1 CHƯƠNG....
+PHẦN (số thứ tự của phần được bổ sung)
 
-..................................................
-
-Điều.....
-
-.................................................................
+...............(tên phần)................1
 
 CHƯƠNG....
 
@@ -492,13 +514,19 @@ CHƯƠNG....
 
 Điều.....
 
-.................................................................
+................................................................. CHƯƠNG....
 
-PHẦN.......
+..................................................
+
+Điều.....
+
+................................................................. PHẦN.......
 
 .......................................
 
-CHƯƠNG (số thứ tự của chương được bổ sung) .......................(tên chương)...........................2 Điều....
+CHƯƠNG (số thứ tự của chương được bổ sung)
+
+.......................(tên chương)...........................2 Điều....
 
 Điều....
 
@@ -508,37 +536,59 @@ CHƯƠNG....
 
 ..................................................
 
-Mục (số thứ tự của mục được bổ sung) ......................... (Tên mục).......................... 3 Điều......
+Mục (số thứ tự của mục được bổ sung)
 
-...................................................................
+......................... (Tên mục).......................... 3 Điều......
 
-1
+................................................................... 1
 
 Phần này bao gồm các chương... (số thứ tự các chương trong phần), từ Điều... (số thứ tự điều đầu tiên của phần) đến Điều... (số thứ tự điều cuối cùng của phần) được bổ sung theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
 
-2 Chương này bao gồm các điều (số thứ tự các điều trong chương) được bổ sung theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
+2
 
-3 Mục này bao gồm các điều (số thứ tự các điều trong mục) được bổ sung theo quy định của điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
+Chương này bao gồm các điều (số thứ tự các điều trong chương) được bổ sung theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
+
+3
+
+Mục này bao gồm các điều (số thứ tự các điều trong mục) được bổ sung theo quy định của điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
 
 Ví dụ 10: Trình bày phần/chương/mục được bổ sung trong văn bản hợp nhất Khoản 31 Điều 1 của Luật số 44/2009/QH12 ngày 25 tháng 11 năm 2009 sửa đổi, bổ sung một số điều của Luật Giáo dục bổ sung Mục 3a Chương VII của Luật Giáo dục số 38/2005/QH11 (bao gồm các điều 110a, 110b và 110c). Trong văn bản hợp nhất thể hiện như sau:
 
-## CHƯƠNG VII QUẢN LÝ NHÀ NƯỚC VỀ GIÁO DỤC
+## CHƯƠNG VII. QUẢN LÝ NHÀ NƯỚC VỀ GIÁO DỤC
 
-### Mục 1 NỘI DUNG QUẢN LÝ NHÀ NƯỚC VỀ GIÁO DỤC VÀ CƠ QUAN QUẢN LÝ NHÀ NƯỚC VỀ GIÁO DỤC ............................................
+### Mục 1. NỘI DUNG QUẢN LÝ NHÀ NƯỚC VỀ GIÁO DỤC VÀ CƠ QUAN QUẢN LÝ NHÀ NƯỚC VỀ GIÁO DỤC
 
-### Mục 2 ĐẦU TƯ CHO GIÁO DỤC .....................................
+............................................
 
-### Mục 3 HỢP TÁC QUỐC TẾ VỀ GIÁO DỤC. Mục 3a KIỂM ĐỊNH CHẤT LƯỢNG GIÁO DỤC1
+### Mục 2. ĐẦU TƯ CHO GIÁO DỤC
 
-#### Điều 110a. Nội dung quản lý nhà nước về kiểm định chất lượng giáo dục .............................................
+.....................................
 
-#### Điều 110b. Nguyên tắc kiểm định chất lượng giáo dục .............................................
+### Mục 3. HỢP TÁC QUỐC TẾ VỀ GIÁO DỤC
 
-#### Điều 110c. Tổ chức kiểm định chất lượng giáo dục ..............................................
+....................................
 
-### MỤC 4 THANH TRA GIÁO DỤC
+Mục 3a
 
-#### Điều 111. Thanh tra giáo dục .............................................
+KIỂM ĐỊNH CHẤT LƯỢNG GIÁO DỤC1
+
+#### Điều 110a. Nội dung quản lý nhà nước về kiểm định chất lượng giáo dục
+
+.............................................
+
+#### Điều 110b. Nguyên tắc kiểm định chất lượng giáo dục
+
+.............................................
+
+#### Điều 110c. Tổ chức kiểm định chất lượng giáo dục
+
+..............................................
+
+### MỤC 4. THANH TRA GIÁO DỤC
+
+#### Điều 111. Thanh tra giáo dục
+
+.............................................
 
 1
 
@@ -546,7 +596,11 @@ Mục này bao gồm các điều 110a, 110b và 110c được bổ sung theo qu
 
 #### Điều 1 của Luật số 44/2009/QH12 sửa đổi, bổ sung một số điều của Luật Giáo dục, có hiệu lực kể từ ngày 01 tháng 7 năm 2010.
 
-2\. Trình bày điều, khoản, điểm, đoạn, cụm từ được bổ sung Điều (số thứ tự của điều được bổ sung). (Tên điều)1 .........................
+2\. Trình bày điều, khoản, điểm, đoạn, cụm từ được bổ sung
+
+Điều (số thứ tự của điều được bổ sung). (Tên điều)1
+
+.........................
 
 Điều..................
 
@@ -556,7 +610,9 @@ a).....................
 
 b).....................
 
-(Số thứ tự khoản được bổ sung).2 (Nội dung khoản) ..................
+(Số thứ tự khoản được bổ sung).2 (Nội dung khoản)
+
+..................
 
 Điều..................
 
@@ -564,7 +620,9 @@ b).....................
 
 a).......................
 
-(Số thứ tự điểm được bổ sung).3 (Nội dung điểm) .....................
+(Số thứ tự điểm được bổ sung).3 (Nội dung điểm)
+
+.....................
 
 2...........4.............
 
@@ -572,23 +630,17 @@ a).......................
 
 1
 
-Điều này được bổ sung theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
+Điều này được bổ sung theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm... 2
 
-2
+Khoản này được bổ sung theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm... 3
 
-Khoản này được bổ sung theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
+Điểm này được bổ sung theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm... 4
 
-3
+Đoạn/cụm từ “...” được bổ sung theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm... Ví dụ 11: Trình bày điều/khoản/điểm được bổ sung trong văn bản hợp nhất Các khoản 4, 6 và 7 Điều 1 của Luật số 62/2010/QH12 ngày 24 tháng 11 năm 2010 sửa đổi, bổ sung một số điều của Luật Chứng khoán bổ sung khoản 5 Điều 9, bổ sung Điều 10a vào sau Điều 10 và bổ sung điểm d khoản 1 Điều 12 của Luật Chứng khoán số 70/2006/QH11. Trong văn bản hợp nhất trình bày như sau:
 
-Điểm này được bổ sung theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
+#### Điều 9. Các hành vi bị cấm
 
-4
-
-Đoạn/cụm từ “...” được bổ sung theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
-
-Ví dụ 11: Trình bày điều/khoản/điểm được bổ sung trong văn bản hợp nhất Các khoản 4, 6 và 7 Điều 1 của Luật số 62/2010/QH12 ngày 24 tháng 11 năm 2010 sửa đổi, bổ sung một số điều của Luật Chứng khoán bổ sung khoản 5 Điều 9, bổ sung Điều 10a vào sau Điều 10 và bổ sung điểm d khoản 1 Điều 12 của Luật Chứng khoán số 70/2006/QH11. Trong văn bản hợp nhất trình bày như sau:
-
-#### Điều 9. Các hành vi bị cấm 1...............
+1...............
 
 2...............
 
@@ -618,19 +670,15 @@ b)....................
 
 c)....................
 
-d)3 Công ty đại chúng đăng ký chào bán chứng khoán ra công chúng phải cam kết đưa chứng khoán vào giao dịch trên thị trường có tổ chức trong thời hạn một năm, kể từ ngày kết thúc đợt chào bán được Đại hội đồng cổ đông thông qua.
-
-2........................
+d)3 Công ty đại chúng đăng ký chào bán chứng khoán ra công chúng phải cam kết đưa chứng khoán vào giao dịch trên thị trường có tổ chức trong thời hạn một năm, kể từ ngày kết thúc đợt chào bán được Đại hội đồng cổ đông thông qua. 2........................
 
 1
 
-Khoản này được bổ sung theo quy định tại khoản 4 Điều 1 của Luật số 62/2010/QH12 sửa đổi, bổ sung một số điều của Luật Chứng khoán, có hiệu lực kể từ ngày 01 tháng 7 năm 2011.
+Khoản này được bổ sung theo quy định tại khoản 4 Điều 1 của Luật số 62/2010/QH12 sửa đổi, bổ sung một số điều của Luật Chứng khoán, có hiệu lực kể từ ngày 01 tháng 7 năm 2011. 2
 
-2 Điều này được bổ sung theo quy định tại khoản 6 Điều 1 của Luật số 62/2010/QH12 sửa đổi, bổ sung một số điều của Luật Chứng khoán, có hiệu lực kể từ ngày 01 tháng 7 năm 2011.
+Điều này được bổ sung theo quy định tại khoản 6 Điều 1 của Luật số 62/2010/QH12 sửa đổi, bổ sung một số điều của Luật Chứng khoán, có hiệu lực kể từ ngày 01 tháng 7 năm 2011. 3
 
-3 Điểm này được bổ sung theo quy định tại khoản 7 Điều 1 của Luật số 62/2010/QH12 sửa đổi, bổ sung một số điều của Luật Chứng khoán, có hiệu lực kể từ ngày 01 tháng 7 năm 2011.
-
-Ví dụ 12: Trình bày đoạn/cụm từ được bổ sung trong văn bản hợp nhất Khoản 2 Điều 2 của Luật số 37/2009/QH12 ngày 19 tháng 6 năm 2009 sửa đổi, bổ sung một số điều của Bộ luật Hình sự bổ sung cụm từ “Điều 230a (tội khủng bố)” vào sau cụm từ “Điều 230 (tội chế tạo, tàng trữ, vận chuyển, sử dụng, mua bán trái phép hoặc chiếm đoạt vũ khí quân dụng, phương tiện kỹ thuật quân sự)” tại khoản 1 Điều 313 của Bộ luật Hình sự số 15/1999/QH10. Trong văn bản hợp nhất trình bày như sau:
+Điểm này được bổ sung theo quy định tại khoản 7 Điều 1 của Luật số 62/2010/QH12 sửa đổi, bổ sung một số điều của Luật Chứng khoán, có hiệu lực kể từ ngày 01 tháng 7 năm 2011. Ví dụ 12: Trình bày đoạn/cụm từ được bổ sung trong văn bản hợp nhất Khoản 2 Điều 2 của Luật số 37/2009/QH12 ngày 19 tháng 6 năm 2009 sửa đổi, bổ sung một số điều của Bộ luật Hình sự bổ sung cụm từ “Điều 230a (tội khủng bố)” vào sau cụm từ “Điều 230 (tội chế tạo, tàng trữ, vận chuyển, sử dụng, mua bán trái phép hoặc chiếm đoạt vũ khí quân dụng, phương tiện kỹ thuật quân sự)” tại khoản 1 Điều 313 của Bộ luật Hình sự số 15/1999/QH10. Trong văn bản hợp nhất trình bày như sau:
 
 #### Điều 313. Tội che giấu tội phạm
 
@@ -646,13 +694,25 @@ Ví dụ 12: Trình bày đoạn/cụm từ được bổ sung trong văn bản 
 
 Cụm từ “Điều 230a (tội khủng bố)” được bổ sung theo quy định tại khoản 2 Điều 2 của Luật số 37/2009/QH12 sửa đổi, bổ sung một số điều của Bộ luật Hình sự, có hiệu lực kể từ ngày 01 tháng 01 năm 2010.
 
-VI. TRÌNH BÀY NỘI DUNG ĐƯỢC BÃI BỎ TRONG VĂN BẢN HỢP NHẤT PHẦN (Số thứ tự của phần)1 (được bãi bỏ) PHẦN (Số thứ tự của phần) ............. (Tên phần)...............
+VI. TRÌNH BÀY NỘI DUNG ĐƯỢC BÃI BỎ TRONG VĂN BẢN HỢP NHẤT
 
-CHƯƠNG (số thứ tự của chương) ...................(Tên chương).............
+PHẦN (Số thứ tự của phần)1 (được bãi bỏ)
+
+PHẦN (Số thứ tự của phần)
+
+............. (Tên phần)...............
+
+CHƯƠNG (số thứ tự của chương)
+
+...................(Tên chương).............
 
 ............................................
 
-CHƯƠNG (số thứ tự của chương)2 (được bãi bỏ) CHƯƠNG (số thứ tự của chương) ...................(Tên chương).............
+CHƯƠNG (số thứ tự của chương)2 (được bãi bỏ)
+
+CHƯƠNG (số thứ tự của chương)
+
+...................(Tên chương).............
 
 Mục (số thứ tự của mục)
 
@@ -660,41 +720,63 @@ Mục (số thứ tự của mục)
 
 ............................................
 
-Mục (số thứ tự của mục)3 (được bãi bỏ) Mục (số thứ tự của mục) ..................(Tên mục)................
+Mục (số thứ tự của mục)3 (được bãi bỏ)
 
-Điều (số thứ tự của điều). (Tên điều) .......................................
+Mục (số thứ tự của mục)
 
-Điều (số thứ tự của điều).4 (được bãi bỏ) Điều (số thứ tự của điều). (Tên điều) 1..................
+..................(Tên mục)................
+
+Điều (số thứ tự của điều). (Tên điều)
+
+.......................................
+
+Điều (số thứ tự của điều).4 (được bãi bỏ)
+
+Điều (số thứ tự của điều). (Tên điều)
+
+1..................
 
 a)..................
 
 b)......5............
 
-(Số thứ tự điểm).6 (được bãi bỏ) ..................
+(Số thứ tự điểm).6 (được bãi bỏ)
 
-(Số thứ tự khoản).7 (được bãi bỏ) ..................
+..................
+
+(Số thứ tự khoản).7 (được bãi bỏ)
+
+..................
 
 1
 
 Phần này bao gồm các chương... (số thứ tự các chương trong phần), từ Điều... (số thứ tự điều đầu tiên của phần) đến Điều... (số thứ tự điều cuối cùng của phần) được bãi bỏ theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
 
-2 Chương này bao gồm các điều (số thứ tự các điều được bãi bỏ) được bãi bỏ theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
+2
 
-3 Mục này bao gồm các điều (số thứ tự các điều được bãi bỏ) được bãi bỏ theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
+Chương này bao gồm các điều (số thứ tự các điều được bãi bỏ) được bãi bỏ theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
 
-4 Điều này được bãi bỏ theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
+3
 
-5 Đoạn/cụm từ “...” được bãi bỏ theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
+Mục này bao gồm các điều (số thứ tự các điều được bãi bỏ) được bãi bỏ theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
 
-6 Điểm này được bãi bỏ theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
+4
 
-7 Khoản này được bãi bỏ theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm...
+Điều này được bãi bỏ theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm... 5
 
-Ví dụ 13: Trình bày phần/chương/mục được bãi bỏ trong văn bản hợp nhất Khoản 13 Điều 2 của Nghị định số 115/2009/NĐ-CP ngày 24 tháng 12 năm 2009 của Chính phủ về sửa đổi, bổ sung một số điều của Nghị định số 48/2000/NĐ-CP quy định chi tiết thi hành Luật Dầu khí và Quy chế đấu thầu dự án tìm kiếm thăm dò và khai thác dầu khí ban hành kèm theo Nghị định số 34/2001/NĐ-CP bãi bỏ
+Đoạn/cụm từ “...” được bãi bỏ theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm... 6
 
-## Chương V của Nghị định số 48/2000/NĐ-CP ngày 12 tháng 9 năm 2000 của Chính phủ quy định chi tiết thi hành Luật Dầu khí. Trong văn bản hợp nhất trình bày như sau:
+Điểm này được bãi bỏ theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm... 7
 
-## Chương IV QUYỀN VÀ NGHĨA VỤ CỦA TỔ CHỨC, CÁ NHÂN TIẾN HÀNH HOẠT ĐỘNG DẦU KHÍ Điều.................
+Khoản này được bãi bỏ theo quy định tại điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm... Ví dụ 13: Trình bày phần/chương/mục được bãi bỏ trong văn bản hợp nhất Khoản 13 Điều 2 của Nghị định số 115/2009/NĐ-CP ngày 24 tháng 12 năm 2009 của Chính phủ về sửa đổi, bổ sung một số điều của Nghị định số 48/2000/NĐ-CP quy định chi tiết thi hành Luật Dầu khí và Quy chế đấu thầu dự án tìm kiếm thăm dò và khai thác dầu khí ban hành kèm theo Nghị định số 34/2001/NĐ-CP bãi bỏ
+
+## Chương V của Nghị định số 48/2000/NĐ-CP ngày 12 tháng 9 năm 2000 của
+
+Chính phủ quy định chi tiết thi hành Luật Dầu khí. Trong văn bản hợp nhất trình bày như sau:
+
+## Chương IV. QUYỀN VÀ NGHĨA VỤ CỦA TỔ CHỨC, CÁ NHÂN TIẾN HÀNH HOẠT ĐỘNG DẦU KHÍ
+
+Điều.................
 
 ...................................
 
@@ -706,7 +788,9 @@ Ví dụ 13: Trình bày phần/chương/mục được bãi bỏ trong văn b�
 
 Chương V1 (được bãi bỏ)
 
-## Chương VI QUẢN LÝ NHÀ NƯỚC VỀ HOẠT ĐỘNG DẦU KHÍ ..............................................
+## Chương VI. QUẢN LÝ NHÀ NƯỚC VỀ HOẠT ĐỘNG DẦU KHÍ
+
+..............................................
 
 Điều.................
 
@@ -718,11 +802,11 @@ Chương V1 (được bãi bỏ)
 
 1
 
-Chương này bao gồm các điều 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62 và 63 được bãi bỏ theo quy định tại khoản 13 Điều 2 của Nghị định số 115/2009/ NĐ-CP về sửa đổi, bổ sung một số điều của Nghị định số 48/2000/NĐ-CP quy định chi tiết thi hành Luật Dầu khí và Quy chế đấu thầu dự án tìm kiếm thăm dò và khai thác dầu khí ban hành kèm theo Nghị định số 34/2001/NĐ-CP, có hiệu lực kể từ ngày 14 tháng 02 năm 2010.
+Chương này bao gồm các điều 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62 và 63 được bãi bỏ theo quy định tại khoản 13 Điều 2 của Nghị định số 115/2009/ NĐ-CP về sửa đổi, bổ sung một số điều của Nghị định số 48/2000/NĐ-CP quy định chi tiết thi hành Luật Dầu khí và Quy chế đấu thầu dự án tìm kiếm thăm dò và khai thác dầu khí ban hành kèm theo Nghị định số 34/2001/NĐ-CP, có hiệu lực kể từ ngày 14 tháng 02 năm 2010. Ví dụ 14: Trình bày điều/khoản/điểm được bãi bỏ trong văn bản hợp nhất
 
-Ví dụ 14: Trình bày điều/khoản/điểm được bãi bỏ trong văn bản hợp nhất
+#### Điều 3 của Nghị định số 06/2012/NĐ-CP ngày 02 tháng 02 năm 2012 của
 
-#### Điều 3 của Nghị định số 06/2012/NĐ-CP ngày 02 tháng 02 năm 2012 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định về hộ tịch, hôn nhân và gia đình và chứng thực, có hiệu lực kể từ ngày 01 tháng 4 năm 2012 bãi bỏ điểm b khoản 1 Điều 1 và Điều 7 của Nghị định số 77/2001/NĐ-CP ngày 22 tháng 10 năm 2001 của Chính phủ quy định chi tiết về đăng ký kết hôn theo Nghị quyết số 35/2000/QH10 của Quốc hội về việc thi hành Luật Hôn nhân và gia đình. Trong văn bản hợp nhất trình bày như sau:
+Chính phủ sửa đổi, bổ sung một số điều của các Nghị định về hộ tịch, hôn nhân và gia đình và chứng thực, có hiệu lực kể từ ngày 01 tháng 4 năm 2012 bãi bỏ điểm b khoản 1 Điều 1 và Điều 7 của Nghị định số 77/2001/NĐ-CP ngày 22 tháng 10 năm 2001 của Chính phủ quy định chi tiết về đăng ký kết hôn theo Nghị quyết số 35/2000/QH10 của Quốc hội về việc thi hành Luật Hôn nhân và gia đình. Trong văn bản hợp nhất trình bày như sau:
 
 #### Điều 1. Phạm vi điều chỉnh
 
@@ -738,7 +822,9 @@ b)1 (được bãi bỏ)
 
 Điều 7.2 (được bãi bỏ)
 
-#### Điều 8. Địa điểm đăng ký kết hôn ..................................
+#### Điều 8. Địa điểm đăng ký kết hôn
+
+..................................
 
 1
 
@@ -748,9 +834,7 @@ b)1 (được bãi bỏ)
 
 Điều này được bãi bỏ theo quy định tại Điều 3 của Nghị định số 06/2012/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định về hộ tịch, hôn nhân và gia đình và chứng thực, có hiệu lực kể từ ngày 01 tháng 4 năm 2012.
 
-Ví dụ 15: Trình bày đoạn/cụm từ được bãi bỏ trong văn bản hợp nhất Khoản 20 Điều 1 của Nghị định số 11/2012/NĐ-CP ngày 22 tháng 02 năm 2012 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 163/2006/NĐ-CP ngày 29 tháng 12 năm 2006 của Chính phủ về giao dịch bảo đảm bãi bỏ cụm từ “và số máy” tại điểm b khoản 1 Điều 20 của Nghị định số 163/2006/NĐ-CP.
-
-Trong văn bản hợp nhất trình bày như sau:
+Ví dụ 15: Trình bày đoạn/cụm từ được bãi bỏ trong văn bản hợp nhất Khoản 20 Điều 1 của Nghị định số 11/2012/NĐ-CP ngày 22 tháng 02 năm 2012 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 163/2006/NĐ-CP ngày 29 tháng 12 năm 2006 của Chính phủ về giao dịch bảo đảm bãi bỏ cụm từ “và số máy” tại điểm b khoản 1 Điều 20 của Nghị định số 163/2006/NĐ-CP. Trong văn bản hợp nhất trình bày như sau:
 
 #### Điều 20. Quyền của bên nhận thế chấp trong trường hợp bên thế chấp bán, trao đổi, tặng cho tài sản thế chấp
 
@@ -766,13 +850,19 @@ b) Bên mua, bên nhận trao đổi phương tiện giao thông cơ giới đã
 
 Cụm từ “và số máy” được bãi bỏ theo quy định tại khoản 20 Điều 1 của Nghị định số 11/2012/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 163/2006/NĐ-CP ngày 29 tháng 12 năm 2006 của Chính phủ về giao dịch bảo đảm, có hiệu lực kể từ ngày 10 tháng 4 năm 2012.
 
-VII. TRÌNH BÀY QUY ĐỊNH VỀ VIỆC THI HÀNH TRONG VĂN BẢN HỢP NHẤT
+VII. TRÌNH BÀY QUY ĐỊNH VỀ VIỆC THI HÀNH TRONG VĂN BẢN
 
-1\. Trình bày chú thích quy định về việc thi hành tại tên chương hoặc điều về việc thi hành hoặc tại phần quy định về việc thi hành trong văn bản hợp nhất trong trường hợp văn bản sửa đổi, bổ sung có điều khoản quy định về việc thi hành
+HỢP NHẤT
 
-a) Trình bày chú thích quy định về việc thi hành tại tên chương về việc thi hành trong văn bản hợp nhất
+1\. Trình bày chú thích quy định về việc thi hành tại tên chương hoặc điều về việc thi hành hoặc tại phần quy định về việc thi hành trong văn bản hợp nhất trong trường hợp văn bản sửa đổi, bổ sung có điều khoản quy định về việc thi hành a) Trình bày chú thích quy định về việc thi hành tại tên chương về việc thi hành trong văn bản hợp nhất
 
-CHƯƠNG (số thứ tự của chương) (Tên chương, có thể là ĐIỀU KHOẢN THI HÀNH, ĐIỀU KHOẢN CUỐI CÙNG, TỔ CHỨC THỰC HIỆN....) 1 Điều........
+CHƯƠNG (số thứ tự của chương)
+
+(Tên chương, có thể là ĐIỀU KHOẢN THI HÀNH, ĐIỀU KHOẢN
+
+CUỐI CÙNG, TỔ CHỨC THỰC HIỆN....) 1
+
+Điều........
 
 Điều........
 
@@ -788,23 +878,29 @@ CHƯƠNG (số thứ tự của chương) (Tên chương, có thể là ĐIỀU 
 
 Điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm... quy định như sau:
 
-“.....” (Trích quy định về việc thi hành trong văn bản sửa đổi, bổ sung)
+“.....” (Trích quy định về việc thi hành trong văn bản sửa đổi, bổ sung) Ví dụ 16: Trình bày chú thích quy định về việc thi hành tại tên chương về việc thi hành trong văn bản hợp nhất
 
-Ví dụ 16: Trình bày chú thích quy định về việc thi hành tại tên chương về việc thi hành trong văn bản hợp nhất
+#### Điều 6 và Điều 7 của Luật số 38/2009/QH12 ngày 19 tháng 6 năm 2009 của
 
-#### Điều 6 và Điều 7 của Luật số 38/2009/QH12 ngày 19 tháng 6 năm 2009 của Quốc hội sửa đổi, bổ sung một số điều của các luật liên quan đến đầu tư xây dựng cơ bản quy định về trách nhiệm hướng dẫn thống nhất áp dụng các thuật ngữ và hiệu lực thi hành. Trong văn bản hợp nhất của Luật Đấu thầu số 61/2005/QH11 và Luật số 38/2009/QH12 trình bày như sau:
+Quốc hội sửa đổi, bổ sung một số điều của các luật liên quan đến đầu tư xây dựng cơ bản quy định về trách nhiệm hướng dẫn thống nhất áp dụng các thuật ngữ và hiệu lực thi hành. Trong văn bản hợp nhất của Luật Đấu thầu số 61/2005/QH11 và Luật số 38/2009/QH12 trình bày như sau:
 
-## CHƯƠNG VI ĐIỀU KHOẢN THI HÀNH1
+## CHƯƠNG VI. ĐIỀU KHOẢN THI HÀNH1
 
-#### Điều 76. Hướng dẫn thi hành ...........................................
+#### Điều 76. Hướng dẫn thi hành
 
-#### Điều 77. Hiệu lực thi hành ...........................................
+...........................................
+
+#### Điều 77. Hiệu lực thi hành
+
+...........................................
 
 1
 
 #### Điều 6 và Điều 7 của Luật số 38/2009/QH12 sửa đổi, bổ sung một số điều của các luật liên quan đến đầu tư xây dựng cơ bản, có hiệu lực kể từ ngày 01 tháng 8 năm 2009 quy định như sau:
 
-“Điều 6 Chính phủ hướng dẫn thống nhất áp dụng các thuật ngữ có cùng nội dung nhưng có tên gọi khác nhau trong các luật liên quan đến đến đầu tư xây dựng cơ bản.
+“Điều 6
+
+Chính phủ hướng dẫn thống nhất áp dụng các thuật ngữ có cùng nội dung nhưng có tên gọi khác nhau trong các luật liên quan đến đến đầu tư xây dựng cơ bản.
 
 #### Điều 7
 
@@ -812,25 +908,33 @@ Ví dụ 16: Trình bày chú thích quy định về việc thi hành tại tê
 
 2\. Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước.”
 
-Ví dụ 17: Trình bày chú thích quy định về việc thi hành tại tên chương về việc thi hành trong văn bản hợp nhất Các điều 2, 3 và 4 của Nghị định số 68/2011/NĐ-CP ngày 08 tháng 8 năm 2011 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 37/2007/NĐ-CP ngày 09 tháng 3 năm 2007 của Chính phủ về minh bạch tài sản, thu nhập quy định về điều khoản chuyển tiếp, hiệu lực thi hành, trách nhiệm thi hành. Trong văn bản hợp nhất trình bày như sau:
+Ví dụ 17: Trình bày chú thích quy định về việc thi hành tại tên chương về việc thi hành trong văn bản hợp nhất
 
-## Chương V TỔ CHỨC THỰC HIỆN VÀ ĐIỀU KHOẢN THI HÀNH1
+Các điều 2, 3 và 4 của Nghị định số 68/2011/NĐ-CP ngày 08 tháng 8 năm 2011 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 37/2007/NĐ-CP ngày 09 tháng 3 năm 2007 của Chính phủ về minh bạch tài sản, thu nhập quy định về điều khoản chuyển tiếp, hiệu lực thi hành, trách nhiệm thi hành. Trong văn bản hợp nhất trình bày như sau:
 
-#### Điều 36. Trách nhiệm của Thanh tra Chính phủ ...........................................
+## Chương V. TỔ CHỨC THỰC HIỆN VÀ ĐIỀU KHOẢN THI HÀNH1
+
+#### Điều 36. Trách nhiệm của Thanh tra Chính phủ
+
+...........................................
 
 #### Điều 36a. Việc hướng dẫn, đôn đốc, kiểm tra, thanh tra và tổng hợp kết quả việc kê khai, xác minh, kết luận và công khai bản kết luận2 ...........................................
 
-#### Điều 37. Trách nhiệm của Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương ...........................................
+#### Điều 37. Trách nhiệm của Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương
 
-#### Điều 38. Hiệu lực thi hành ...........................................
+...........................................
 
-#### Điều 39. Trách nhiệm thi hành ...........................................
+#### Điều 38. Hiệu lực thi hành
+
+...........................................
+
+#### Điều 39. Trách nhiệm thi hành
+
+...........................................
 
 1
 
-Các điều 2, 3 và 4 của Nghị định số 68/2011/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 37/2007/NĐ-CP ngày 09 tháng 3 năm 2007 của Chính phủ về minh bạch tài sản, thu nhập, có hiệu lực kể từ ngày 30 tháng 9 năm 2011 quy định như sau:
-
-“Điều 2. Điều khoản chuyển tiếp
+Các điều 2, 3 và 4 của Nghị định số 68/2011/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 37/2007/NĐ-CP ngày 09 tháng 3 năm 2007 của Chính phủ về minh bạch tài sản, thu nhập, có hiệu lực kể từ ngày 30 tháng 9 năm 2011 quy định như sau: “Điều 2. Điều khoản chuyển tiếp
 
 1\. Người chưa kê khai tài sản, thu nhập lần nào theo quy định của Luật Phòng, chống tham nhũng, Nghị định số 37/2007/NĐ-CP và Thông tư số 2442/2007/TT-TTCP ngày 13 tháng 11 năm 2007 thì thực hiện việc kê khai lần đầu theo Mẫu số 01 ban hành kèm theo Nghị định này.
 
@@ -838,11 +942,13 @@ Các điều 2, 3 và 4 của Nghị định số 68/2011/NĐ-CP sửa đổi, b
 
 3\. Người ứng cử đại biểu Quốc hội, Hội đồng nhân dân; người dự kiến được bầu, phê chuẩn tại Quốc hội, Hội đồng nhân dân; người dự kiến được bổ nhiệm giữ chức vụ lãnh đạo, quản lý; người dự kiến bị miễn nhiệm, cách chức thì kê khai theo Mẫu số 03 ban hành kèm theo Nghị định này.
 
-#### Điều 3. Hiệu lực thi hành Nghị định này có hiệu lực thi hành kể từ ngày 30 tháng 9 năm 2011.
+#### Điều 3. Hiệu lực thi hành
 
-Các quy định, Mẫu bản kê khai trước đây trái với Nghị định này bị bãi bỏ, kể từ ngày Nghị định này có hiệu lực thi hành.
+Nghị định này có hiệu lực thi hành kể từ ngày 30 tháng 9 năm 2011. Các quy định, Mẫu bản kê khai trước đây trái với Nghị định này bị bãi bỏ, kể từ ngày Nghị định này có hiệu lực thi hành.
 
-#### Điều 4. Trách nhiệm thi hành Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Hội đồng nhân dân, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và cơ quan, tổ chức, đơn vị, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.” 2
+#### Điều 4. Trách nhiệm thi hành
+
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Hội đồng nhân dân, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và cơ quan, tổ chức, đơn vị, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.” 2
 
 Điều này được bổ sung theo quy định tại khoản 9 Điều 1 của Nghị định số 68/2011/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 37/2007/NĐ-CP ngày 09 tháng 3 năm 2007 của Chính phủ về minh bạch tài sản, thu nhập, có hiệu lực kể từ ngày 30 tháng 9 năm 2011.
 
@@ -854,7 +960,9 @@ CHƯƠNG...
 
 Điều........
 
-Điều (số thứ tự của điều). (Tên điều, có thể là: Hiệu lực thi hành/Điều khoản thi hành/Trách nhiệm thi hành/Quy định chi tiết và hướng dẫn thi hành/Quy định chuyển tiếp...) 1 1...............................
+Điều (số thứ tự của điều). (Tên điều, có thể là: Hiệu lực thi hành/Điều khoản thi hành/Trách nhiệm thi hành/Quy định chi tiết và hướng dẫn thi hành/Quy định chuyển tiếp...) 1
+
+1...............................
 
 2..............................
 
@@ -862,37 +970,51 @@ CHƯƠNG...
 
 Điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm... quy định như sau:
 
-“.....” (Trích quy định về việc thi hành trong văn bản sửa đổi, bổ sung)
-
-Ví dụ 18: Trình bày chú thích quy định về việc thi hành tại tên điều về việc thi hành trong văn bản hợp nhất
+“.....” (Trích quy định về việc thi hành trong văn bản sửa đổi, bổ sung) Ví dụ 18: Trình bày chú thích quy định về việc thi hành tại tên điều về việc thi hành trong văn bản hợp nhất
 
 #### Điều 2 và Điều 3 của Nghị định số 116/2011/NĐ-CP ngày 14 tháng 12 năm 2011 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 94/2008/NĐ-CP ngày 22 tháng 8 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm Xã hội Việt Nam quy định về hiệu lực thi hành và trách nhiệm thi hành. Trong văn bản hợp nhất trình bày như sau:
 
-#### Điều 1. Vị trí và chức năng ................................
+#### Điều 1. Vị trí và chức năng
 
-#### Điều 9. Bảo hiểm Xã hội huyện ..................................
+................................
 
-#### Điều 10. Hiệu lực thi hành1 Nghị định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo và thay thế Nghị định số 100/2002/NĐ-CP ngày 06 tháng 12 năm 2002 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm Xã hội Việt Nam.
+#### Điều 9. Bảo hiểm Xã hội huyện
 
-#### Điều 11. Trách nhiệm thi hành ..................................
+..................................
+
+#### Điều 10. Hiệu lực thi hành1
+
+Nghị định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo và thay thế Nghị định số 100/2002/NĐ-CP ngày 06 tháng 12 năm 2002 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm Xã hội Việt Nam.
+
+#### Điều 11. Trách nhiệm thi hành
+
+..................................
 
 1
 
 #### Điều 2 và Điều 3 của Nghị định số 116/2011/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 94/2008/NĐ-CP ngày 22 tháng 8 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam, có hiệu lực kể từ ngày 05 tháng 02 năm 2012 quy định như sau:
 
-“Điều 2. Hiệu lực thi hành Nghị định này có hiệu lực thi hành kể từ ngày 05 tháng 02 năm 2012.
+“Điều 2. Hiệu lực thi hành
 
-#### Điều 3. Trách nhiệm thi hành Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương, Hội đồng quản lý và Tổng Giám đốc Bảo hiểm xã hội Việt Nam chịu trách nhiệm thi hành Nghị định này.”
+Nghị định này có hiệu lực thi hành kể từ ngày 05 tháng 02 năm 2012.
 
-c) Trình bày chú thích quy định về việc thi hành tại đơn vị bố cục khác quy định về việc thi hành Ví dụ 19: Trình bày chú thích quy định về việc thi hành tại đơn vị bố cục khác quy định về việc thi hành trong văn bản hợp nhất
+#### Điều 3. Trách nhiệm thi hành
+
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương, Hội đồng quản lý và Tổng Giám đốc Bảo hiểm xã hội Việt Nam chịu trách nhiệm thi hành Nghị định này.”
+
+c) Trình bày chú thích quy định về việc thi hành tại đơn vị bố cục khác quy định về việc thi hành
+
+Ví dụ 19: Trình bày chú thích quy định về việc thi hành tại đơn vị bố cục khác quy định về việc thi hành trong văn bản hợp nhất
 
 #### Điều 5 Thông tư liên tịch số 01/2012/TTLT-BCT-BTC ngày 03 tháng 01 năm 2012 của Bộ Công thương và Bộ Tài chính sửa đổi, bổ sung một số quy định của Thông tư liên tịch số 14/2009/TTLT-BCT-BTC ngày 23 tháng 6 năm 2009 của Bộ Công Thương và Bộ Tài chính hướng dẫn việc cấp chứng nhận và thủ tục nhập khẩu, xuất khẩu kim cương thô nhằm thực thi các quy định của Quy chế chứng nhận Quy trình Kimberley quy định về hiệu lực thi hành. Trong văn bản hợp nhất trình bày như sau:
 
-#### Điều 19. Chế độ báo cáo cập nhật thông tin ..................
+#### Điều 19. Chế độ báo cáo cập nhật thông tin
 
-V. ĐIỀU KHOẢN THI HÀNH1 Thông tư này có hiệu lực sau 45 ngày, kể từ ngày ký ban hành.
+..................
 
-Thông tư này thay thế Thông tư số 11/2002/TT-TM-XNK ngày 26 tháng 12 năm 2002 của Bộ Thương mại hướng dẫn việc quản lý xuất nhập khẩu kim cương thô và các Quyết định, văn bản hướng dẫn có liên quan nhằm sửa đổi, bổ sung Thông tư số 11/2002/TT-TM-XNK.
+V. ĐIỀU KHOẢN THI HÀNH1
+
+Thông tư này có hiệu lực sau 45 ngày, kể từ ngày ký ban hành. Thông tư này thay thế Thông tư số 11/2002/TT-TM-XNK ngày 26 tháng 12 năm 2002 của Bộ Thương mại hướng dẫn việc quản lý xuất nhập khẩu kim cương thô và các Quyết định, văn bản hướng dẫn có liên quan nhằm sửa đổi, bổ sung Thông tư số 11/2002/TT-TM-XNK.
 
 ...........................
 
@@ -900,9 +1022,13 @@ Thông tư này thay thế Thông tư số 11/2002/TT-TM-XNK ngày 26 tháng 12 
 
 #### Điều 5 Thông tư liên tịch số 01/2012/TTLT-BCT-BTC sửa đổi, bổ sung một số quy định của Thông tư liên tịch số 14/2009/TTLT-BCT-BTC ngày 23 tháng 6 năm 2009 của Bộ Công Thương và Bộ Tài chính hướng dẫn việc cấp chứng nhận và thủ tục nhập khẩu, xuất khẩu kim cương thô nhằm thực thi các quy định của Quy chế chứng nhận Quy trình Kimberley, có hiệu lực kể từ ngày 18 tháng 02 năm 2012 quy định như sau:
 
-“Điều 5. Hiệu lực thi hành Thông tư liên tịch này có hiệu lực thi hành kể từ ngày 18 tháng 02 năm 2012.”
+“Điều 5. Hiệu lực thi hành
 
-d) Trình bày quy định về việc thi hành tại Phần Quy định về việc thi hành ở cuối văn bản hợp nhất trong trường hợp văn bản được sửa đổi, bổ sung không có chương, điều quy định về việc thi hành CHƯƠNG......
+Thông tư liên tịch này có hiệu lực thi hành kể từ ngày 18 tháng 02 năm 2012.”
+
+d) Trình bày quy định về việc thi hành tại Phần Quy định về việc thi hành ở cuối văn bản hợp nhất trong trường hợp văn bản được sửa đổi, bổ sung không có chương, điều quy định về việc thi hành
+
+CHƯƠNG......
 
 ............................................
 
@@ -918,15 +1044,21 @@ d) Trình bày quy định về việc thi hành tại Phần Quy định về v
 
 ...........................................
 
-Quy định về việc thi hành Điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm... quy định như sau:
+Quy định về việc thi hành
+
+Điểm/khoản... Điều... của... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung), có hiệu lực kể từ ngày... tháng... năm... quy định như sau:
 
 “.....” (Trích quy định về việc thi hành trong văn bản sửa đổi, bổ sung) Ví dụ: Trình bày phần Quy định về việc thi hành ở cuối văn bản hợp nhất (Xem ví dụ 20)
 
-2\. Trình bày quy định về việc thi hành trong văn bản hợp nhất trong trường hợp có văn bản riêng quy định về việc thi hành
+2\. Trình bày quy định về việc thi hành trong văn bản hợp nhất trong trường hợp có văn bản riêng quy định về việc thi hành a) Trường hợp có văn bản riêng quy định về việc thi hành và trong văn bản hợp nhất có chương về việc thi hành:
 
-a) Trường hợp có văn bản riêng quy định về việc thi hành và trong văn bản hợp nhất có chương về việc thi hành:
+CHƯƠNG (số thứ tự của chương)
 
-CHƯƠNG (số thứ tự của chương) (Tên chương, có thể là ĐIỀU KHOẢN THI HÀNH, ĐIỀU KHOẢN CUỐI CÙNG, TỔ CHỨC THỰC HIỆN....)1 Điều........
+(Tên chương, có thể là ĐIỀU KHOẢN THI HÀNH,
+
+ĐIỀU KHOẢN CUỐI CÙNG, TỔ CHỨC THỰC HIỆN....)1
+
+Điều........
 
 Điều.......
 
@@ -934,11 +1066,7 @@ CHƯƠNG (số thứ tự của chương) (Tên chương, có thể là ĐIỀU 
 
 1
 
-Việc thi hành.... (tên, số, ký hiệu của văn bản được sửa đổi, bổ sung) được quy định tại...
-
-(tên, số, ký hiệu của văn bản về việc thi hành văn bản được sửa đổi, bổ sung) ngày... tháng...
-
-năm... (thông qua/ký ban hành).
+Việc thi hành.... (tên, số, ký hiệu của văn bản được sửa đổi, bổ sung) được quy định tại... (tên, số, ký hiệu của văn bản về việc thi hành văn bản được sửa đổi, bổ sung) ngày... tháng... năm... (thông qua/ký ban hành).
 
 Việc thi hành.... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung lần thứ nhất) được quy định tại... (tên, số, ký hiệu của văn bản về việc thi hành văn bản sửa đổi, bổ sung lần thứ nhất) ngày... tháng... năm... (thông qua/ký ban hành);
 
@@ -946,11 +1074,15 @@ Việc thi hành.... (tên, số, ký hiệu của văn bản sửa đổi, bổ
 
 b) Trường hợp có văn bản riêng quy định về việc thi hành và trong văn bản hợp nhất có điều về việc thi hành:
 
-CHƯƠNG (số thứ tự chương) ........(Tên chương).......
+CHƯƠNG (số thứ tự chương)
+
+........(Tên chương).......
 
 Điều........
 
-Điều (số thứ tự của điều). (Tên điều, có thể là: Hiệu lực thi hành/Điều khoản thi hành/Trách nhiệm thi hành/Quy định chi tiết và hướng dẫn thi hành/Quy định chuyển tiếp...) 1 1...............................
+Điều (số thứ tự của điều). (Tên điều, có thể là: Hiệu lực thi hành/Điều khoản thi hành/Trách nhiệm thi hành/Quy định chi tiết và hướng dẫn thi hành/Quy định chuyển tiếp...) 1
+
+1...............................
 
 2..............................
 
@@ -960,9 +1092,7 @@ CHƯƠNG (số thứ tự chương) ........(Tên chương).......
 
 1
 
-Việc thi hành.... (tên, số, ký hiệu của văn bản được sửa đổi, bổ sung) được quy định tại... (tên, số, ký hiệu của văn bản về việc thi hành văn bản được sửa đổi, bổ sung) ngày...
-
-tháng... năm... (thông qua/ký ban hành);
+Việc thi hành.... (tên, số, ký hiệu của văn bản được sửa đổi, bổ sung) được quy định tại... (tên, số, ký hiệu của văn bản về việc thi hành văn bản được sửa đổi, bổ sung) ngày... tháng... năm... (thông qua/ký ban hành);
 
 Việc thi hành.... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung lần thứ nhất) được quy định tại... (tên, số, ký hiệu của văn bản về việc thi hành văn bản sửa đổi, bổ sung lần thứ nhất) ngày... tháng... năm... (thông qua/ký ban hành);
 
@@ -982,15 +1112,13 @@ c) Trường hợp có văn bản riêng quy định về việc thi hành và t
 
 .....................
 
-Quy định về việc thi hành1 ...........................................
+Quy định về việc thi hành1
+
+...........................................
 
 1
 
-Việc thi hành.... (tên, số, ký hiệu của văn bản được sửa đổi, bổ sung) được quy định tại...
-
-(tên, số, ký hiệu của văn bản về việc thi hành văn bản được sửa đổi, bổ sung) ngày... tháng...
-
-năm... (thông qua/ký ban hành);
+Việc thi hành.... (tên, số, ký hiệu của văn bản được sửa đổi, bổ sung) được quy định tại... (tên, số, ký hiệu của văn bản về việc thi hành văn bản được sửa đổi, bổ sung) ngày... tháng... năm... (thông qua/ký ban hành);
 
 Việc thi hành.... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung lần thứ nhất) được quy định tại... (tên, số, ký hiệu của văn bản về việc thi hành văn bản sửa đổi, bổ sung lần thứ nhất) ngày... tháng... năm... (thông qua/ký ban hành);
 
@@ -1016,25 +1144,23 @@ Quy định về việc thi hành
 
 \- Việc thi hành.... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung lần thứ nhất) được quy định tại... (tên, số, ký hiệu của văn bản về việc thi hành văn bản sửa đổi, bổ sung lần thứ nhất) ngày... tháng... năm... (thông qua/ký ban hành);
 
-\- Việc thi hành.... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung lần thứ hai) được quy định tại... (tên, số, ký hiệu của văn bản về việc thi hành văn bản sửa đổi, bổ sung lần thứ hai) ngày... tháng... năm... (thông qua/ký ban hành) (nếu có).
+\- Việc thi hành.... (tên, số, ký hiệu của văn bản sửa đổi, bổ sung lần thứ hai) được quy định tại... (tên, số, ký hiệu của văn bản về việc thi hành văn bản sửa đổi, bổ sung lần thứ hai) ngày... tháng... năm... (thông qua/ký ban hành) (nếu có). Ví dụ 20: Trình bày quy định về việc thi hành tại tên chương/điều về việc thi hành hoặc tại phần quy định về việc thi hành trong trường hợp có văn bản riêng quy định về việc thi hành
 
-Ví dụ 20: Trình bày quy định về việc thi hành tại tên chương/điều về việc thi hành hoặc tại phần quy định về việc thi hành trong trường hợp có văn bản riêng quy định về việc thi hành Việc thi hành Bộ luật Tố tụng dân sự số 24/2004/QH11, Luật số 65/2011/QH12 sửa đổi, bổ sung một số điều của Bộ luật Tố tụng dân sự được quy định tại: Nghị quyết số 32/2004/QH11 ngày 15 tháng 06 năm 2004 của Quốc hội về việc thi hành Bộ luật Tố tụng dân sự và Nghị quyết số 60/2011/QH12 ngày 29 tháng 3 năm 2011 của Quốc hội về việc thi hành Luật Sửa đổi, bổ sung một số điều của Bộ luật Tố tụng dân sự. Trong văn bản hợp nhất trình bày như sau:
+Việc thi hành Bộ luật Tố tụng dân sự số 24/2004/QH11, Luật số 65/2011/QH12 sửa đổi, bổ sung một số điều của Bộ luật Tố tụng dân sự được quy định tại: Nghị quyết số 32/2004/QH11 ngày 15 tháng 06 năm 2004 của Quốc hội về việc thi hành Bộ luật Tố tụng dân sự và Nghị quyết số 60/2011/QH12 ngày 29 tháng 3 năm 2011 của Quốc hội về việc thi hành Luật Sửa đổi, bổ sung một số điều của Bộ luật Tố tụng dân sự. Trong văn bản hợp nhất trình bày như sau:
 
 ...........................
 
-#### Điều 417. Văn bản ủy thác tư pháp ...........................
+#### Điều 417. Văn bản ủy thác tư pháp
+
+...........................
 
 #### Điều 418. Công nhận giấy tờ, tài liệu do cơ quan có thẩm quyền nước ngoài lập, cấp hoặc xác nhận
 
 1\. Giấy tờ, tài liệu do cơ quan có thẩm quyền nước ngoài lập, cấp hoặc xác nhận theo quy định của pháp luật nước ngoài hoặc ở ngoài lãnh thổ Việt Nam được Tòa án Việt Nam công nhận nếu giấy tờ, tài liệu đó đã được hợp pháp hóa lãnh sự, trừ trường hợp điều ước quốc tế mà Việt Nam ký kết hoặc gia nhập có quy định khác.
 
-2\. Giấy tờ, tài liệu lập bằng tiếng nước ngoài phải được gửi cho Tòa án Việt Nam kèm theo bản dịch ra tiếng Việt đã được công chứng, chứng thực hợp pháp.
+2\. Giấy tờ, tài liệu lập bằng tiếng nước ngoài phải được gửi cho Tòa án Việt Nam kèm theo bản dịch ra tiếng Việt đã được công chứng, chứng thực hợp pháp. Quy định về việc thi hành1
 
-Quy định về việc thi hành1
-
-#### Điều 2 của Luật số 65/2011/QH12 sửa đổi, bổ sung một số điều của Bộ luật Tố tụng dân sự, có hiệu lực kể từ ngày 01 tháng 01 năm 2012 quy định như sau:
-
-“Điều 2.
+#### Điều 2 của Luật số 65/2011/QH12 sửa đổi, bổ sung một số điều của Bộ luật Tố tụng dân sự, có hiệu lực kể từ ngày 01 tháng 01 năm 2012 quy định như sau: “Điều 2.
 
 1\. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2012.
 
@@ -1042,25 +1168,33 @@ Quy định về việc thi hành1
 
 1
 
-Việc thi hành Bộ luật Tố tụng dân sự số 24/2004/QH11 được quy định tại Nghị quyết số 32/2004/QH11 ngày 15 tháng 6 năm 2004 về việc thi hành Bộ luật Tố tụng dân sự;
-
-Việc thi hành Luật số 65/2011/QH12 sửa đổi, bổ sung một số điều của Bộ luật Tố tụng dân sự được quy định tại Nghị quyết số 60/2011/QH12 ngày 29 tháng 3 năm 2011 về việc thi hành Luật Sửa đổi, bổ sung một số điều của Bộ luật Tố tụng dân sự.
+Việc thi hành Bộ luật Tố tụng dân sự số 24/2004/QH11 được quy định tại Nghị quyết số 32/2004/QH11 ngày 15 tháng 6 năm 2004 về việc thi hành Bộ luật Tố tụng dân sự; Việc thi hành Luật số 65/2011/QH12 sửa đổi, bổ sung một số điều của Bộ luật Tố tụng dân sự được quy định tại Nghị quyết số 60/2011/QH12 ngày 29 tháng 3 năm 2011 về việc thi hành Luật Sửa đổi, bổ sung một số điều của Bộ luật Tố tụng dân sự.
 
 VIII. TRÌNH BÀY PHẦN KÝ XÁC THỰC TRONG VĂN BẢN HỢP NHẤT
 
 .....................................
 
-(Phần cuối cùng của văn bản hợp nhất) (Tên cơ quan thực hiện việc hợp nhất) .....................
+(Phần cuối cùng của văn bản hợp nhất)
+
+(Tên cơ quan thực hiện việc hợp nhất)
+
+.....................
 
 XÁC THỰC VĂN BẢN HỢP NHẤT
 
-Số:........ (số, ký hiệu văn bản hợp nhất) Hà Nội, ngày... tháng... năm...
+Số:........ (số, ký hiệu văn bản hợp nhất)
+
+Hà Nội, ngày... tháng... năm...
 
 Nơi nhận:
 
-\- Văn phòng Chính phủ (để đăng Công báo);
+\- Văn phòng Chính phủ
 
-CHỨC VỤ CỦA NGƯỜI KÝ XÁC THỰC (Chữ ký và dấu)
+(để đăng Công báo);
+
+CHỨC VỤ CỦA NGƯỜI KÝ XÁC THỰC
+
+(Chữ ký và dấu)
 
 \- .....
 

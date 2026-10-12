@@ -75,6 +75,7 @@ def get(url, sub="http", ext=".html", binary=False, retries=4, timeout=120,
             os.replace(tmp, p)
             return data if binary else data.decode("utf-8", "replace")
         except Exception as e:  # noqa
+            print("retry", attempt, url[:100], repr(e)[:120], flush=True)
             time.sleep(5 * (2 ** attempt))
             last = e
     print("FAILED", url, last, flush=True)

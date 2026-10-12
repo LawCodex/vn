@@ -48,6 +48,19 @@ def normnum(s):
     return s
 
 
+def loosenum(s):
+    """Looser key: drop PL-/NQ-/L- prefixes and fix common typos in vbpl identifiers."""
+    s = normnum(s)
+    s = re.sub(r"/(PL|NQ|L|ND)-", "/", s)
+    s = s.replace("QHH", "QH").replace("UBNVQH", "UBTVQH")
+    return s
+
+
+def shortnum(s):
+    m = re.match(r"^(\d+)/(\d{4})/", normnum(s))
+    return m.group(1) + "/" + m.group(2) if m else None
+
+
 def normname(s):
     s = nfc(s).lower()
     s = re.sub(r"^(văn bản hợp nhất|hợp nhất)\s+", "", s.strip())
@@ -67,7 +80,10 @@ def dmy(s):
 def load_vbpl():
     out = []
     for line in open(os.path.join(RAW, "vbpl_meta.jsonl")):
-        d = json.loads(line)
+        try:
+            d = json.loads(line)
+        except ValueError:
+            continue
         if d.get("legislationType"):
             out.append(d)
     return out
@@ -84,6 +100,51 @@ def load_cb():
             if e["cb_id"] not in seen:
                 seen[e["cb_id"]] = e
     return list(seen.values())
+
+
+def load_cp():
+    """vanban.chinhphu.vn listing rows indexed by normalised number."""
+    idx = {}
+    d = os.path.join(RAW, "chinhphu")
+    if not os.path.isdir(d):
+        return idx
+    for fn in sorted(os.listdir(d)):
+        if not fn.endswith(".jsonl"):
+            continue
+        for line in open(os.path.join(d, fn)):
+            r = json.loads(line)
+            num = re.sub(r"\s+\d{1,2}/\d{1,2}/\d{4}$", "", r["cells"][0] if r["cells"] else "").strip()
+            if num:
+                idx.setdefault(normnum(num), {})[r["docid"]] = r
+                idx.setdefault(loosenum(num), {})[r["docid"]] = r
+    return idx
+
+
+CP_DETAIL = "https://vanban.chinhphu.vn/?pageid=27160&docid=%s"
+
+
+def cp_entry(docid):
+    """Turn a vanban.chinhphu.vn document page into a Công báo-like entry."""
+    from bs4 import BeautifulSoup
+    url = CP_DETAIL % docid
+    html = get(url, sub="cpdetail")
+    if not html:
+        return None
+    soup = BeautifulSoup(html, "lxml")
+    files = []
+    for a in soup.find_all("a", href=True):
+        h = a["href"]
+        if re.search(r"\.(pdf|docx?)$", h, re.I) and "datafiles" in h:
+            files.append({"name": h.rsplit("/", 1)[-1], "url": h})
+    fields = {}
+    txt = soup.get_text("\n", strip=True).split("\n")
+    for key in ("Số ký hiệu", "Ngày ban hành", "Loại văn bản", "Cơ quan ban hành", "Trích yếu"):
+        if key in txt:
+            i = txt.index(key)
+            if i + 1 < len(txt):
+                fields[key] = txt[i + 1]
+    return {"cb_id": "cp" + docid, "url": url, "files": files, "fields": fields,
+            "gazettes": []}
 
 
 def cb_num(e):
@@ -117,6 +178,8 @@ def fetch_text(e):
             return None
         try:
             b, n = vn_extract.extract(data, ext)
+            if not looks_ok(b):
+                raise ValueError("conversion produced implausible text")
         except Exception as ex:  # noqa
             print("extract failed", e.get("url"), f["name"], ex, flush=True)
             if ext != "pdf":
@@ -137,6 +200,20 @@ def fetch_text(e):
     if sum(len(v) for t, v in blocks if t == "p") < 200:
         return None
     return blocks, notes, ext
+
+
+VN_OK = re.compile(r"[A-Za-z0-9\s.,;:()\[\]/%\-–—“”\"'’‘!?^_*+=<>&|…·•ÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚÝàáâãèéêìíòóôõùúýĂăĐđĨĩŨũƠơƯưẠ-ỹ°§№\u0300-\u036f]")
+
+
+def looks_ok(blocks):
+    """Reject garbage from a failed conversion (e.g. binary .doc read as plain text)."""
+    txt = "".join(v for t, v in blocks if t == "p")[:200000]
+    if len(txt) < 200:
+        return False
+    good = len(VN_OK.findall(txt))
+    if good / len(txt) < 0.97:
+        return False
+    return bool(re.search(r"\b(của|và|các|được|Điều|theo)\b", txt))
 
 
 def _ren_marks(text, ren):
@@ -195,7 +272,9 @@ def out_path(d, cat):
 def main(which="laws"):
     vbpl = load_vbpl()
     cb = load_cb()
+    cp_idx = load_cp()
     cb_by_num = {}
+    cb_by_short = {}
     vbhn_by_name = {}
     for e in cb:
         if is_vbhn(e):
@@ -204,6 +283,11 @@ def main(which="laws"):
                 vbhn_by_name.setdefault(key, []).append(e)
         else:
             cb_by_num.setdefault(normnum(cb_num(e)), []).append(e)
+            if loosenum(cb_num(e)) != normnum(cb_num(e)):
+                cb_by_num.setdefault(loosenum(cb_num(e)), []).append(e)
+            sn = shortnum(cb_num(e))
+            if sn:
+                cb_by_short.setdefault((sn, e["fields"].get("Loại văn bản")), []).append(e)
     for k in vbhn_by_name:
         vbhn_by_name[k].sort(key=lambda e: (dmy(e["fields"].get("Ngày ban hành")) or "",
                                             int(e["cb_id"])), reverse=True)
@@ -252,11 +336,26 @@ def main(which="laws"):
                 break
         # 2. original text
         if text is None and ident and ident != "Không số":
-            for e in cb_by_num.get(normnum(ident), []):
+            cands2 = cb_by_num.get(normnum(ident)) or cb_by_num.get(loosenum(ident)) or []
+            if not cands2:
+                sn = shortnum(ident)
+                c3 = cb_by_short.get((sn, "Luật" if t == "Bộ luật" else t), []) if sn else []
+                if len(c3) == 1:
+                    cands2 = c3
+            for e in cands2:
                 r = fetch_text(e)
                 if r:
                     text, used = r, e
                     break
+        # 3. vanban.chinhphu.vn (Government portal) attachments
+        if text is None and ident and ident != "Không số":
+            for docid in (cp_idx.get(normnum(ident)) or cp_idx.get(loosenum(ident)) or {}):
+                e = cp_entry(docid)
+                if e and e["files"]:
+                    r = fetch_text(e)
+                    if r:
+                        text, used = r, e
+                        break
         if text is None:
             rec["status"] = "missing"
             manifest.append(rec)
@@ -296,6 +395,8 @@ def main(which="laws"):
         fm["status"] = "in_force"
         fm["legal_force"] = d.get("legislationLegalForce")
         fm["source"] = used["url"]
+        if used["cb_id"].startswith("cp"):
+            fm["source_files"] = [f["url"] for f in pick_files(used)[1]]
         fm["source_format"] = fmt
         fm["gazette"] = "; ".join(used.get("gazettes") or []) or None
         fm["vbpl_url"] = d["vbpl_url"]

@@ -1,0 +1,71 @@
+---
+title: Nghị quyết số 40/2012/QH13 Về chất vấn và trả lời chất vấn tại kỳ họp thứ 4, Quốc hội khóa XIII
+identifier: 40/2012/QH13
+type: resolution
+document_type: Nghị quyết
+jurisdiction: vn
+language: vi
+issuer: Quốc hội
+date: '2012-11-23'
+effective: '2012-11-23'
+consolidated: false
+status: in_force
+legal_force: InForce
+source: https://congbao.chinhphu.vn/van-ban/nghi-quyet-so-40-2012-qh13-11008.htm
+source_format: pdf
+gazette: Công báo số 753 + 754 ngày 2012-12-19
+vbpl_url: https://vbpl.vn/van-ban/chi-tiet/nghi-quyet-so-40-2012-qh13-ve-chat-van-va-tra-loi-chat-van-tai-ky-hop-thu-4-quoc-hoi-khoa-xiii--27996
+retrieved: '2026-10-12'
+---
+
+# Nghị quyết số 40/2012/QH13 Về chất vấn và trả lời chất vấn tại kỳ họp thứ 4, Quốc hội khóa XIII
+
+QUỐC HỘI
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
+
+Nghị quyết số: 40/2012/QH13
+
+NGHỊ QUYẾT
+
+Về chất vấn và trả lời chất vấn tại kỳ họp thứ 4,
+
+Quốc hội khóa XIII
+
+QUỐC HỘI
+
+NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 51/2001/QH10; Căn cứ Luật Hoạt động giám sát của Quốc hội số 05/2003/QH11; Nghị quyết số 07/2002/QH11 ban hành Nội quy kỳ họp Quốc hội;
+
+Trên cơ sở kết quả chất vấn và trả lời chất vấn tại kỳ họp thứ 4, Quốc hội khóa XIII, QUYẾT NGHỊ:
+
+I. Quốc hội nhận thấy phiên chất vấn đã diễn ra dân chủ, công khai, nhận được sự quan tâm theo dõi, giám sát của đồng bào và cử tri cả nước. Đại biểu Quốc hội đặt câu hỏi thẳng thắn, xây dựng, tập trung vào những vấn đề lớn, nội dung phong phú và sắc sảo. Các thành viên Chính phủ tập trung trả lời vào nội dung các câu hỏi, giải đáp hầu hết các vấn đề đặt ra, đưa ra được các giải pháp cần thiết; đồng thời nghiêm túc nhận trách nhiệm liên quan đến lĩnh vực quản lý nhà nước của mình.
+
+II. Quốc hội ghi nhận các giải pháp tích cực mà Thủ tướng Chính phủ và các thành viên của Chính phủ đã cam kết trước Quốc hội. Quốc hội yêu cầu:
+
+1\. Bộ trưởng Bộ Công Thương tiếp tục có các biện pháp đồng bộ để tháo gỡ khó khăn, đẩy mạnh sản xuất, mở rộng thị trường trong nước và nước ngoài; khuyến khích tiêu dùng hàng hóa trong nước sản xuất, quản lý chặt chẽ việc nhập khẩu hàng hóa, hạn chế nhập siêu, chống buôn lậu, hàng lậu; giải quyết hàng tồn kho, bảo đảm sang năm 2013 hàng tồn kho sẽ giảm dần theo cơ cấu ngành; góp phần thúc đẩy phát triển sản xuất, kinh doanh, khơi thông nguồn hàng, tăng trưởng kinh tế, bảo đảm nâng cao đời sống của nhân dân.
+
+Bộ Công Thương phối hợp với các bộ, ngành, địa phương tiếp tục rà soát quy hoạch tổng thể về thủy điện để báo cáo Quốc hội tại kỳ họp thứ 6 (tháng 10-11/2013), trong đó xác định rõ các dự án phải dừng, các dự án phải điều chỉnh, các dự án được tiếp tục triển khai; có biện pháp bảo đảm an toàn tuyệt đối các công trình thủy điện, trồng rừng thay thế. Trong năm 2013, Chính phủ ban hành chính sách đặc thù cho đồng bào vùng tái định cư các công trình thủy điện; tập trung giải quyết vấn đề đền bù, tái định cư các công trình thủy điện, bao gồm cả những tồn tại, vướng mắc của các dự án thủy điện Hòa Bình, Sơn La.
+
+2\. Bộ trưởng Bộ Xây dựng tập trung giải quyết tình trạng đóng băng của thị trường bất động sản, xử lý đất bỏ hoang, điều chỉnh cơ cấu thị trường, cân đối cung cầu và xử lý nợ xấu; có kế hoạch giải quyết vấn đề nhà ở xã hội, nhà ở cho sinh viên, người lao động có thu nhập thấp; bảo đảm từ nay đến cuối năm 2013 tạo được sự chuyển biến tích cực trong lĩnh vực này.
+
+Bộ Xây dựng phối hợp chặt chẽ với các bộ, ngành, địa phương tăng cường thanh tra, kiểm tra việc bảo đảm chất lượng các công trình xây dựng, xử lý nghiêm các hiện tượng tiêu cực, tham nhũng, lãng phí, rút ruột công trình trong xây dựng công nghiệp, nông nghiệp, giao thông, thủy lợi; khẩn trương xây dựng, trình Quốc hội ban hành Luật Quản lý đô thị, có kế hoạch rà soát tổng thể công tác lập quy hoạch và quản lý quy hoạch trong cả nước để có những điều chỉnh cần thiết. Từ nay đến hết năm 2013, hoàn thành việc xây dựng, bổ sung, điều chỉnh các định mức kinh tế - kỹ thuật, các loại đơn giá đầu tư, đơn giá xây dựng để làm cơ sở cho việc quyết định đầu tư và thanh quyết toán công trình được kịp thời, công khai, minh bạch; tạo cơ chế cạnh tranh lành mạnh để hạ giá thành sản phẩm và tăng sức cạnh tranh của ngành xây dựng Việt Nam.
+
+3\. Thống đốc Ngân hàng Nhà nước tập trung điều hành chính sách tiền tệ. Năm 2013, tạo cho được chuyển biến tích cực trong việc tái cơ cấu hệ thống ngân hàng, các tổ chức tín dụng, các công ty tài chính gắn với thị trường chứng khoán, thị trường tài chính, bảo đảm đến năm 2015 có một hệ thống ngân hàng lành mạnh. Điều hành hoạt động của thị trường tín dụng, bảo đảm cung ứng vốn cho sản xuất những ngành sản xuất, mặt hàng quan trọng, tạo đà cho tăng trưởng kinh tế; đồng thời kiềm chế lạm phát theo chỉ tiêu đã được Quốc hội xác định; cơ cấu lại hệ thống ngân hàng phải gắn với giải quyết chất lượng hoạt động kinh doanh của các ngân hàng, công ty tài chính và giải quyết nợ xấu, giảm nợ xấu. Tăng cường thanh tra, kiểm tra, xử lý nghiêm những tiêu cực trong hoạt động ngân hàng, thị trường tiền tệ, thị trường vàng. Làm tốt công tác quản lý nhà nước đối với thị trường vàng; bảo đảm lợi ích của người dân; không sử dụng vàng làm phương tiện thanh toán trong nền kinh tế.
+
+4\. Bộ trưởng Bộ Y tế triển khai đồng bộ các giải pháp để nâng cao chất lượng khám, chữa bệnh cho nhân dân từ cấp xã đến cấp Trung ương, tạo chuyển biến trong việc nâng cao y đức trong ngành y tế; khắc phục những tồn tại, yếu kém trong quản lý khám, chữa bệnh, nhất là dịch vụ khám, chữa bệnh tư nhân. Trong năm 2013, tăng cường quản lý thuốc, giá thuốc, viện phí để bảo đảm chi phí hợp lý, có lộ trình phù hợp với điều kiện và thu nhập của người dân. Bộ Y tế chủ trì phối hợp với các bộ, ngành, địa phương bảo đảm quản lý tốt vệ sinh an toàn thực phẩm; từ nay đến hết năm 2013 phải tạo được sự chuyển biến tích cực trong việc ngăn chặn thực phẩm nhập lậu, thực phẩm kém chất lượng, không rõ nguồn gốc và không bảo đảm vệ sinh, góp phần nâng cao chất lượng thực phẩm tiêu dùng cho người dân.
+
+Ngành y tế phải nỗ lực có biện pháp tích cực, hiệu quả để giảm dần tình trạng mất cân bằng giới tính trẻ sơ sinh.
+
+III. Quốc hội đánh giá cao những kết quả bước đầu trong việc tổ chức thực hiện nghị quyết về chất vấn của Quốc hội tại các kỳ họp thứ 2 và thứ 3 của Chính phủ, 9 thành viên Chính phủ. Đề nghị Chính phủ, các thành viên Chính phủ tiếp tục có kế hoạch thực hiện các nội dung đã trả lời chất vấn của đại biểu Quốc hội tại các kỳ họp trước và kỳ họp này một cách có kết quả và báo cáo Quốc hội tại kỳ họp thứ 5.
+
+IV. Quốc hội giao Ủy ban thường vụ Quốc hội xem xét những nội dung cần thiết được đại biểu Quốc hội quan tâm để tổ chức chất vấn và trả lời chất vấn tại phiên họp Ủy ban thường vụ Quốc hội. Hội đồng dân tộc, các Ủy ban của Quốc hội tổ chức các phiên họp giải trình của các Bộ trưởng, Trưởng ngành về những vấn đề thuộc lĩnh vực Hội đồng dân tộc, Ủy ban của Quốc hội phụ trách hoặc được cử tri kiến nghị và đại biểu Quốc hội chất vấn. Các đại biểu Quốc hội dành thời gian tham dự các phiên chất vấn và giải trình, góp phần nâng cao chất lượng, hiệu quả hoạt động của Quốc hội.
+
+Quốc hội yêu cầu Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, các cơ quan của Quốc hội và các cơ quan, tổ chức hữu quan khẩn trương, nghiêm túc giải quyết, trả lời 1396 ý kiến, kiến nghị của cử tri và nhân dân cả nước gửi đến Quốc hội tại kỳ họp này và các ý kiến, kiến nghị của cử tri gửi đến kỳ họp thứ 3 chưa được giải quyết, trả lời. V. Chính phủ, Thủ tướng Chính phủ, Bộ trưởng Bộ Công Thương, Bộ trưởng Bộ Xây dựng, Bộ trưởng Bộ Y tế, Thống đốc Ngân hàng Nhà nước Việt Nam, các Bộ trưởng, Thủ trưởng cơ quan ngang bộ liên quan; Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, các cơ quan, tổ chức hữu quan, Hội đồng nhân dân, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thực hiện Nghị quyết này.
+
+Uỷ ban thường vụ Quốc hội, Hội đồng dân tộc, các Ủy ban của Quốc hội, các Đoàn đại biểu Quốc hội, các đại biểu Quốc hội trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm giám sát việc thực hiện Nghị quyết này. Nghị quyết này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 4 thông qua ngày 23 tháng 11 năm 2012./. CHỦ TỊCH QUỐC HỘI
+
+Nguyễn Sinh Hùng

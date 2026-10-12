@@ -22,17 +22,19 @@ retrieved: '2026-10-12'
 
 QUỐC HỘI
 
-53
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc
+Độc lập - Tự do - Hạnh phúc
 
 Luật số: 35/2013/QH13
 
-LUẬT Hòa giải ở cơ sở Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 51/2001/QH10;
+LUẬT
 
-Quốc hội ban hành Luật Hòa giải ở cơ sở.
+Hòa giải ở cơ sở
 
-## Chương I NHỮNG QUY ĐỊNH CHUNG
+Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 51/2001/QH10; Quốc hội ban hành Luật Hòa giải ở cơ sở.
+
+## Chương I. NHỮNG QUY ĐỊNH CHUNG
 
 #### Điều 1. Phạm vi điều chỉnh
 
@@ -40,7 +42,9 @@ Quốc hội ban hành Luật Hòa giải ở cơ sở.
 
 2\. Hoạt động hòa giải của tòa án, trọng tài, hòa giải thương mại, hòa giải lao động và hòa giải tại Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi chung là cấp xã) không thuộc phạm vi điều chỉnh của Luật này.
 
-#### Điều 2. Giải thích từ ngữ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
+#### Điều 2. Giải thích từ ngữ
+
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
 1\. Hòa giải ở cơ sở là việc hòa giải viên hướng dẫn, giúp đỡ các bên đạt được thỏa thuận, tự nguyện giải quyết với nhau các mâu thuẫn, tranh chấp, vi phạm pháp luật theo quy định của Luật này.
 
@@ -70,9 +74,7 @@ d) Mâu thuẫn, tranh chấp khác không được hòa giải ở cơ sở the
 
 1\. Tôn trọng sự tự nguyện của các bên; không bắt buộc, áp đặt các bên trong hòa giải ở cơ sở.
 
-2\. Bảo đảm phù hợp với chính sách, pháp luật của Nhà nước, đạo đức xã hội, phong tục, tập quán tốt đẹp của nhân dân; phát huy tinh thần đoàn kết, tương trợ, giúp đỡ lẫn nhau giữa các thành viên trong gia đình, dòng họ và cộng đồng dân cư;
-
-quan tâm đến quyền, lợi ích hợp pháp của trẻ em, phụ nữ, người khuyết tật và người cao tuổi.
+2\. Bảo đảm phù hợp với chính sách, pháp luật của Nhà nước, đạo đức xã hội, phong tục, tập quán tốt đẹp của nhân dân; phát huy tinh thần đoàn kết, tương trợ, giúp đỡ lẫn nhau giữa các thành viên trong gia đình, dòng họ và cộng đồng dân cư; quan tâm đến quyền, lợi ích hợp pháp của trẻ em, phụ nữ, người khuyết tật và người cao tuổi.
 
 3\. Khách quan, công bằng, kịp thời, có lý, có tình; giữ bí mật thông tin đời tư của các bên, trừ trường hợp quy định tại khoản 4 và khoản 5 Điều 10 của Luật này.
 
@@ -94,19 +96,19 @@ Khuyến khích những người có uy tín trong gia đình, dòng họ, cộn
 
 #### Điều 6. Hỗ trợ kinh phí cho công tác hòa giải ở cơ sở
 
-1\. Nhà nước hỗ trợ kinh phí cho công tác hòa giải ở cơ sở để biên soạn, phát hành tài liệu; tổ chức bồi dưỡng, hướng dẫn nghiệp vụ, kỹ năng về hòa giải ở cơ sở;
-
-sơ kết, tổng kết, khen thưởng đối với công tác hòa giải ở cơ sở; chi thù lao cho hòa giải viên theo vụ, việc và hỗ trợ các chi phí cần thiết khác cho hoạt động hòa giải ở cơ sở.
+1\. Nhà nước hỗ trợ kinh phí cho công tác hòa giải ở cơ sở để biên soạn, phát hành tài liệu; tổ chức bồi dưỡng, hướng dẫn nghiệp vụ, kỹ năng về hòa giải ở cơ sở; sơ kết, tổng kết, khen thưởng đối với công tác hòa giải ở cơ sở; chi thù lao cho hòa giải viên theo vụ, việc và hỗ trợ các chi phí cần thiết khác cho hoạt động hòa giải ở cơ sở.
 
 Ngân sách trung ương chi bổ sung cho các địa phương chưa tự cân đối được ngân sách để hỗ trợ kinh phí cho công tác hòa giải ở cơ sở.
 
 2\. Chính phủ quy định chi tiết Điều này.
 
-## Chương II HÒA GIẢI VIÊN, TỔ HÒA GIẢI
+## Chương II. HÒA GIẢI VIÊN, TỔ HÒA GIẢI
 
-### Mục 1 HÒA GIẢI VIÊN
+### Mục 1. HÒA GIẢI VIÊN
 
-#### Điều 7. Tiêu chuẩn hòa giải viên Người được bầu làm hòa giải viên phải là công dân Việt Nam thường trú tại cơ sở, tự nguyện tham gia hoạt động hòa giải và có các tiêu chuẩn sau đây:
+#### Điều 7. Tiêu chuẩn hòa giải viên
+
+Người được bầu làm hòa giải viên phải là công dân Việt Nam thường trú tại cơ sở, tự nguyện tham gia hoạt động hòa giải và có các tiêu chuẩn sau đây:
 
 1\. Có phẩm chất đạo đức tốt; có uy tín trong cộng đồng dân cư;
 
@@ -132,9 +134,7 @@ c) Trường hợp số người được bầu không đủ để thành lập 
 
 d) Trưởng ban công tác Mặt trận lập danh sách người được đề nghị công nhận là hòa giải viên gửi Chủ tịch Ủy ban nhân dân cấp xã.
 
-4\. Chủ tịch Ủy ban nhân dân cấp xã ra quyết định công nhận hòa giải viên.
-
-Quyết định công nhận hòa giải viên được gửi cho Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã, Trưởng ban công tác Mặt trận, trưởng thôn, tổ trưởng tổ dân phố, hòa giải viên và thông báo công khai ở thôn, tổ dân phố.
+4\. Chủ tịch Ủy ban nhân dân cấp xã ra quyết định công nhận hòa giải viên. Quyết định công nhận hòa giải viên được gửi cho Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã, Trưởng ban công tác Mặt trận, trưởng thôn, tổ trưởng tổ dân phố, hòa giải viên và thông báo công khai ở thôn, tổ dân phố.
 
 #### Điều 9. Quyền của hòa giải viên
 
@@ -188,7 +188,7 @@ Trường hợp thôi làm hòa giải viên đối với tổ trưởng tổ h�
 
 3\. Quyết định thôi làm hòa giải viên được gửi Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã, Trưởng ban công tác Mặt trận, trưởng thôn, tổ trưởng tổ dân phố, hòa giải viên và thông báo công khai ở thôn, tổ dân phố.
 
-### Mục 2 TỔ HÒA GIẢI
+### Mục 2. TỔ HÒA GIẢI
 
 #### Điều 12. Tổ hòa giải
 
@@ -232,9 +232,11 @@ Trường hợp thôi làm hòa giải viên đối với tổ trưởng tổ h�
 
 7\. Có các quyền, nghĩa vụ của hòa giải viên quy định tại Điều 9 và Điều 10 của Luật này.
 
-## Chương III HOẠT ĐỘNG HÒA GIẢI Ở CƠ SỞ
+## Chương III. HOẠT ĐỘNG HÒA GIẢI Ở CƠ SỞ
 
-#### Điều 16. Căn cứ tiến hành hòa giải Hòa giải ở cơ sở được tiến hành khi có một trong các căn cứ sau đây:
+#### Điều 16. Căn cứ tiến hành hòa giải
+
+Hòa giải ở cơ sở được tiến hành khi có một trong các căn cứ sau đây:
 
 1\. Một bên hoặc các bên yêu cầu hòa giải;
 
@@ -282,9 +284,7 @@ Trường hợp thôi làm hòa giải viên đối với tổ trưởng tổ h�
 
 #### Điều 21. Tiến hành hòa giải
 
-1\. Hòa giải được tiến hành trực tiếp, bằng lời nói với sự có mặt của các bên.
-
-Trong trường hợp các bên có người khuyết tật thì có sự hỗ trợ phù hợp để có thể tham gia hòa giải.
+1\. Hòa giải được tiến hành trực tiếp, bằng lời nói với sự có mặt của các bên. Trong trường hợp các bên có người khuyết tật thì có sự hỗ trợ phù hợp để có thể tham gia hòa giải.
 
 2\. Hòa giải được tiến hành công khai hoặc không công khai theo ý kiến thống nhất của các bên.
 
@@ -296,7 +296,9 @@ Trong trường hợp không đạt được thỏa thuận, hòa giải viên h
 
 Trường hợp các bên đồng ý thì lập văn bản hòa giải thành theo quy định tại khoản 2 Điều 24 của Luật này.
 
-#### Điều 22. Hòa giải giữa các bên ở thôn, tổ dân phố khác nhau Trường hợp các bên ở thôn, tổ dân phố khác nhau thì tổ hòa giải ở thôn, tổ dân phố đó phối hợp thực hiện việc hòa giải và thông báo với Trưởng ban công tác Mặt trận tại nơi đó cùng phối hợp thực hiện.
+#### Điều 22. Hòa giải giữa các bên ở thôn, tổ dân phố khác nhau
+
+Trường hợp các bên ở thôn, tổ dân phố khác nhau thì tổ hòa giải ở thôn, tổ dân phố đó phối hợp thực hiện việc hòa giải và thông báo với Trưởng ban công tác Mặt trận tại nơi đó cùng phối hợp thực hiện.
 
 #### Điều 23. Kết thúc hòa giải
 
@@ -334,13 +336,15 @@ h) Chữ ký hoặc điểm chỉ của các bên và của hòa giải viên.
 
 2\. Trong quá trình thực hiện thỏa thuận hòa giải thành, nếu một bên vì sự kiện bất khả kháng không thể thực hiện được thì có trách nhiệm trao đổi, thỏa thuận với bên kia và thông báo cho hòa giải viên.
 
-#### Điều 26. Theo dõi, đôn đốc việc thực hiện thỏa thuận hòa giải thành Hòa giải viên có trách nhiệm theo dõi, đôn đốc việc thực hiện thỏa thuận hòa giải thành do mình trực tiếp giải quyết; kịp thời thông báo cho tổ trưởng tổ hòa giải để báo cáo Trưởng ban công tác Mặt trận những vấn đề phát sinh trong quá trình theo dõi, đôn đốc thực hiện.
+#### Điều 26. Theo dõi, đôn đốc việc thực hiện thỏa thuận hòa giải thành
 
-#### Điều 27. Hòa giải không thành Hòa giải không thành là trường hợp các bên không đạt được thỏa thuận.
+Hòa giải viên có trách nhiệm theo dõi, đôn đốc việc thực hiện thỏa thuận hòa giải thành do mình trực tiếp giải quyết; kịp thời thông báo cho tổ trưởng tổ hòa giải để báo cáo Trưởng ban công tác Mặt trận những vấn đề phát sinh trong quá trình theo dõi, đôn đốc thực hiện.
 
-Trong trường hợp này, các bên có quyền yêu cầu tiếp tục hòa giải hoặc yêu cầu cơ quan, tổ chức có thẩm quyền giải quyết theo quy định của pháp luật.
+#### Điều 27. Hòa giải không thành
 
-## Chương IV TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC TRONG HOẠT ĐỘNG HÒA GIẢI Ở CƠ SỞ
+Hòa giải không thành là trường hợp các bên không đạt được thỏa thuận. Trong trường hợp này, các bên có quyền yêu cầu tiếp tục hòa giải hoặc yêu cầu cơ quan, tổ chức có thẩm quyền giải quyết theo quy định của pháp luật.
+
+## Chương IV. TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC TRONG HOẠT ĐỘNG HÒA GIẢI Ở CƠ SỞ
 
 #### Điều 28. Trách nhiệm quản lý nhà nước về hòa giải ở cơ sở
 
@@ -378,9 +382,11 @@ c) Báo cáo Hội đồng nhân dân cùng cấp, Ủy ban nhân dân cấp huy
 
 2\. Các tổ chức thành viên của Mặt trận trong phạm vi chức năng, nhiệm vụ của mình có trách nhiệm thực hiện hoạt động hòa giải ở cơ sở theo quy định của pháp luật.
 
-## Chương V ĐIỀU KHOẢN THI HÀNH
+## Chương V. ĐIỀU KHOẢN THI HÀNH
 
-#### Điều 31. Quy định chuyển tiếp Kể từ ngày Luật này có hiệu lực, các tổ hòa giải, tổ viên tổ hòa giải được thành lập, công nhận theo Pháp lệnh về tổ chức và hoạt động hòa giải ở cơ sở được tiếp tục hoạt động mà không phải làm thủ tục công nhận lại theo quy định của Luật này.
+#### Điều 31. Quy định chuyển tiếp
+
+Kể từ ngày Luật này có hiệu lực, các tổ hòa giải, tổ viên tổ hòa giải được thành lập, công nhận theo Pháp lệnh về tổ chức và hoạt động hòa giải ở cơ sở được tiếp tục hoạt động mà không phải làm thủ tục công nhận lại theo quy định của Luật này.
 
 #### Điều 32. Hiệu lực thi hành
 
@@ -388,7 +394,9 @@ c) Báo cáo Hội đồng nhân dân cùng cấp, Ủy ban nhân dân cấp huy
 
 2\. Pháp lệnh về tổ chức và hoạt động hòa giải ở cơ sở hết hiệu lực kể từ ngày Luật này có hiệu lực.
 
-#### Điều 33. Quy định chi tiết và hướng dẫn thi hành Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật.
+#### Điều 33. Quy định chi tiết và hướng dẫn thi hành
+
+Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật.
 
 Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 5 thông qua ngày 20 tháng 6 năm 2013./.
 

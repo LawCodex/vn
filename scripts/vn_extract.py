@@ -180,6 +180,11 @@ def from_pdf_bytes(data):
     lines = []
     for pg in pages:
         pl = pg.split("\n")
+        # digital-signature stamp printed on the first page
+        if any(x.strip().startswith("Thời gian ký") for x in pl[:12]):
+            k = max(i for i, x in enumerate(pl[:12]) if x.strip().startswith("Thời gian ký"))
+            pl = pl[k + 1:]
+        pl = [x for x in pl if not re.match(r"^\s*(Ký bởi:|Email:\s*\S+@chinhphu|Cơ quan:\s*Văn phòng Chính phủ)", x)]
         # drop running headers ("CÔNG BÁO/Số 993 + 994/Ngày 26-12-2019") and bare page numbers
         cleaned = []
         for i, ln in enumerate(pl):
@@ -190,30 +195,44 @@ def from_pdf_bytes(data):
                           or re.match(r"^Số\s*[\d+ ]+/?\s*Ngày", s)):
                 continue
             cleaned.append(ln)
-        while cleaned and re.match(r"^\s*\d{1,4}\s*$", cleaned[-1] or ""):
+        while cleaned and re.match(r"^\s*\d{0,4}\s*$", cleaned[-1] or ""):
             cleaned.pop()
+        while cleaned and not cleaned[0].strip():
+            cleaned.pop(0)
         lines += cleaned
-    # join wrapped lines into paragraphs: a new paragraph starts after an empty line or
-    # when a line starts with a structural marker.
+    # join wrapped lines into paragraphs: a line much shorter than the typical full line
+    # ends a paragraph; structural markers (Điều/Chương/1./a)) always start one.
+    lens = sorted(len(x.strip()) for x in lines if len(x.strip()) > 20)
+    full = lens[int(len(lens) * 0.8)] if lens else 80
     blocks = []
     cur = ""
     start_re = re.compile(r"^(Điều\s+\d+|Chương\s+[IVXLC\d]+|Mục\s+\d+|Phần\s+thứ|"
                           r"PHẦN\s+THỨ|CHƯƠNG\s+[IVXLC\d]+|MỤC\s+\d+|\d+\.\s|[a-zđ]\)\s|[-–+]\s)")
+    prev_short = True
     for ln in lines:
-        s = ln.strip()
-        if not s:
+        s2 = ln.strip()
+        if not s2:
             if cur:
                 blocks.append(("p", cur))
                 cur = ""
+            prev_short = True
             continue
-        if cur and (start_re.match(s) or cur.endswith((".", ":", ";"))):
+        if cur and (start_re.match(s2) or prev_short):
             blocks.append(("p", cur))
-            cur = s
+            cur = s2
         else:
-            cur = (cur + " " + s) if cur else s
+            cur = (cur + " " + s2) if cur else s2
+        prev_short = len(s2) < 0.75 * full or (start_re.match(s2) and s2.startswith(("Điều", "Chương", "CHƯƠNG", "Mục", "MỤC", "Phần", "PHẦN")) and len(s2) < 0.9 * full)
     if cur:
         blocks.append(("p", cur))
-    return blocks, {}
+    # re-join paragraphs split by a page break in mid-sentence
+    merged = []
+    for t, v in blocks:
+        if merged and v[:1].islower() and not merged[-1][1].endswith((".", ":", ";", "!", "?", "”", "\"")):
+            merged[-1] = ("p", merged[-1][1] + " " + v)
+        else:
+            merged.append((t, v))
+    return merged, {}
 
 
 def extract(data, ext):

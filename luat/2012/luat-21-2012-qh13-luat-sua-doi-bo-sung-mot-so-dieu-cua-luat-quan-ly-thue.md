@@ -20,17 +20,21 @@ retrieved: '2026-10-12'
 
 # Luật Sửa đổi, bổ sung một số điều của Luật Quản lý thuế số 21/2012/QH13
 
-3
+QUỐC HỘI
 
-QUỐC HỘI QUỐC HỘI
+QUỐC HỘI
 
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
 
 Luật số: 21/2012/QH13
 
-LUẬT Sửa đổi, bổ sung một số điều của Luật Quản lý thuế Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 51/2001/QH10;
+LUẬT
 
-Quốc hội ban hành Luật Sửa đổi, bổ sung một số điều của Luật Quản lý thuế số 78/2006/QH11.
+Sửa đổi, bổ sung một số điều của Luật Quản lý thuế
+
+Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 51/2001/QH10; Quốc hội ban hành Luật Sửa đổi, bổ sung một số điều của Luật Quản lý thuế số 78/2006/QH11.
 
 ## Điều 1.
 
@@ -60,9 +64,7 @@ d) Tuân thủ pháp luật về kế toán, thống kê;
 
 2\. Bổ sung các khoản 10, 11 và 12 vào Điều 5 như sau:
 
-“10. Quản lý rủi ro trong quản lý thuế là việc áp dụng có hệ thống các quy định pháp luật, các quy trình nghiệp vụ để xác định, đánh giá và phân loại các rủi ro có thể
-
-tác động tiêu cực đến hiệu quả, hiệu lực quản lý thuế, làm cơ sở để cơ quan quản lý thuế phân bổ nguồn lực hợp lý, áp dụng các biện pháp quản lý hiệu quả.
+“10. Quản lý rủi ro trong quản lý thuế là việc áp dụng có hệ thống các quy định pháp luật, các quy trình nghiệp vụ để xác định, đánh giá và phân loại các rủi ro có thể tác động tiêu cực đến hiệu quả, hiệu lực quản lý thuế, làm cơ sở để cơ quan quản lý thuế phân bổ nguồn lực hợp lý, áp dụng các biện pháp quản lý hiệu quả.
 
 11\. Thỏa thuận trước về phương pháp xác định giá tính thuế là thỏa thuận bằng văn bản giữa cơ quan thuế với người nộp thuế hoặc giữa cơ quan thuế với người nộp thuế và cơ quan thuế các nước, vùng lãnh thổ mà Việt Nam đã ký Hiệp định tránh đánh thuế hai lần và ngăn ngừa việc trốn lậu thuế đối với thuế thu nhập cho một thời hạn nhất định, trong đó xác định cụ thể các căn cứ tính thuế, phương pháp xác định giá tính thuế hoặc giá tính thuế theo giá thị trường. Thỏa thuận trước về phương pháp xác định giá tính thuế được xác lập trước khi người nộp thuế nộp hồ sơ khai thuế.
 
@@ -106,11 +108,11 @@ b) Bảng kê hóa đơn hàng hóa, dịch vụ bán ra (nếu có);
 
 c) Bảng kê hóa đơn hàng hóa, dịch vụ mua vào (nếu có);
 
-d) Tài liệu khác có liên quan đến số thuế phải nộp.” “6. Chính phủ quy định loại thuế khai theo tháng, khai theo quý, khai theo năm, khai tạm tính theo quý, khai theo từng lần phát sinh nghĩa vụ thuế, khai quyết toán thuế; tiêu chí xác định người nộp thuế để khai thuế theo quý và hồ sơ khai thuế đối với từng trường hợp cụ thể.”
+d) Tài liệu khác có liên quan đến số thuế phải nộp.”
 
-9\. Các khoản 1, 2 , 3 và 6 Điều 32 được sửa đổi, bổ sung như sau:
+“6. Chính phủ quy định loại thuế khai theo tháng, khai theo quý, khai theo năm, khai tạm tính theo quý, khai theo từng lần phát sinh nghĩa vụ thuế, khai quyết toán thuế; tiêu chí xác định người nộp thuế để khai thuế theo quý và hồ sơ khai thuế đối với từng trường hợp cụ thể.”
 
-“1. Đối với loại thuế khai theo tháng, theo quý:
+9\. Các khoản 1, 2 , 3 và 6 Điều 32 được sửa đổi, bổ sung như sau: “1. Đối với loại thuế khai theo tháng, theo quý:
 
 a) Chậm nhất là ngày thứ hai mươi của tháng tiếp theo tháng phát sinh nghĩa vụ thuế đối với trường hợp khai và nộp theo tháng;
 
@@ -136,13 +138,11 @@ b) Trường hợp nộp hồ sơ khai thuế theo cơ chế một cửa liên t
 
 c) Địa điểm nộp hồ sơ khai thuế đối với hàng hóa xuất khẩu, nhập khẩu thực hiện theo quy định của Luật Hải quan;
 
-d) Chính phủ quy định địa điểm nộp hồ sơ khai thuế đối với các trường hợp:
+d) Chính phủ quy định địa điểm nộp hồ sơ khai thuế đối với các trường hợp: người nộp thuế có nhiều hoạt động sản xuất, kinh doanh; người nộp thuế thực hiện hoạt động sản xuất, kinh doanh ở nhiều địa bàn; người nộp thuế có phát sinh nghĩa vụ thuế đối với các loại thuế khai và nộp theo từng lần phát sinh; người nộp thuế có phát sinh nghĩa vụ thuế đối với các khoản thu từ đất đai; người nộp thuế thực hiện khai thuế thông qua giao dịch điện tử và các trường hợp cần thiết khác.”
 
-người nộp thuế có nhiều hoạt động sản xuất, kinh doanh; người nộp thuế thực hiện hoạt động sản xuất, kinh doanh ở nhiều địa bàn; người nộp thuế có phát sinh nghĩa vụ thuế đối với các loại thuế khai và nộp theo từng lần phát sinh; người nộp thuế có phát sinh nghĩa vụ thuế đối với các khoản thu từ đất đai; người nộp thuế thực hiện khai thuế thông qua giao dịch điện tử và các trường hợp cần thiết khác.”
+10\. Khoản 2 và khoản 4 Điều 33 được sửa đổi, bổ sung như sau: “2. Thời gian gia hạn không quá ba mươi ngày đối với việc nộp hồ sơ khai thuế tháng, khai thuế quý, khai thuế năm, khai thuế tạm tính, khai thuế theo từng lần phát sinh nghĩa vụ thuế; sáu mươi ngày đối với việc nộp hồ sơ khai quyết toán thuế, kể từ ngày hết thời hạn phải nộp hồ sơ khai thuế.”
 
-10\. Khoản 2 và khoản 4 Điều 33 được sửa đổi, bổ sung như sau:
-
-“2. Thời gian gia hạn không quá ba mươi ngày đối với việc nộp hồ sơ khai thuế tháng, khai thuế quý, khai thuế năm, khai thuế tạm tính, khai thuế theo từng lần phát sinh nghĩa vụ thuế; sáu mươi ngày đối với việc nộp hồ sơ khai quyết toán thuế, kể từ ngày hết thời hạn phải nộp hồ sơ khai thuế.” “4. Trong thời hạn ba ngày làm việc, kể từ ngày nhận được văn bản đề nghị gia hạn nộp hồ sơ khai thuế, cơ quan thuế phải trả lời bằng văn bản cho người nộp thuế về việc chấp nhận hay không chấp nhận việc gia hạn nộp hồ sơ khai thuế.”
+“4. Trong thời hạn ba ngày làm việc, kể từ ngày nhận được văn bản đề nghị gia hạn nộp hồ sơ khai thuế, cơ quan thuế phải trả lời bằng văn bản cho người nộp thuế về việc chấp nhận hay không chấp nhận việc gia hạn nộp hồ sơ khai thuế.”
 
 11\. Điều 42 được sửa đổi, bổ sung như sau:
 
@@ -164,9 +164,7 @@ a) Hàng hóa là nguyên liệu, vật tư nhập khẩu để sản xuất hà
 
 \- Tuân thủ pháp luật về kế toán, thống kê;
 
-\- Thực hiện thanh toán qua ngân hàng theo quy định của pháp luật.
-
-Trường hợp không đáp ứng các điều kiện nêu trên nhưng được tổ chức tín dụng bảo lãnh số thuế phải nộp thì thời hạn nộp thuế theo thời hạn bảo lãnh, nhưng không quá hai trăm bảy mươi lăm ngày, kể từ ngày đăng ký tờ khai hải quan và không phải nộp tiền chậm nộp trong thời hạn bảo lãnh.
+\- Thực hiện thanh toán qua ngân hàng theo quy định của pháp luật. Trường hợp không đáp ứng các điều kiện nêu trên nhưng được tổ chức tín dụng bảo lãnh số thuế phải nộp thì thời hạn nộp thuế theo thời hạn bảo lãnh, nhưng không quá hai trăm bảy mươi lăm ngày, kể từ ngày đăng ký tờ khai hải quan và không phải nộp tiền chậm nộp trong thời hạn bảo lãnh.
 
 Trường hợp không đáp ứng các điều kiện nêu trên hoặc không được tổ chức tín dụng bảo lãnh thì phải nộp thuế trước khi được thông quan hoặc giải phóng hàng hóa;
 
@@ -344,9 +342,7 @@ b) Các trường hợp kiểm tra sau thông quan, bao gồm kiểm tra theo k�
 
 Khi kiểm tra sau thông quan nếu phát hiện có dấu hiệu trốn thuế, gian lận thuế thì Cục trưởng Cục kiểm tra sau thông quan, Cục trưởng Cục hải quan, Chi cục trưởng Chi cục kiểm tra sau thông quan có thẩm quyền quyết định áp dụng các biện pháp quy định tại Mục 4 Chương X của Luật này;
 
-c) Các trường hợp xác định đối tượng kiểm tra theo tiêu chí đánh giá rủi ro về thuế qua phân tích, đánh giá việc chấp hành pháp luật của người nộp thuế;
-
-kiểm tra đối với trường hợp có phát sinh dấu hiệu vi phạm pháp luật và các trường hợp được lựa chọn theo kế hoạch, chuyên đề kiểm tra do thủ trưởng cơ quan quản lý thuế cấp trên quyết định. Đối với các trường hợp nêu tại điểm này, cơ quan quản lý thuế thực hiện kiểm tra tại trụ sở người nộp thuế không quá một lần trong một năm.
+c) Các trường hợp xác định đối tượng kiểm tra theo tiêu chí đánh giá rủi ro về thuế qua phân tích, đánh giá việc chấp hành pháp luật của người nộp thuế; kiểm tra đối với trường hợp có phát sinh dấu hiệu vi phạm pháp luật và các trường hợp được lựa chọn theo kế hoạch, chuyên đề kiểm tra do thủ trưởng cơ quan quản lý thuế cấp trên quyết định. Đối với các trường hợp nêu tại điểm này, cơ quan quản lý thuế thực hiện kiểm tra tại trụ sở người nộp thuế không quá một lần trong một năm.
 
 2\. Quyết định kiểm tra thuế phải được gửi cho người nộp thuế trong thời hạn ba ngày làm việc, kể từ ngày ký. Trong thời hạn năm ngày làm việc, kể từ ngày nhận được quyết định kiểm tra thuế mà người nộp thuế chứng minh được số thuế đã khai là đúng hoặc nộp đủ số tiền thuế phải nộp thì cơ quan quản lý thuế bãi bỏ quyết định kiểm tra thuế.
 
@@ -358,9 +354,7 @@ b) Đối chiếu nội dung khai báo với sổ kế toán, chứng từ kế 
 
 c) Thời hạn kiểm tra thuế không quá năm ngày làm việc, kể từ ngày công bố quyết định kiểm tra; trường hợp kiểm tra theo kế hoạch đối với hàng hóa xuất khẩu, nhập khẩu thì thời hạn không quá mười lăm ngày;
 
-d) Trong trường hợp cần thiết, quyết định kiểm tra thuế được gia hạn một lần;
-
-thời gian gia hạn không quá thời hạn quy định tại điểm c khoản này;
+d) Trong trường hợp cần thiết, quyết định kiểm tra thuế được gia hạn một lần; thời gian gia hạn không quá thời hạn quy định tại điểm c khoản này;
 
 đ) Lập biên bản kiểm tra thuế trong thời hạn năm ngày làm việc, kể từ ngày hết thời hạn kiểm tra;
 
@@ -372,13 +366,9 @@ e) Xử lý theo thẩm quyền hoặc chuyển cấp có thẩm quyền xử l�
 
 Chính phủ quy định chi tiết khoản này.”
 
-26\. Sửa đổi, bổ sung khoản 1 Điều 93; bổ sung khoản 3 vào Điều 93 như sau:
+26\. Sửa đổi, bổ sung khoản 1 Điều 93; bổ sung khoản 3 vào Điều 93 như sau: “1. Các biện pháp cưỡng chế thi hành quyết định hành chính thuế bao gồm:
 
-“1. Các biện pháp cưỡng chế thi hành quyết định hành chính thuế bao gồm:
-
-a) Trích tiền từ tài khoản của đối tượng bị cưỡng chế thi hành quyết định hành chính thuế tại Kho bạc Nhà nước, ngân hàng thương mại, tổ chức tín dụng khác;
-
-yêu cầu phong tỏa tài khoản;
+a) Trích tiền từ tài khoản của đối tượng bị cưỡng chế thi hành quyết định hành chính thuế tại Kho bạc Nhà nước, ngân hàng thương mại, tổ chức tín dụng khác; yêu cầu phong tỏa tài khoản;
 
 b) Khấu trừ một phần tiền lương hoặc thu nhập;
 
@@ -442,9 +432,7 @@ b) Hàng hóa xuất khẩu, nhập khẩu phục vụ trực tiếp an ninh, qu
 
 Đối với hàng hóa xuất khẩu, nhập khẩu, nếu người nộp thuế khai bổ sung trong thời hạn sáu mươi ngày, kể từ ngày đăng ký tờ khai hải quan theo quy định tại điểm b khoản 2 điều 34 của Luật này và chủ động nộp số tiền thuế còn thiếu vào ngân sách nhà nước thì phải nộp tiền chậm nộp tính trên số tiền thuế thiếu theo quy định tại Điều này, nhưng không bị xử phạt vi phạm thủ tục hành chính thuế, thiếu thuế, trốn thuế.
 
-3\. Người nộp thuế tự xác định số tiền chậm nộp căn cứ vào số tiền thuế chậm nộp, số ngày chậm nộp và mức tiền chậm nộp theo quy định tại khoản 1 Điều này.
-
-Trường hợp người nộp thuế không tự xác định hoặc xác định không đúng số tiền chậm nộp thì cơ quan quản lý thuế xác định số tiền chậm nộp và thông báo cho người nộp thuế biết.
+3\. Người nộp thuế tự xác định số tiền chậm nộp căn cứ vào số tiền thuế chậm nộp, số ngày chậm nộp và mức tiền chậm nộp theo quy định tại khoản 1 Điều này. Trường hợp người nộp thuế không tự xác định hoặc xác định không đúng số tiền chậm nộp thì cơ quan quản lý thuế xác định số tiền chậm nộp và thông báo cho người nộp thuế biết.
 
 4\. Trường hợp sau ba mươi ngày, kể từ ngày hết thời hạn nộp thuế, người nộp thuế chưa nộp tiền thuế và tiền chậm nộp thì cơ quan quản lý thuế thông báo cho người nộp thuế biết số tiền thuế nợ và tiền chậm nộp.
 
@@ -462,9 +450,9 @@ a) Phạt 10% số tiền thuế khai thiếu, số tiền thuế được miễ
 
 b) Phạt 20% số tiền thuế khai thiếu, số tiền thuế được miễn, giảm, hoàn cao hơn đối với trường hợp không thuộc quy định tại điểm a khoản này.”
 
-34\. Khoản 6 và khoản 9 Điều 108 được sửa đổi, bổ sung như sau:
+34\. Khoản 6 và khoản 9 Điều 108 được sửa đổi, bổ sung như sau: “6. Khai sai với thực tế hàng hóa xuất khẩu, nhập khẩu mà không khai bổ sung hồ sơ khai thuế sau khi hàng hóa đã được thông quan;”
 
-“6. Khai sai với thực tế hàng hóa xuất khẩu, nhập khẩu mà không khai bổ sung hồ sơ khai thuế sau khi hàng hóa đã được thông quan;” “9. Sử dụng hàng hóa thuộc đối tượng không chịu thuế, miễn thuế, xét miễn thuế không đúng mục đích quy định mà không khai báo việc chuyển đổi mục đích sử dụng với cơ quan quản lý thuế.”
+“9. Sử dụng hàng hóa thuộc đối tượng không chịu thuế, miễn thuế, xét miễn thuế không đúng mục đích quy định mà không khai báo việc chuyển đổi mục đích sử dụng với cơ quan quản lý thuế.”
 
 35\. Điều 110 được sửa đổi, bổ sung như sau:
 
